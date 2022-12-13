@@ -1,0 +1,90 @@
+﻿{
+  "connectionStrings": {
+    "IzdanieReserveConnectionString": "Data Source=.;Initial Catalog=Izdanie; Integrated Security = true;connection timeout = 30;",
+    "AutoReportsReserveConnectionString": "Data Source=.;Initial Catalog=AutoReports; Integrated Security = true; connection timeout = 30;",
+    "AutoReportsConnectionString": "Data Source=182.5.202.220; Initial Catalog=AutoReports;Persist Security Info=True;User ID=phobos; Password=iksar; connection timeout = 30;",
+    "IzdanieConnectionString": "Data Source=182.5.202.220;Initial Catalog=Izdanie; Persist Security Info=True; User ID=phobos; Password=iksar; connection timeout = 30;",
+    "PAKConnectionString": "Data Source=182.5.202.16;Initial Catalog=clean; Persist Security Info=True; User ID=gadmin; Password=Sa1Sa2Sa3!; connection timeout = 30;"
+  },
+  "paths": {
+    "MedoNotificationPath": "\\\\182.5.202.16\\Out",
+    "PAKFolder": "\\\\182.5.202.16\\CompleteInDocuments",
+    "SystemaNotificationsFolder": "\\\\172.22.13.101\\Atlas\\FromPortal",
+    "SystemaMJFolder": "\\\\172.22.13.101\\atlas\\Region\\FederalActs",
+    "SystemaAtlasFolder": "\\\\172.22.13.101\\atlas",
+    "IzdanieMedoFolder": "\\\\182.5.202.220\\Medo",
+    "IzdanieDocumentsFolder": "\\\\182.5.202.220\\IzdanieDocs"
+  },
+  "accessData": {
+    "PAKAccess": {
+      "Login": "PUBLIKACYA\\Администратор",
+      "Password": "1QAZ2WSX3edc4rfv"
+    },
+    "SystemaAccess": {
+      "Login": "STC\\german",
+      "Password": "salta"
+    },
+    "IzdanieAccess": {
+      "Login": "IZ-OPER\\Adm2",
+      "Password": "1YuaZRkdt"
+    },
+    "ReserveServerAccess": {
+      "Login": "IZ-OPER2\\Adm1",
+      "Password": "62cH4LKc"
+    }
+  },
+  "notificationService": {
+    "RefreshTime": 120
+  },
+  "registrationService": {
+    "RefreshTime": 120
+  },
+  "recognitionDictionary": {
+    "Items": [
+      {
+        "from": "[\r\n]+",
+        "to": " "
+      },
+      {
+        "from": "[ ]{2,}",
+        "to": " "
+      },
+      {
+        "from": "\\sн\\s",
+        "to": " и "
+      },
+      {
+        "from": "»",
+        "to": "\""
+      },
+      {
+        "from": "«",
+        "to": "\""
+      },
+      {
+        "from": "››",
+        "to": "\""
+      },
+      {
+        "from": "\\s(Ле|Ля|ЛЬ|М|К|Мг|Ка|Не|Ме):?\\s",
+        "to": " № "
+      },
+      {
+        "from": "\\Sии\\S",
+        "to": "ни"
+      },
+      {
+        "from": "'",
+        "to": ""
+      },
+      {
+        "from": "`",
+        "to": ""
+      },
+      {
+        "from": "([ ]-|-[ ])",
+        "to": "-"
+      }
+    ]
+  }
+}

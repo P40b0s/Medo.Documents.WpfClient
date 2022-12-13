@@ -1,0 +1,210 @@
+﻿<UserControl
+        x:Class="Medo.Modules.TabViewModule.Views.ViewTabViewModule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:mainList="clr-namespace:Medo.Modules.TabViewModule.Styles"
+        xmlns:collections="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+        xmlns:globalCommands="clr-namespace:Medo.Client.GlobalCommands;assembly=Medo.Client.GlobalCommands"
+        xmlns:notifications="clr-namespace:Medo.Client.Notifications.Views;assembly=Medo.Client.Notifications"
+        prism:ViewModelLocator.AutoWireViewModel="True">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Converters.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/TabItemsHeaders.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MenuItemsHeadersTemplate.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Menu HorizontalAlignment="Left">
+            <MenuItem Header="Инструменты">
+
+                <MenuItem Style="{StaticResource UpdateDocumentsFromBaseHeaderStyle}"
+                          ToolTip="Обновление документов&#x0a;за текущий перод из базы"
+                          Command="{Binding UpdateDocumentsForIntervalCommand}">
+
+                </MenuItem>
+                <Separator/>
+                <MenuItem Style="{StaticResource UpdateCenterMenuHeaderStyle}" 
+                          Command="{x:Static globalCommands:Commands.ClientUpdateCenterWindowIsOpenCommand}" 
+                          ToolTip="Центр обновлений &#x0a;Зеленый - нет обновлений &#x0a;Красный - есть обновления">
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <Button HorizontalAlignment="Right" Command="{x:Static globalCommands:Commands.PdfViewerIsVisibleCommand}">
+            <Image Source="{StaticResource FileTypePdfIcon}" Width="40"/>
+        </Button>
+
+
+
+
+        <metro:MetroTabControl Grid.Row="1">
+            <metro:MetroTabItem Header="{Binding Source={x:Static collections:StaticCollections.MainCollection}, Path=ActiveFilters.FilteredItemsCount, Mode=OneWay}" HeaderStringFormat="Документы ({0})">
+                <mainList:MainListViewStyle Grid.Row="0"/>
+            </metro:MetroTabItem>
+
+
+
+            <!--<metro:MetroTabItem Header="{Binding Path=(collections:StaticCollections.DoublesCollectionCount), Mode=OneWay}"
+                                HeaderStringFormat="Дубли ({0})"
+                                Visibility="{Binding Path=(collections:StaticCollections.DoublesIsVisible), Converter={StaticResource BoolToVisibilityConverter}, Mode=TwoWay}"
+                                Selector.IsSelected="{Binding Path=(collections:StaticCollections.DoublesIsVisible), Mode=TwoWay}">
+                <StackPanel>
+                    <mainList:DublesListViewStyle/>
+                </StackPanel>
+            </metro:MetroTabItem>-->
+
+            <metro:MetroTabItem HeaderTemplate="{StaticResource DocumentsUploaderHeaderTemplate}">
+                <ContentControl  prism:RegionManager.RegionName="DocumentsUploaderRegion" HorizontalAlignment="Left"/>
+            </metro:MetroTabItem>
+
+            <metro:MetroTabItem Header="Отправка уведомлений">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <ContentControl prism:RegionManager.RegionName="ReportsListRegion" Grid.Column="0"/>
+                    <ContentControl prism:RegionManager.RegionName="ReportsSenderRegion" Grid.Column="1"/>
+                </Grid>
+
+            </metro:MetroTabItem>
+
+        </metro:MetroTabControl>
+    </Grid>
+
+    <!--Region REQUESTS-->
+
+    <i:Interaction.Triggers>
+        <!--Реквест удаления документа в список невидимых-->
+        <prism:InteractionRequestTrigger SourceObject="{Binding DocumentDeleteRequest ,Mode=OneWay}">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="True">
+                <prism:PopupWindowAction.WindowStyle>
+                    <Style TargetType="Window">
+                        <Setter Property="SizeToContent" Value="WidthAndHeight"/>
+                        <Setter Property="WindowStyle" Value="None"/>
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                        <Setter Property="ShowInTaskbar" Value="False"/>
+                        <Setter Property="AllowsTransparency" Value="True"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                    </Style>
+                </prism:PopupWindowAction.WindowStyle>
+                <prism:PopupWindowAction.WindowContent>
+                    <notifications:DeleteDocumentRequestView/>
+                </prism:PopupWindowAction.WindowContent>
+            </prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+
+        <!--Реквест замены документа (копирование на флешку - взамен разосланного)-->
+        <prism:InteractionRequestTrigger SourceObject="{Binding DocumentChangeRequest ,Mode=OneWay}">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="True">
+                <prism:PopupWindowAction.WindowStyle>
+                    <Style TargetType="Window">
+                        <Setter Property="SizeToContent" Value="WidthAndHeight"/>
+                        <Setter Property="WindowStyle" Value="None"/>
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                        <Setter Property="ShowInTaskbar" Value="False"/>
+                        <Setter Property="AllowsTransparency" Value="True"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                    </Style>
+                </prism:PopupWindowAction.WindowStyle>
+                <prism:PopupWindowAction.WindowContent>
+                    <notifications:ChangeDocumentRequestView/>
+                </prism:PopupWindowAction.WindowContent>
+            </prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+
+        <!--Реквест с окном центра обновлений-->
+        <prism:InteractionRequestTrigger SourceObject="{Binding UpdateCenterRequest ,Mode=OneWay}">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="True">
+                <prism:PopupWindowAction.WindowStyle>
+                    <Style TargetType="Window">
+                        <Setter Property="SizeToContent" Value="WidthAndHeight"/>
+                        <Setter Property="WindowStyle" Value="None"/>
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                        <Setter Property="ShowInTaskbar" Value="False"/>
+                        <Setter Property="AllowsTransparency" Value="True"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                    </Style>
+                </prism:PopupWindowAction.WindowStyle>
+                <prism:PopupWindowAction.WindowContent>
+                    <notifications:ClientUpdaterRequestView/>
+                </prism:PopupWindowAction.WindowContent>
+            </prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+        <!--Реквест с окном редактора карточки документа-->
+        <prism:InteractionRequestTrigger SourceObject="{Binding CardEditorRequest ,Mode=OneWay}">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="False">
+                <prism:PopupWindowAction.WindowStyle>
+                    <Style TargetType="Window">
+                        <Setter Property="SizeToContent" Value="WidthAndHeight"/>
+                        <Setter Property="WindowStyle" Value="None"/>
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                        <Setter Property="ShowInTaskbar" Value="False"/>
+                        <Setter Property="AllowsTransparency" Value="True"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                    </Style>
+                </prism:PopupWindowAction.WindowStyle>
+                <prism:PopupWindowAction.WindowContent>
+                    <notifications:CardEditorRequestView/>
+                </prism:PopupWindowAction.WindowContent>
+            </prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+
+        <!--Реквест с выбором периодов дат для обновления из базы-->
+        <prism:InteractionRequestTrigger SourceObject="{Binding UpdateDocumentsForIntervalRequest ,Mode=OneWay}">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="False">
+                <prism:PopupWindowAction.WindowStyle>
+                    <Style TargetType="Window">
+                        <Setter Property="SizeToContent" Value="WidthAndHeight"/>
+                        <Setter Property="WindowStyle" Value="None"/>
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                        <Setter Property="ShowInTaskbar" Value="False"/>
+                        <Setter Property="AllowsTransparency" Value="True"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                    </Style>
+                </prism:PopupWindowAction.WindowStyle>
+                <prism:PopupWindowAction.WindowContent>
+                    <notifications:UpdateDocumentsForIntervalRequestView/>
+                </prism:PopupWindowAction.WindowContent>
+            </prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+
+        <!--Реквест конвертирования документа-->
+        <prism:InteractionRequestTrigger SourceObject="{Binding DocumentConvertRequest ,Mode=OneWay}">
+            <prism:PopupWindowAction CenterOverAssociatedObject="True" IsModal="True">
+                <prism:PopupWindowAction.WindowStyle>
+                    <Style TargetType="Window">
+                        <Setter Property="SizeToContent" Value="WidthAndHeight"/>
+                        <Setter Property="WindowStyle" Value="None"/>
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                        <Setter Property="ShowInTaskbar" Value="False"/>
+                        <Setter Property="AllowsTransparency" Value="True"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                    </Style>
+                </prism:PopupWindowAction.WindowStyle>
+                <prism:PopupWindowAction.WindowContent>
+                    <notifications:PdfConvertRequestView/>
+                </prism:PopupWindowAction.WindowContent>
+            </prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+
+    </i:Interaction.Triggers>
+    <!--EndRegion REQUESTS-->
+
+</UserControl>

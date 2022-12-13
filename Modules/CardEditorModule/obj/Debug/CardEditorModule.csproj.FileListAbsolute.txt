@@ -1,0 +1,168 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\CardEditorModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\CardEditorModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\Views\ViewCardEditorModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\Views\ViewCardEditorModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\Resources\Colors.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\SelectBox.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\SelectBox.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\TextEditor.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\LevenshteinAutomaton.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\TextEditor.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\LevenshteinAutomaton.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\obj\Debug\Templates\Animations.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\CardEditorModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\CardEditorModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\LevenshteinAutomaton.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\SelectBox.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\TextEditor.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\LevenshteinAutomaton.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\SelectBox.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\TextEditor.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\Templates\Animations.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\Resources\Colors.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\Views\ViewCardEditorModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\Views\ViewCardEditorModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\CardEditorModule\obj\Debug\CardEditorModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\CardEditorModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\CardEditorModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\LevenshteinAutomaton.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\SelectBox.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\TextEditor.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\LevenshteinAutomaton.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\SelectBox.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\TextEditor.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\Templates\Animations.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\Resources\Colors.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\Views\ViewCardEditorModule.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\Views\ViewCardEditorModule.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\obj\Debug\CardEditorModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\CardEditorModule\bin\Debug\Newtonsoft.Json.xml

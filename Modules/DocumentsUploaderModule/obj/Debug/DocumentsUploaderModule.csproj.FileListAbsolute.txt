@@ -1,0 +1,135 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\DocumentsUploaderModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\DocumentsUploaderModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\Templates\Template.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\Views\ViewDocumentsUploaderModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\Views\ViewDocumentsUploaderModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\obj\Debug\Templates\Colors.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\medo2.5xsd\medo2.5-simpleTypes.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\medo2.7xsd\medo2.7.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\DocumentsUploaderModule\bin\Debug\medo2.5xsd\Medo2.5.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\medo2.5xsd\medo2.5-simpleTypes.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\medo2.7xsd\medo2.7.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\medo2.5xsd\Medo2.5.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\DocumentsUploaderModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\DocumentsUploaderModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.dll.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\Templates\Colors.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\Views\ViewDocumentsUploaderModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\Views\ViewDocumentsUploaderModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\Templates\Template.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\Templates\Colors.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\Views\ViewDocumentsUploaderModule.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\Views\ViewDocumentsUploaderModule.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\medo2.5xsd\medo2.5-simpleTypes.xsd
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\medo2.7xsd\medo2.7.xsd
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\medo2.5xsd\Medo2.5.xsd
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\DocumentsUploaderModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\DocumentsUploaderModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\XmlCardCreator.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\Templates\Template.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\obj\Debug\DocumentsUploaderModule.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\DocumentsUploaderModule\bin\Debug\Newtonsoft.Json.xml

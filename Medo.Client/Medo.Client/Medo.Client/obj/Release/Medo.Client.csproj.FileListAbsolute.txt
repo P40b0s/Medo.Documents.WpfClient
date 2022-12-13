@@ -1,0 +1,20 @@
+X:\МЭДО\Medo.Client.exe.config
+X:\МЭДО\VersionHistory
+X:\МЭДО\Medo.Client.exe.manifest
+X:\МЭДО\Medo.Client.application
+X:\МЭДО\Medo.Client.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Resources\ShellDictionary.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Views\Shell.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client_Content.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\App.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Views\Shell.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.exe.manifest
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.application
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\obj\Release\Medo.Client.exe

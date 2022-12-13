@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+   
+  
+
+    <ImageSource x:Key="AddBlockIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/add.png</ImageSource>
+    <ImageSource x:Key="DeleteBlockIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/delete.png</ImageSource>
+    <ImageSource x:Key="SelectBlockIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/selection.png</ImageSource>
+    <ImageSource x:Key="OpenFileIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/go_up.png</ImageSource>
+</ResourceDictionary>

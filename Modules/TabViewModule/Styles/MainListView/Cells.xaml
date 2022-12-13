@@ -1,0 +1,449 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:vm="clr-namespace:Medo.Modules.TabViewModule.ViewModels"
+             xmlns:globalCommands="clr-namespace:Medo.Client.GlobalCommands;assembly=Medo.Client.GlobalCommands"
+             xmlns:collection="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+             xmlns:prism="http://prismlibrary.com/">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/CellsIcons.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Colors.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/ToolTipsTemplate.xaml"/>
+        
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Converters.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Converters.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/ErrorsValidation/ErrorsTemplate.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/SystemValues.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+   
+
+    <!--Иконка документа, кнопка выбора и кнопка дубля-->
+    <DataTemplate x:Key="ImageCellTemplate">
+        <Grid x:Name="grid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="80*"/>
+                <RowDefinition Height="15"/>
+            </Grid.RowDefinitions>
+
+            <!--Панель дополнительной информации о документе-->
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <!--Просмотр статусов документов в издании, уведомлений и регистрации документов в СЭДе-->
+                <Grid ToolTipService.ShowDuration="30000">
+                    <Grid.ToolTip>
+                        <ToolTip Style="{StaticResource NotificationStatusToolTipStyle}"/>
+                    </Grid.ToolTip>
+                    <Image x:Name="notificationImg" Width="25"  Source="{StaticResource DocLoadedIcon}"/>
+                </Grid>
+               
+                <!--Просмотр контактной информации о принявшем органе-->
+                <Grid  ToolTipService.ShowDuration="30000"
+                      Margin="2,0,0,0">
+                    <Grid.ToolTip>
+                        <ToolTip Style="{StaticResource ContactsToolTipStyle}"/>
+                    </Grid.ToolTip>
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="MouseEnter">
+                            <prism:InvokeCommandAction Command="{x:Static globalCommands:Commands.GetOrganContactsCommand}" CommandParameter="{Binding SourceGuid}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                    <Image Source="{StaticResource InfoIcon}" Width="25"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Margin="0 2 0 0" Orientation="Horizontal">
+                <!--Документ был отложен на определенную дату-->
+                <Grid ToolTipService.ShowDuration="30000">
+                    <Grid.ToolTip>
+                        <ToolTip Style="{StaticResource DefferedOpenToolTipStyle}"/>
+                    </Grid.ToolTip>
+                    <Image Source="{StaticResource DefferedDataIcon}" Width="25"/>
+                    <TextBlock Text="{Binding DefferedOpen, StringFormat=\{0:dd\}}" 
+                           Panel.ZIndex="1"
+                           FontSize="18"
+                           FontWeight="Bold"
+                           Foreground="Red"
+                           Margin="0 2 0 0"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+                    <Grid.Style>
+                        <Style TargetType="{x:Type Grid}">
+                            <Setter Property="OverridesDefaultStyle" Value="True"/>
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding DefferedOpen, Converter={StaticResource defferedConverter}}" Value="true">
+                                    <Setter  Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Grid.Style>
+                </Grid>
+                <!--просмотр статусов дубликата документа-->
+                <Grid Margin="2,0,0,0">
+                    <Grid.ToolTip>
+                        <ToolTip Style="{StaticResource DoublesStyleToolTipTemplate}"/>
+                    </Grid.ToolTip>
+                    <Image Source="{StaticResource DoubleStatusIcon}" Width="25"/>
+                    <Grid.Style>
+                        <Style TargetType="{x:Type Grid}">
+                            <Setter Property="OverridesDefaultStyle" Value="True"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding DoubleIdentification}" Value="{x:Null}">
+                                    <Setter  Property="Visibility" Value="Collapsed"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Grid.Style>
+                </Grid>
+            </StackPanel>
+
+            <!--Кнопка с иконкой для выделения документа-->
+            <StackPanel Orientation="Vertical"
+                        Grid.Row="2">
+                <Button x:Name="selectButton"
+                        Command="{x:Static globalCommands:Commands.IsSelectedDocumentCommand}" 
+                        CommandParameter="{Binding ElementName=grid, Path=DataContext.HeaderGuid}">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                            <Setter Property="IsEnabled" Value="False"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="00000000-0000-0000-0000-000000000000">
+                                    <Setter Property="IsEnabled" Value="True"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Grid>
+                        <Image Source="{Binding SourceGuid, Converter={StaticResource BytesToBitmapImageConverter}}"
+                           VerticalAlignment="Center"
+                           MaxWidth="89"
+                           MaxHeight="89"
+                           HorizontalAlignment="Center"/>
+                        <Popup x:Name="searchpopup"
+                                           Opacity="0"
+                                           IsOpen="False"
+                                           Placement="Right"
+                                           PlacementTarget="{Binding ElementName=selectButton}"
+                                           AllowsTransparency="True">
+                            <Border BorderBrush="#FF9EE637" BorderThickness="1">
+                                <StackPanel Orientation="Vertical"  Margin="1" x:Name="buttonsStack">
+                                    <!--Обновление документа из базы-->
+                                    <Button  
+                                             Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.UpdateCurrentDocumentFromBaseCommand}" 
+                                             CommandParameter="{Binding ElementName=grid, Path=DataContext}"
+                                             ToolTip="Обновление документа напрямую из базы"
+                                             HorizontalAlignment="Left">
+                                        <Image Source="{StaticResource MedoClientRefreshGreenIcon}" Width="30"/>
+                                    </Button>
+
+                                    <!--Заменить документ-->
+                                    <Button Margin="0 2 0 0"
+                                            ToolTip="Заменить документ (Документ копируется на флеш-носитель и в директорию НТЦ Система)"
+                                            Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.ChangeDocumentCommand}" 
+                                            CommandParameter="{Binding ElementName=grid, Path=DataContext}">
+                                        <Image Source="{StaticResource MedoClientChangeIcon}" Width="30"/>
+                                    </Button>
+
+                                    <!--Удалить документ-->
+                                    <Button Margin="0 2 0 0"
+                                            Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.DeleteDocumentCommand}" 
+                                            CommandParameter="{Binding ElementName=grid, Path=DataContext}">
+                                        <Image Width="30">
+                                            <Image.Style>
+                                                <Style TargetType="{x:Type Image}">
+                                                    <Setter Property="Source" Value="{StaticResource MedoClientVisibilityIIcon}"/>
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsInvisible}" Value="true">
+                                                            <Setter Property="Source" Value="{StaticResource MedoClientVisibilityVIcon}"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </Image.Style>
+                                        </Image>
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Setter Property="ToolTip" Value="Удалить документ из списка (документ можно будет просмотреть в списке удаленных)"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsInvisible}" Value="true">
+                                                        <Setter Property="ToolTip" Value="Восстановить документ из удаленных (Документ будет виден в общем списке)"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+
+                                    <Button  
+                                             Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.DocumentConvertRequestCommand}" 
+                                             CommandParameter="{Binding ElementName=grid, Path=DataContext}"
+                                             ToolTip="Конвертирование выбранного документа"
+                                             HorizontalAlignment="Left">
+                                        <Image Source="{StaticResource ConvertPdfIcon}" Width="30"/>
+                                    </Button>
+
+                                    <!--Дубликаты документа-->
+                                    <Button  Margin="0 2 0 0"
+                                             ToolTip="Простмотр дубликатов документа"
+                                             Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.ViewDoublesCommand}" 
+                                             CommandParameter="{Binding ElementName=grid, Path=DataContext}">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsDouble}" Value="false">
+                                                        <Setter Property="Visibility" Value="Collapsed"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDublicationIcon}" Width="30"/>
+                                    </Button>
+                                </StackPanel>
+                            </Border>
+                        </Popup>
+                    </Grid>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <ObjectAnimationUsingKeyFrames Storyboard.TargetName="searchpopup" Storyboard.TargetProperty="IsOpen">
+                                        <DiscreteObjectKeyFrame KeyTime="00:00:01" Value="{StaticResource TrueKey}"/>
+                                    </ObjectAnimationUsingKeyFrames>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <ObjectAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="searchpopup" Storyboard.TargetProperty="IsOpen">
+                                        <DiscreteObjectKeyFrame KeyTime="00:00:00.2" Value="{StaticResource FalseKey}"/>
+                                    </ObjectAnimationUsingKeyFrames>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+
+            </StackPanel>
+            <!--Сколько осталось дней до конца срока опубликования-->
+            <TextBlock Grid.Row="3" Text="{Binding daysLeft.DaysLeftCount}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="14" Panel.ZIndex="2">
+                <TextBlock.Style>
+                    <Style TargetType="{x:Type TextBlock}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding daysLeft.Visibility}" Value="false">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+            <metro:MetroProgressBar
+                                    Height="15"
+                                    Width="89"
+                                    Maximum="{Binding daysLeft.Total}"
+                                    Value="{Binding daysLeft.DaysLeftDouble}"
+                                    Foreground="{StaticResource PublicationComplieteColor}"
+                                    Background="#59FF0000"
+                                    Grid.Row="3">
+                <!--<metro:MetroProgressBar.LayoutTransform>
+                    <RotateTransform Angle="270"/>
+                </metro:MetroProgressBar.LayoutTransform>-->
+                <ToolTipService.ToolTip>
+                    <TextBlock Text="{Binding daysLeft.DaysLeftString}"/>
+                </ToolTipService.ToolTip>
+                <metro:MetroProgressBar.Style>
+                    <Style TargetType="{x:Type metro:MetroProgressBar}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding daysLeft.Visibility}" Value="false">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </metro:MetroProgressBar.Style>
+            </metro:MetroProgressBar>
+        </Grid>
+
+        <DataTemplate.Triggers>
+            <DataTrigger  Binding="{Binding NotificationStatus}" Value="2">
+                <Setter TargetName="notificationImg"  Property="Source" Value="{StaticResource NotificationOkIcon}"/>
+            </DataTrigger>
+            <DataTrigger  Binding="{Binding NotificationStatus}" Value="0">
+                <Setter TargetName="notificationImg"  Property="Source" Value="{StaticResource NotificationErrorIcon}"/>
+            </DataTrigger>
+            <DataTrigger  Binding="{Binding NotificationStatus}" Value="4">
+                <Setter TargetName="notificationImg"  Property="Source" Value="{StaticResource NotificationWarningIcon}"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="00000000-0000-0000-0000-000000000000">
+                <Setter TargetName="notificationImg"  Property="Source" Value="{StaticResource DocLoadedIcon}"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="F134FAFA-D99F-455E-A404-E2E238F12824">
+                <Setter TargetName="notificationImg" Property="Source" Value="{StaticResource AdminCheckedIcon}"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="01D0C481-3C42-467A-85DA-9258E8CEB65B">
+                <Setter TargetName="notificationImg" Property="Source" Value="{StaticResource DocUploadTo3ServerIcon}"/>
+            </DataTrigger>
+        </DataTemplate.Triggers>
+    </DataTemplate>
+    <!--Принявший орган-->
+    <DataTemplate x:Key="OrganNameCellTemplate">
+        <TextBlock Text="{Binding OrganName}"
+                   TextWrapping="Wrap"
+                   HorizontalAlignment="Center"
+                   TextAlignment="Justify"
+                   FontSize="16"
+                   Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"/>
+    </DataTemplate>
+    <!--Вид документа-->
+    <DataTemplate x:Key="ActTypeCellTemplate">
+        <TextBlock Text="{Binding ActType}"
+                   TextWrapping="Wrap"
+                   HorizontalAlignment="Center"
+                   TextAlignment="Justify"
+                   FontSize="16"
+                   Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"/>
+    </DataTemplate>
+    <!--Номер документа на паке, измененный в редакторе и номер минюста-->
+    <DataTemplate x:Key="NumberCellTemplate">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock x:Name="pak" Text="{Binding DocumentNumber, StringFormat=ПАК: \{0\}}" Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"  FontSize="16"/>
+            <TextBlock x:Name="izd" Text="{Binding ChangedNumber, StringFormat=ИЗД: \{0\}}" Margin="0,3,0,0" Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"  FontSize="16"/>
+            <TextBlock x:Name="mj" Text="{Binding MJNumber, StringFormat=МЮ: \{0\}}" HorizontalAlignment="Left" Margin="0,3,0,0" Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"  FontSize="16"/>
+        </StackPanel>
+        <DataTemplate.Triggers>
+            <DataTrigger Binding="{Binding MJNumber}" Value="{x:Null}">
+                <Setter TargetName="mj"  Property="Visibility" Value="Hidden"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ChangedNumber}" Value="{x:Null}">
+                <Setter TargetName="izd"  Property="Visibility" Value="Hidden"/>
+            </DataTrigger>
+        </DataTemplate.Triggers>
+    </DataTemplate>
+    <!--Дата подписания, дата регистрации в минюсте-->
+    <DataTemplate x:Key="SignDateCellTemplate">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding SignDate, StringFormat={}{0:dd.MM.yyyy}}" Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"  FontSize="16"/>
+            <TextBlock x:Name="datetext" Text="{Binding MJDate, StringFormat={}{0:dd.MM.yyyy}}" Margin="0,20,0,0" Validation.ErrorTemplate="{StaticResource SampleValidationTemplate}"  FontSize="16">
+            </TextBlock>
+        </StackPanel>
+        <!--<DataTemplate.Triggers>
+            <DataTrigger Binding="{Binding MJDate.HasValue}" Value="true">
+                <Setter TargetName="datetext"  Property="Visibility" Value="Visible"/>
+            </DataTrigger>
+        </DataTemplate.Triggers>-->
+    </DataTemplate>
+    <!--Наименование документа-->
+    <DataTemplate x:Key="NameCellTemplate">
+        <Grid Width="355" x:Name="txtgrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="80*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="{Binding DocumentText}" TextWrapping="Wrap"
+                       Grid.Row="1"
+                       HorizontalAlignment="Stretch"
+                       MinHeight="60"
+                       FontSize="14"
+                       ScrollViewer.CanContentScroll="True"
+                       ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+            <StackPanel Orientation="Vertical" Grid.Row="2" x:Name="comment">
+                <Rectangle Stroke="#FF3A55FF" Margin="0,4,0,0"/>
+                <TextBlock  Text="{Binding Comments}"
+                            TextWrapping="Wrap" 
+                            HorizontalAlignment="Stretch"
+                            TextAlignment="Justify"
+                            Background="#FF9DDBFF" 
+                            FontSize="15"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Comments}" Value="{x:Null}">
+                                <Setter Property="Visibility" Value="Hidden"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+            <Grid  x:Name="buttons" Grid.Row="0" Height="40">
+                <Button Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.ReturnActNameCommand}" 
+                        ToolTip="Восстановить наименование"
+                        CommandParameter="{Binding HeaderGuid}"
+                        Width="25"
+                        Height="25"
+                        HorizontalAlignment="Right"
+                        Margin="0,0,30,0">
+                    <Image Source="{StaticResource Document_UpdateIcon}" Width="25" HorizontalAlignment="Left"/>
+                </Button>
+
+                <Button Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ListView}}, Path=DataContext.ChangeActNameCommand}"
+                        ToolTip="Очистить наименование"
+                        CommandParameter="{x:Null}"
+                        Width="25"
+                        Height="25"
+                        HorizontalAlignment="Right">
+                    <Image Source="{StaticResource MedoClientClearIcon}"/>
+                </Button>
+            </Grid>
+        </Grid>
+        <DataTemplate.Triggers>
+            <DataTrigger Binding="{Binding Path=IsSelected, RelativeSource={RelativeSource AncestorType={x:Type ListViewItem}}}" Value="false">
+                <Setter Property="Visibility" TargetName="buttons" Value="Hidden"/>
+            </DataTrigger>
+        </DataTemplate.Triggers>
+    </DataTemplate>
+    <!--Количество страниц-->
+    <DataTemplate x:Key="PagesCellTemplate">
+        <TextBlock Text="{Binding PagesCount}" HorizontalAlignment="Center" TextAlignment="Center"  FontSize="16"/>
+    </DataTemplate>
+    <!--Дата поступления документа на ПАК-->
+    <DataTemplate x:Key="DeliveryTimeCellTemplate">
+        <TextBlock Text="{Binding DeliveryTime, StringFormat=\{0:dd.MM.yyyy - HH:mm\}}"
+                   TextAlignment="Center"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   FontSize="16"/>
+    </DataTemplate>
+    <!--Номер опубликования, отправленные уведомления, регистрация в СЭДе-->
+    <DataTemplate x:Key="EoNumberCellTemplate">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding EoNumber}" TextAlignment="Center" VerticalAlignment="Center" Margin="5,0,0,0"  FontSize="16">
+                <!--добавить visiviliti при отсуствующем номере и цвет отправки уведомления?-->
+                <TextBlock.ToolTip>
+                    <StackPanel>
+                        <TextBlock Text="{Binding NotificationSendDate, StringFormat=Отчет отправлен: \{0:dd.MM.yyyy - HH:mm\}}"/>
+                    </StackPanel>
+                </TextBlock.ToolTip>
+			</TextBlock>
+            <!--<Image Height="25" Width="25"  Source="{Binding SedRegistrationDate, Converter={StaticResource OkOrCancelImages_Key}}"  Visibility="{Binding EoNumber, Converter={StaticResource AutoReportsVisiblty_Key}}">
+                <Image.ToolTip>
+                    <ToolTip Content="{Binding SedRegistrationDate}" ContentStringFormat="В СЭДе зарегистрировано: {0:dd.MM.yyyy - HH:mm}"/>
+                </Image.ToolTip>
+            </Image>-->
+        </StackPanel>
+    </DataTemplate>
+    <!--Дата опубликования-->
+    <DataTemplate x:Key="PublDateCellTemplate">
+        <TextBlock x:Name="datetext"
+                   Text="{Binding PublDatePortal, StringFormat=\{0:dd.MM.yyyy - HH:mm\}}"
+                   TextAlignment="Center"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                    FontSize="16">
+        </TextBlock>
+        <DataTemplate.Triggers>
+            <DataTrigger Binding="{Binding PublDatePortal.HasValue}" Value="true">
+                <Setter TargetName="datetext"  Property="Visibility" Value="Visible"/>
+            </DataTrigger>
+        </DataTemplate.Triggers>
+    </DataTemplate>
+
+</ResourceDictionary>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xdms="http://www.infpres.com/IEDMS"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           attributeFormDefault="qualified"
+           elementFormDefault="qualified"
+           targetNamespace="http://www.infpres.com/IEDMS"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:include schemaLocation="medo2.5-simpleTypes.xsd"/>
+
+  <xs:element name="communication">
+    <xs:complexType>
+      <xs:sequence>     
+        <xs:element name="header" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="source" minOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="organization" type="xs:string" minOccurs="1"/>
+                    <xs:element name="complexOrgans" minOccurs="0" type="xdms:organsComplexType"/>
+                  </xs:sequence>
+                  <xs:attribute ref="xdms:uid" use="required"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="operator" type="xs:string" minOccurs="0"/>
+              <xs:element name="comment" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+            <xs:attribute ref="xdms:type" use="required"/>
+            <xs:attribute ref="xdms:uid" use="required"/>
+            <xs:attribute ref="xdms:created" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:choice minOccurs="1" maxOccurs="1">
+          <xs:element name="notification" type="xdms:Notification" minOccurs="1"/>
+          <xs:element name="document" minOccurs="1">
+            <xs:complexType>
+              <xs:sequence>
+                <!--Регистрация в минюсте если есть-->
+                <xs:element name="mjregistration" minOccurs="0" type="xdms:MJnumberAndDateComplexType"/>
+                <!--Вид документа-->
+                <xs:element name="kind" type="xdms:GovAttributes"/>
+                <!--Номер и дата документа-->
+                <xs:element name="num" minOccurs="1" maxOccurs="1" type="xdms:numberAndDateComplexType"/>
+                <!--Гриф доступа к документу-->
+                <xs:element name="classification" type="xs:string" minOccurs="0"/>
+                <xs:element name="insteadOfDistributed" type="xs:string" minOccurs="0"/>
+                <!--срочность доставки-->
+                <xs:element name="urgency" type="xdms:GovAttributes" minOccurs="0"/>
+                <!--Кто подписал документ-->
+                <xs:element name="signatories" minOccurs="0" type="xdms:signerComplexType"/>
+                <!--Адресаты документа-->
+                <xs:element name="addressees" minOccurs="0" type="xdms:adressComplexType"/>
+                <!--Количество страниц-->
+                <xs:element name="pages" minOccurs="0" type="xs:unsignedShort"/>
+                <xs:element name="enclosuresPages" minOccurs="0" type="xs:unsignedShort"/>
+                <!--Аннотация к документу (обычно его название)-->
+                <xs:element name="annotation" type="xdms:text"/>
+                <!--Практически как подписавшее лицо + еще номер документа и еще фигня какая-то-->
+                <xs:element name="correspondents" minOccurs="0" type="xdms:correspondentComplexType"/>
+                <!--Исполнитель по документу в организации-->
+                <xs:element name="executor" minOccurs="0" type="xdms:executorComplexType">
+                </xs:element>
+              </xs:sequence>
+              <xs:attribute ref="xdms:uid" use="required"/>
+              <xs:attribute ref="xdms:id" use="optional"/>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+        <!--Файлы в приложении-->
+        <xs:element name="files" minOccurs="0" type="xdms:filesComplexType"/>
+      </xs:sequence>
+      <xs:attribute ref="xdms:version" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:attribute name="version" type="xs:decimal"/>
+  <xs:attribute name="type" type="xdms:string"/>
+  <xs:attribute name="uid" type="xdms:guidSimpleType"/>
+  <xs:attribute name="created" type="xdms:dateAndDateTimeType"/>
+  <xs:attribute name="id" type="xs:string"/>
+  <xs:attribute name="retro" type="xs:boolean"/>
+  <xs:attribute name="modified" type="xs:dateTime"/>
+  <xs:attribute name="localName" type="xs:string"/>
+  <xs:attribute name="localId" type="xs:string"/>
+
+  <!--Документ отклонен-->
+  <xs:complexType name="Notification">
+    <xs:sequence>
+      <xs:element name="documentRefused" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="time" type="xdms:dateAndDateTimeType"  minOccurs="1"/>
+            <xs:element name="foundation" type="xdms:foundationComplexType" minOccurs="1"/>
+            <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+            <xs:element name="reason" type="xs:string" minOccurs="1"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="documentAccepted" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="time" type="xdms:dateAndDateTimeType" minOccurs="1"/>
+            <xs:element name="foundation" type="xdms:foundationComplexType" minOccurs="1"/>
+            <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+            <xs:element name="reason" type="xs:string" minOccurs="0"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="documentPublished" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="time" type="xdms:dateAndDateTimeType" minOccurs="1"/>
+            <xs:element name="foundation" type="xdms:foundationComplexType" minOccurs="1"/>
+            <xs:element name="correspondent" minOccurs="0" type="xdms:correspondentSingleType"/>
+            <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+            <xs:element name="publicationPoint" type="xs:string" minOccurs="0"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="comment" type="xdms:text"/>
+    </xs:sequence>
+    <xs:attribute name="type" use="required" type="xdms:notificationTypeSimpleType"/>
+    <xs:attribute ref="xdms:uid" use="required"/>
+    <xs:attribute ref="xdms:id" use="optional"/>
+  </xs:complexType>
+
+  <!--Номер и дата-->
+  <xs:complexType name="numberAndDateComplexType">
+    <xs:sequence>
+      <xs:element name="number" type="xdms:string" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="date"  type="xdms:dateAndDateTimeType" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+   <!--Номер и дата минюста, к официальной схеме отношения не имеет-->
+  <xs:complexType name="MJnumberAndDateComplexType">
+    <xs:sequence>
+      <xs:element name="number" type="xdms:string" minOccurs="0" maxOccurs="1"/>
+      <xs:element name="date"  type="xdms:string" minOccurs="0" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+   <!--Если принявших органов больше 1 используем это поле, к официальной схеме отношения не имеет-->
+  <xs:complexType name="organsComplexType">
+    <xs:sequence>
+      <xs:element name="organs" minOccurs="0" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="organname" type="xs:string" minOccurs="0"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!--Атрибуты которые идут только от правительства-->
+  <xs:complexType name="GovAttributes">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute ref="xdms:id" use="optional"/>
+        <xs:attribute ref="xdms:retro" use="optional"/>
+        <xs:attribute ref="xdms:modified" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <!--Приложения (файлы)-->
+  <xs:complexType name="filesComplexType">
+    <xs:sequence>
+      <xs:element name="file" minOccurs="0" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="group" type="xs:string" minOccurs="0"/>
+            <xs:element name="description" type="xs:string" minOccurs="0"/>
+            <xs:element name="pages" type="xs:unsignedShort" minOccurs="0"/>
+            <xs:element name="SetterOpublicDate" type="xdms:string" minOccurs="0"/>
+
+          </xs:sequence>
+          <xs:attribute ref="xdms:localName" use="optional"/>
+          <xs:attribute ref="xdms:localId" use="optional"/>
+          <xs:attribute name="type" use="optional" type="xdms:string"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!--Foundation для уведомления-->
+  <xs:complexType name="foundationComplexType">
+    <xs:complexContent>
+      <xs:restriction base="xdms:abstractType">
+        <xs:sequence>
+          <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="contactInfo" type="xdms:string" minOccurs="0"/>
+          <xs:element name="signed" type="xdms:dateAndDateTimeType" minOccurs="0"/>
+          <xs:sequence>
+            <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+          </xs:sequence>
+          <xs:element name="comment" type="xdms:string" minOccurs="0"/>
+        </xs:sequence>
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+
+
+  <!--Исполнитель по документу-->
+  <xs:complexType name="executorComplexType">
+    <xs:complexContent>
+      <xs:restriction base="xdms:abstractType">
+        <xs:sequence>
+          <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="contactInfo" type="xdms:string" minOccurs="0"/>
+        </xs:sequence>
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+
+
+  <!--Кореспондент по документу (почти как подписант)-->
+  <xs:complexType name="correspondentComplexType">
+    <xs:sequence>
+      <xs:element name="correspondent" minOccurs="0" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:restriction base="xdms:abstractType">
+              <xs:sequence>
+                <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:sequence>
+                  <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+                </xs:sequence>
+              </xs:sequence>
+            </xs:restriction>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!--Кореспондент по документу (почти как подписант) не комплексный для уведомлений-->
+  <xs:complexType name="correspondentSingleType">
+    <xs:complexContent>
+      <xs:restriction base="xdms:abstractType">
+        <xs:sequence>
+          <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+          <xs:sequence>
+            <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+          </xs:sequence>
+        </xs:sequence>
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <!--Кто подписал документ-->
+  <xs:complexType name="signerComplexType">
+    <xs:sequence>
+      <xs:element name="signatory" minOccurs="0" maxOccurs="1">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:restriction base="xdms:abstractType">
+              <xs:sequence>
+                <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="contactInfo" type="xdms:string" minOccurs="0"/>
+                <xs:element name="signed" type="xdms:dateAndDateTimeType" minOccurs="0"/>
+                <xs:sequence>
+                  <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+                </xs:sequence>
+                <xs:element name="comment" type="xdms:string" minOccurs="0"/>
+              </xs:sequence>
+            </xs:restriction>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!--Адресаты рассылки-->
+  <xs:complexType name="adressComplexType">
+    <xs:sequence>
+      <xs:element name="addressee" minOccurs="0" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:complexContent>
+            <xs:restriction base="xdms:abstractType">
+              <xs:sequence>
+                <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+                <xs:element name="contactInfo" type="xdms:string" minOccurs="0"/>
+                <xs:element name="comment" type="xdms:string" minOccurs="0"/>
+              </xs:sequence>
+            </xs:restriction>
+          </xs:complexContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!--Абстрактный тип-->
+  <xs:complexType name="abstractType">
+    <xs:sequence>
+      <xs:element name="region" type="xdms:GovAttributes" minOccurs="0"/>
+      <xs:element name="organization" type="xdms:GovAttributes" minOccurs="0"/>
+      <xs:element name="person" type="xdms:GovAttributes" minOccurs="0"/>
+      <xs:element name="department" type="xdms:GovAttributes" minOccurs="0"/>
+      <xs:element name="post" type="xdms:GovAttributes" minOccurs="0"/>
+      <xs:element name="contactInfo" type="xdms:string" minOccurs="0"/>
+      <xs:element name="signed" type="xdms:dateAndDateTimeType" minOccurs="0"/>
+      <xs:sequence>
+        <xs:element name="num" minOccurs="0" type="xdms:numberAndDateComplexType"/>
+      </xs:sequence>
+      <xs:element name="comment" type="xdms:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+
+
+</xs:schema>
+

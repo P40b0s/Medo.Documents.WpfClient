@@ -1,0 +1,164 @@
+﻿<UserControl x:Class="Medo.Modules.TabViewModule.Styles.MainListViewStyle"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+             xmlns:collection="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+             xmlns:globalCommands="clr-namespace:Medo.Client.GlobalCommands;assembly=Medo.Client.GlobalCommands"
+             xmlns:prism="http://prismlibrary.com/">
+    
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Cells.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Headers.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/ListViewItem.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/ContextMenu.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid IsEnabled="{Binding ControlsIsEnabled, Mode=OneWay}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="870"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <!--<ListBox Grid.Row="0" 
+                 x:Name="activeFilterList"  
+                 HorizontalAlignment="Left" 
+                 ItemsSource="{Binding ActiveFilters, UpdateSourceTrigger=PropertyChanged, Mode=OneWay, NotifyOnSourceUpdated=True}" 
+                 VerticalAlignment="Bottom">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal" Height="28" HorizontalAlignment="Center"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" x:Name="item">
+                        <Button FontSize="18"
+                                VerticalAlignment="Center"
+                                Command="{Binding DataContext.RemoveFilterCommand, ElementName=activeFilterList}"
+                                CommandParameter="{Binding DataContext.FilterType, ElementName=item}">
+                            <TextBlock Text="{Binding FilterName}"/>
+                        </Button>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>-->
+
+
+        <ListView x:Name="lv" 
+                  Grid.Row="0" 
+                  Panel.ZIndex="5" 
+                  AllowDrop="True"
+                  SelectedItem="{Binding SelectedItem, Mode=TwoWay}" 
+                  Height="auto"
+                  ItemsSource="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=ActiveFilters.FilteredItems, Mode=OneWay}" 
+                  ItemContainerStyle="{StaticResource ListViewItemBackground}"
+                  ContextMenu="{StaticResource ListViewContextMenuTemplate}" 
+                  SelectionMode="Single"
+                  VerticalAlignment="Top" >
+
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <prism:InvokeCommandAction Command="{x:Static globalCommands:Commands.DocumentsEditorWindowIsOpenCommand}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn 
+                        Header="Герб" 
+                        Width="145" 
+                        HeaderContainerStyle="{StaticResource ListViewDocumentsCountStyle}" 
+                        CellTemplate="{StaticResource ImageCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Орган" 
+                        Width="250" 
+                        HeaderContainerStyle="{StaticResource ListViewOrganNameComboBoxHeaderStyle}" 
+                        CellTemplate="{StaticResource OrganNameCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Вид" 
+                        Width="150" 
+                        HeaderContainerStyle="{StaticResource ListViewActTypeComboBoxHeaderStyle}" 
+                        CellTemplate="{StaticResource ActTypeCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Номер" 
+                        Width="150" 
+                        HeaderContainerStyle="{StaticResource ListViewNumberTextBlockSearchHeaderStyle}" 
+                        CellTemplate="{StaticResource NumberCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Подписан" 
+                        Width="150" 
+                        HeaderContainerStyle="{StaticResource ListViewSignDateHeaderStyle}" 
+                        CellTemplate="{StaticResource SignDateCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Наименование" 
+                        Width="500" 
+                        HeaderContainerStyle="{StaticResource ListViewWithOutSortAndFilteringStyle}"                         
+                        CellTemplate="{StaticResource NameCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Стр." 
+                        Width="40" 
+                        HeaderContainerStyle="{StaticResource ListViewWithOutSortAndFilteringStyle}" 
+                        CellTemplate="{StaticResource PagesCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Поступил" 
+                        Width="150" 
+                        HeaderContainerStyle="{StaticResource ListViewDeliveryTimeHeaderStyle}" 
+                        CellTemplate="{StaticResource DeliveryTimeCellTemplate}"/>
+
+                    <GridViewColumn 
+                        Header="Номер &#x0a;опубликования"  
+                        HeaderContainerStyle="{StaticResource ListViewEoNumberTextBlockSearchHeaderStyle}" 
+                        CellTemplate="{StaticResource EoNumberCellTemplate}"/>
+
+                    <GridViewColumn                         
+                        Header="Дата &#x0a;опубликования" 
+                        HeaderContainerStyle="{StaticResource ListViewPublDateHeaderStyle}" 
+                        CellTemplate="{StaticResource PublDateCellTemplate}"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Grid.Row="1" HorizontalAlignment="Center" Command="{x:Static globalCommands:Commands.StartDocumentsUploadCommand}">
+            <Grid>
+                <Image Source="{StaticResource MedoClientUploadIcon}" Width="45" HorizontalAlignment="Left" Margin="135,0,0,0"/>
+                <TextBlock HorizontalAlignment="Center"
+                           Margin="0,0,0,0"
+                           VerticalAlignment="Center"
+                           Foreground="#FFFF4343"
+                           FontSize="25">
+                                <Run Text="Выгрузить " Foreground="Black"/>
+                                <Run Text="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=SelectedItemsCount, Mode=OneWay}"/>
+                                <Run Text=" документов в Издание" Foreground="Black"/>
+                </TextBlock>
+            </Grid>
+            <Button.Style>
+                <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                    <Setter Property="Visibility" Value="Visible"/>
+                    <Setter Property="IsEnabled" Value="True"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=SelectedItemsCount, Mode=OneWay}" Value="0">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding UploadDocumentsInProgress}" Value="true">
+                            <Setter Property="IsEnabled" Value="False"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+
+</UserControl>

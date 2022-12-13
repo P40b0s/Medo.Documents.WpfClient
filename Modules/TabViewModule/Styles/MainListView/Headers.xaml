@@ -1,0 +1,686 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:collection="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+             xmlns:filtersEnum="clr-namespace:Medo.Core.Enums;assembly=Medo.Core" 
+             xmlns:prism="http://prismlibrary.com/">
+
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/Icons.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Converters.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/SystemValues.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Colors.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+   
+    <!--Region DataStyles-->
+
+    <Style x:Key="ListViewSignDateHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border  HorizontalAlignment="Stretch">
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding SignDateFilteringActive}" Value="true">
+                                        <Setter Property="BorderBrush"  Value="{StaticResource SortButtonPressedColor}"/>
+                                        <Setter Property="BorderThickness" Value="4,4,4,0"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <DatePicker x:Name="data"
+                                            Grid.Column="0"
+                                            Background="Transparent"
+                                            FontSize="14"
+                                            SelectedDate="{Binding SignedDate, Mode=TwoWay}">
+                                </DatePicker>
+                                <Button Grid.Column="1" x:Name="clear"  Command="{Binding RemoveFilterCommand}" CommandParameter="{StaticResource SignedCancel}">
+                                    <Image Source="{StaticResource MedoClientCancelIcon}" Stretch="Fill"/>
+                                </Button>
+                            </Grid>
+
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter x:Name="content" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1" Width="20">
+
+                                    <Button  x:Name="up" Command="{Binding SignDateAscendingSortCommand}">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding SignDateAscendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"  Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientUpIcon}"/>
+                                    </Button>
+
+                                    <Button x:Name="down" Command="{Binding SignDateDescendingSortCommand}" Margin="0,2,0,0">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding SignDateDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"   Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+    <Style x:Key="ListViewDeliveryTimeHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}" >
+                    <Border>
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding DeliveryTimeFilteringActive}" Value="true">
+                                        <Setter Property="BorderBrush"  Value="{StaticResource SortButtonPressedColor}"/>
+                                        <Setter Property="BorderThickness" Value="4,4,4,0"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <Grid HorizontalAlignment="Stretch" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <DatePicker x:Name="data"
+                                            Grid.Column="0"
+                                            Background="Transparent"
+                                            FontSize="14"
+                                            SelectedDate="{Binding DeliveryDateTime, Mode=TwoWay}">
+                                    <!--<i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="SelectedDateChanged">
+                                            <i:InvokeCommandAction Command="{Binding DeliveryTimeFilteringCommand}" CommandParameter="{Binding ElementName=data}" />
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>-->
+                                </DatePicker>
+                                <Button Grid.Column="1"  Command="{Binding RemoveFilterCommand}" CommandParameter="{StaticResource DeliveryCancel}">
+                                    <Image Source="{StaticResource MedoClientCancelIcon}" Stretch="Fill"/>
+                                </Button>
+                            </Grid>
+
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter x:Name="content" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1"  Width="20">
+
+                                    <Button  x:Name="up" Command="{Binding DeliveryTimeAscendingSortCommand}">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding DeliveryTimeAscendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"   Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientUpIcon}" Stretch="Fill"/>
+                                    </Button>
+
+                                    <Button x:Name="down" Command="{Binding DeliveryTimeDescendingSortCommand}" Margin="0,2,0,0">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding DeliveryTimeDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"   Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+    <Style x:Key="ListViewPublDateHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Width" Value="150"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}" >
+                    <Border>
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding PublDateFilteringActive}" Value="true">
+                                        <Setter Property="BorderBrush"  Value="{StaticResource SortButtonPressedColor}"/>
+                                        <Setter Property="BorderThickness" Value="4,4,4,0"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <Grid HorizontalAlignment="Stretch" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <DatePicker x:Name="data"
+                                            Grid.Column="0"
+                                            Background="Transparent"
+                                            FontSize="14"
+                                            SelectedDate="{Binding PublicDateTime, Mode=TwoWay}">
+                                    <!--<i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="SelectedDateChanged">
+                                            <i:InvokeCommandAction Command="{Binding PublDatePortalFilteringCommand}" CommandParameter="{Binding ElementName=data}" />
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>-->
+                                </DatePicker>
+                                <Button Grid.Column="1"  Command="{Binding RemoveFilterCommand}" CommandParameter="{StaticResource EoDateCancel}">
+                                    <Image Source="{StaticResource MedoClientCancelIcon}" Stretch="Fill"/>
+                                </Button>
+                            </Grid>
+
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter x:Name="content" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1" Width="20">
+
+                                    <Button  x:Name="up" Command="{Binding PublDatePortalAscendingSortCommand}">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding PublDateAscendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"  Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientUpIcon}" Stretch="Fill"/>
+                                    </Button>
+
+                                    <Button x:Name="down" Command="{Binding PublDatePortalDescendingSortCommand}" Margin="0,2,0,0">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding PublDateDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"   Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+    <!--EndRegion-->
+
+    <!-- Region  Стили с поиском по текстбоксу -->
+    <Style x:Key="ListViewNumberTextBlockSearchHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border>
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding NumberFilteringActive}" Value="true">
+                                        <Setter Property="BorderBrush"  Value="{StaticResource SortButtonPressedColor}"/>
+                                        <Setter Property="BorderThickness" Value="4,4,4,0"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <TextBox x:Name="txt"  
+                                     metro:TextBoxHelper.ClearTextButton="True"
+                                     FontSize="14"
+                                     Text="{Binding Number, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                                
+                                <!--<i:Interaction.Triggers>
+                                    <i:EventTrigger EventName="TextChanged">
+                                        <i:InvokeCommandAction  Command="{Binding NumberTextChangedCommand}" CommandParameter="{Binding ElementName=txt, Path=Text}"/>
+                                    </i:EventTrigger>
+                                </i:Interaction.Triggers>-->
+                            </TextBox>
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1" Width="20">
+
+                                    <Button  x:Name="up"  Command="{Binding DocumentNumberAscendingSortCommand}" >
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding NumberAscendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background" Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientUpIcon}" Stretch="Fill"/>
+                                    </Button>
+
+                                    <Button x:Name="down"  Command="{Binding DocumentNumberDescendingSortCommand}" Margin="0,2,0,0">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding NumberDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background" Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+    <Style x:Key="ListViewEoNumberTextBlockSearchHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border>
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding EoNumberFilteringActive}" Value="true">
+                                        <Setter Property="BorderBrush"  Value="{StaticResource SortButtonPressedColor}"/>
+                                        <Setter Property="BorderThickness" Value="4,4,4,0"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <TextBox x:Name="txt"
+                                     metro:TextBoxHelper.ClearTextButton="True"
+                                     FontSize="14"
+                                     Text="{Binding DigitalEoNumber, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+                                <!--<i:Interaction.Triggers>
+                                    <i:EventTrigger EventName="TextChanged">
+                                        <i:InvokeCommandAction  Command="{Binding EoNumberTextChangedCommand}" CommandParameter="{Binding ElementName=txt, Path=Text}"/>
+                                    </i:EventTrigger>
+                                </i:Interaction.Triggers>-->
+                            </TextBox>
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1"  Width="20">
+
+                                    <Button x:Name="down"  Command="{Binding EoNumberDescendingSortCommand}" >
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding EoNumberDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"  Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+    <!-- EndRegion -->
+
+    <!-- Region Стили с поиском по комбобоксу -->
+    <Style x:Key="ListViewOrganNameComboBoxHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border>
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <ComboBox x:Name="combo" 
+                                      ItemsSource="{Binding OrgansList}"
+                                      SelectedItem="{Binding OrganSelectedItem, Mode=TwoWay}"
+                                      FontSize="14"
+                                      metro:TextBoxHelper.ClearTextButton="True"/>
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1"  Width="20">
+                                    <Button x:Name="down" Command="{Binding  OrganNameDescendingSortCommand}">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding OrganDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"  Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+    <Style x:Key="ListViewActTypeComboBoxHeaderStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border>
+                        <Border.Style>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="BorderThickness" Value="1,1,1,1"/>
+                                <Setter Property="BorderBrush" Value="#FF8F8F8F"/>
+                                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding ActTypeFilteringActive}" Value="true">
+                                        <Setter Property="BorderBrush"  Value="{StaticResource SortButtonPressedColor}"/>
+                                        <Setter Property="BorderThickness" Value="4,4,4,0"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2,0,2,0">
+                            <ComboBox x:Name="combo"
+                                      ItemsSource="{Binding ActTypeList}"
+                                      SelectedItem="{Binding ActSelectedItem, Mode=TwoWay}"
+                                      FontSize="14"
+                                      metro:TextBoxHelper.ClearTextButton="True">
+                                <i:Interaction.Triggers>
+                                    <i:EventTrigger EventName="DropDownOpened">
+                                        <prism:InvokeCommandAction  Command="{Binding ActTypeDropDownComboBoxCommand}"/>
+                                    </i:EventTrigger>
+                                    <!--<i:EventTrigger EventName="SelectionChanged">
+                                        <i:InvokeCommandAction  Command="{Binding ActTypeSelectionChangedComboBoxCommand}" CommandParameter="{Binding ElementName=combo, Path=SelectedItem}"/>
+                                    </i:EventTrigger>-->
+                                </i:Interaction.Triggers>
+                            </ComboBox>
+                            <Grid HorizontalAlignment="Stretch">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="20"/>
+                                </Grid.ColumnDefinitions>
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0"/>
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Grid.Column="1"  Width="20">
+
+                                    <Button x:Name="down" Command="{Binding  ActTypeDescendingSortCommand}">
+                                        <Button.Style>
+                                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding ActTypeDescendingSortButtonPressed}" Value="true">
+                                                        <Setter Property="Background"  Value="{StaticResource SortButtonPressedColor}"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                        <Image Source="{StaticResource MedoClientDownIcon}" Stretch="Fill"/>
+                                    </Button>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+
+
+    <!-- EndRegion -->
+
+    <!-- Region  Обычный стиль и стиль количества документов -->
+    <!--Стиль с отображением количества документов в списке-->
+    <Style x:Key="ListViewDocumentsCountStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}" >
+                    <Border BorderThickness="1" BorderBrush="#FF8F8F8F">
+                        <StackPanel Orientation="Vertical">
+                            <Button x:Name="filterButton" Command="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=StartFilteringCommand}" FontSize="16">
+                                <StackPanel Orientation="Horizontal" ToolTip="Начать поиск документов в списке по выбранным параметрам">
+                                    <Image Source="{StaticResource MedoClientSearchIcon}" Height="20"/>
+                                    <TextBlock VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               Margin="3,0,0,0"
+                                               TextAlignment="Center">
+                                        <Run Text="Фильтр"/>
+                                         <Run Text="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=ActiveFilters.ActiveFiltersCount, Mode=OneWay}" ToolTip="Количество добавленных фильтров"  Foreground="{StaticResource AddedFilterColor}"/>
+                                         <Run Text="/"/>
+                                         <Run Text="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=ActiveFilters.ActiveRulesCount, Mode=OneWay}" ToolTip="Количество активных фильтров"  Foreground="{StaticResource ActiveFilterColor}"/>
+                                    </TextBlock>
+                                    <Popup x:Name="searchpopup"
+                                           Opacity="0"
+                                           IsOpen="False"
+                                           Placement="Bottom"
+                                           PlacementTarget="{Binding ElementName=filterButton}">
+                                        <Border BorderBrush="#FF9EE637" BorderThickness="1">
+                                            <StackPanel Orientation="Vertical" Background="White" Margin="1" >
+                                                <CheckBox Content="Неопубликованные"
+                                                          FontSize="16"
+                                                          IsChecked="{Binding RelativeSource={RelativeSource AncestorType={x:Type ListView}}, Path=DataContext.NotOpublicDocsIsVisible, Mode=TwoWay}"/>
+                                                <CheckBox Content="Замененные"
+                                                          FontSize="16"
+                                                          IsChecked="{Binding RelativeSource={RelativeSource AncestorType={x:Type ListView}}, Path=DataContext.ChangedDocsIsVisible, Mode=TwoWay}"/>
+                                                <CheckBox Content="Удаленные"
+                                                          FontSize="16"
+                                                          IsChecked="{Binding RelativeSource={RelativeSource AncestorType={x:Type ListView}}, Path=DataContext.DeletedDocsIsVisible, Mode=TwoWay}"/>
+                                                <Border BorderThickness="2" BorderBrush="{StaticResource AddedFilterColor}">
+                                                    <TextBlock Text="Добавленные фильтры"
+                                                           HorizontalAlignment="Center"
+                                                           TextAlignment="Center"
+                                                           FontSize="16"
+                                                           Foreground="{StaticResource AddedFilterColor}"/>
+                                                </Border>
+                                                <ListBox ItemsSource="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=ActiveFilters, Mode=OneWay}" FontSize="16">
+                                                    <ListBox.ItemTemplate>
+                                                        <DataTemplate>
+                                                            <Grid>
+                                                                <Button HorizontalAlignment="Left" 
+                                                                        Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type ListView}}, Path=DataContext.RemoveFilterCommand}"
+                                                                        CommandParameter="{Binding Key}">
+                                                                    <Image Width="20" Source="{StaticResource MedoClientCancelRedIcon}"/>
+                                                                </Button>
+                                                                <TextBlock Text="{Binding Value.FilterName}" Margin="22, 0, 0, 0"/>
+                                                            </Grid>
+                                                        </DataTemplate>
+                                                    </ListBox.ItemTemplate>
+                                                </ListBox>
+                                                <Border BorderThickness="2" BorderBrush="{StaticResource ActiveFilterColor}">
+                                                <TextBlock Text="Активные фильтры"
+                                                           HorizontalAlignment="Center"
+                                                           TextAlignment="Center"
+                                                           FontSize="16"
+                                                           Foreground="{StaticResource ActiveFilterColor}"/>
+                                                </Border>
+                                                <ListBox ItemsSource="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=ActiveFilters, Mode=OneWay}" FontSize="16">
+                                                    <ListBox.ItemTemplate>
+                                                        <DataTemplate>
+                                                            <TextBlock Text="{Binding Value.FilterName}" Margin="22, 0, 0, 0"/>
+                                                        </DataTemplate>
+                                                    </ListBox.ItemTemplate>
+                                                    <ListBox.ItemContainerStyle>
+                                                        <Style TargetType="{x:Type ListBoxItem}">
+                                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                                            <Style.Triggers>
+                                                                <DataTrigger Binding="{Binding Value.RuleIsOn}" Value="true">
+                                                                    <Setter Property="Visibility" Value="Visible"/>
+                                                                </DataTrigger>
+                                                            </Style.Triggers>
+                                                        </Style>
+                                                    </ListBox.ItemContainerStyle>
+                                                </ListBox>
+                                            </StackPanel>
+                                        </Border>
+                                    </Popup>
+                                </StackPanel>
+                                <Button.Triggers>
+                                    <EventTrigger RoutedEvent="MouseEnter">
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <ObjectAnimationUsingKeyFrames Storyboard.TargetName="searchpopup" Storyboard.TargetProperty="IsOpen">
+                                                    <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource TrueKey}"/>
+                                                </ObjectAnimationUsingKeyFrames>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                    <EventTrigger RoutedEvent="MouseLeave">
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <ObjectAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="searchpopup" Storyboard.TargetProperty="IsOpen">
+                                                    <DiscreteObjectKeyFrame KeyTime="00:00:00:01" Value="{StaticResource FalseKey}"/>
+                                                </ObjectAnimationUsingKeyFrames>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Button.Triggers>
+                            </Button>
+                            <TextBlock FontSize="18" 
+                                       ToolTip="Документов в списке / Выбрано документов"
+                                       TextAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Center">
+                                <Run Text="{Binding RelativeSource={RelativeSource AncestorType={x:Type ListView}}, Path=Items.Count, Mode=OneWay}" />
+                                <Run Text="/"/>
+                                <Run Text="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=SelectedItemsCount, Mode=OneWay}"
+                                     Foreground="{StaticResource ActiveFilterColor}"/>
+                                  <!--<Run Text="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=FilteredItemsCount, Mode=OneWay}"/>-->
+                            </TextBlock>
+                            <Grid>
+                                <metro:MetroProgressBar Maximum="{Binding Path=(collection:StaticCollections.MainCollectionUpdatesCount), Mode=OneWay}"
+                                                        Value="{Binding Path=(collection:StaticCollections.MainCollectionUpdateProgress), Mode=OneWay}"
+                                                        Foreground="{StaticResource PublicationComplieteColor}"
+                                                        Background="#59FF0000"
+                                                        Height="18"/>
+                                <TextBlock TextAlignment="Center" HorizontalAlignment="Center">
+                                    <Run Text="{Binding Path=(collection:StaticCollections.MainCollectionUpdateProgress), Mode=OneWay}" ToolTip="Обновлено документов за последнее обновление"/>
+                                    <Run Text="\" />
+                                    <Run Text="{Binding Path=(collection:StaticCollections.MainCollectionUpdatesCount), Mode=OneWay}" ToolTip="Обновлено документов за последнее обновление"/>
+                                    <Run Text=" " />
+                                    <Run Text="{Binding Path=(collection:StaticCollections.LastUpdateData), StringFormat={}{0:HH:mm:ss}, Mode=OneWay}" ToolTip="Время последнего обновления"/>
+                                </TextBlock>
+                            </Grid>
+                            <TextBlock HorizontalAlignment="Center" Text="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=ItemsCount, Mode=OneWay}" ToolTip="Количество документов в базе клиента, загруженных с сервера МЭДО">
+                                <!--<TextBlock.ToolTip>
+                                    <TextBlock Text="{Binding HowOldDocsLoad, StringFormat=Загружены документы с {0:dd.MM.yyyy}}"/>
+                                </TextBlock.ToolTip>-->
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+    <!-- Обычный стиль без поиска и сортировки -->
+    <Style x:Key="ListViewWithOutSortAndFilteringStyle" TargetType="{x:Type GridViewColumnHeader}">
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border BorderThickness="1" BorderBrush="#FF8F8F8F">
+                        <ContentPresenter TextBlock.TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,22,0,0"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+    </Style>
+    <!-- EndRegion -->
+
+
+</ResourceDictionary>

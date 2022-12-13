@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xdms:communication xdms:version="1.0" xmlns:xdms="http://www.infpres.com/IEDMS">
+  <xdms:header xdms:uid="b34250ca-b73d-4fe5-9def-307257c32d49" xdms:type="Уведомление">
+    <xdms:source xdms:uid="aa915814-fa65-44ca-9a00-bed5d0fdc1fa">
+      <xdms:organization>Министерство строительства и жилищно-коммунального хозяйства Российской Федерации</xdms:organization>
+    </xdms:source>
+  </xdms:header>
+  <xdms:notification xdms:type="Опубликование" xdms:uid="26a299e0-4a04-47b4-b511-613598d7954a">
+    <xdms:documentPublished>
+      <xdms:time>2017-11-20T09:59:01</xdms:time>
+      <xdms:foundation>
+        <xdms:organization>Министерство строительства и жилищно-коммунального хозяйства Российской Федерации</xdms:organization>
+        <xdms:num>
+          <xdms:number>1431/пр</xdms:number>
+          <xdms:date>2017-10-16</xdms:date>
+        </xdms:num>
+      </xdms:foundation>
+      <xdms:correspondent>
+        <xdms:region>Москва</xdms:region>
+        <xdms:organization>Управление обеспечения правовой информатизации Службы специальной связи Федеральной службы охраны Российской Федерации (УОПИ Спецсвязи ФСО России)</xdms:organization>
+      </xdms:correspondent>
+      <xdms:num>
+        <xdms:number>0001201711080034</xdms:number>
+        <xdms:date>2017-11-08T15:39:48</xdms:date>
+      </xdms:num>
+      <xdms:publicationPoint>Официальный интернет-портал правовой информации (www.pravo.gov.ru)</xdms:publicationPoint>
+    </xdms:documentPublished>
+    <xdms:comment>Приказ Министерства строительства и жилищно-коммунального хозяйства Российской Федерации от 16.10.2017 № 1431/пр 
+ О внесении изменений в перечень должностей в организациях, созданных для выполнения задач, поставленных перед Министерством строительства</xdms:comment>
+  </xdms:notification>
+</xdms:communication>

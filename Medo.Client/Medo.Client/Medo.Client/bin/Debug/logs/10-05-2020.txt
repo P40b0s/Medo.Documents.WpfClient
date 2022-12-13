@@ -1,0 +1,130 @@
+10-05-2020 16:19:57|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:57|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:58|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:58|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:58|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:58|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:59|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:59|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:59|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+10-05-2020 16:19:59|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+

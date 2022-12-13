@@ -1,0 +1,57 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\NAudio.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\NAudio.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\obj\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Settings.json
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client.Collections\bin\Debug\Newtonsoft.Json.xml

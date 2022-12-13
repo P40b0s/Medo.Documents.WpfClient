@@ -1,0 +1,48 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\medo2.5xsd\medo2.5-simpleTypes.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\medo2.7xsd\medo2.7.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\medo2.5xsd\Medo2.5.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\XmlCardCreator.dll.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\XmlCardCreator.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Debug\XmlCardCreator.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Debug\XmlCardCreator.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\medo2.5xsd\medo2.5-simpleTypes.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\medo2.7xsd\medo2.7.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\medo2.5xsd\Medo2.5.xsd
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\XmlCardCreator.dll.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\XmlCardCreator.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\XmlCardCreator.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.GenerateResource.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\XmlCardCreator.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\medo2.5xsd\medo2.5-simpleTypes.xsd
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\medo2.7xsd\medo2.7.xsd
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\medo2.5xsd\Medo2.5.xsd
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\XmlCardCreator.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\XmlCardCreator.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\XmlCardCreator.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\XmlCardCreator.Properties.Resources.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.GenerateResource.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\Medo.XmlCardCreator.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\XmlCardCreator.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.XmlCardCreator\obj\Debug\XmlCardCreator.pdb

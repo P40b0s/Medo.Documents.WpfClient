@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8C7AC45-56CE-491E-9462-9426E130BCC5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Medo.Modules.CardEditorModule</RootNamespace>
+    <AssemblyName>CardEditorModule</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.AvalonEdit">
+      <HintPath>..\..\..\..\..\..\..\..\..\Dlls\avalonedit.5.0.3\lib\Net40\ICSharpCode.AvalonEdit.dll</HintPath>
+    </Reference>
+    <Reference Include="LevenshteinAutomaton, Version=1.0.5884.17544, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Controls\TextEditor\bin\Debug\LevenshteinAutomaton.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro">
+      <HintPath>..\..\..\Medo.WCF.Client\DataGridFilteringTry\bin\Debug\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.Client.Collections">
+      <HintPath>..\..\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.Client.SedRegistration">
+      <HintPath>..\..\Medo.Client.SedRegistration\bin\Debug\Medo.Client.SedRegistration.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.Helpers">
+      <HintPath>..\..\Medo.Helpers\bin\Debug\Medo.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.ImageResources">
+      <HintPath>..\..\..\Medo.ImageResources\bin\Debug\Medo.ImageResources.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\..\..\LostNumbersIzdanie\LostNumbersMVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\..\..\..\..\..\..\..\..\Dlls\prism\unity.4.0.1\lib\net45\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\..\..\..\..\..\..\..\..\Dlls\nlog.4.3.3\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Prism">
+      <HintPath>..\..\..\..\..\..\..\..\..\Dlls\prism\prism.core.6.2.0.0\lib\net45\Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism.Wpf">
+      <HintPath>..\..\..\..\..\..\..\..\..\Dlls\prism\prism.wpf.6.2.0\lib\net45\Prism.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="SelectBox">
+      <HintPath>..\..\Controls\SelectBox\bin\Debug\SelectBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Swordfish.NET.General">
+      <HintPath>..\..\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Swordfish.NET.General.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Dlls\prism\prism.wpf.6.2.0\lib\net45\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TextEditor">
+      <HintPath>..\..\Controls\TextEditor\bin\Debug\TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="About.txt" />
+    <Compile Include="Base.cs" />
+    <Compile Include="Behaviors\AvalonBehavior.cs" />
+    <Compile Include="IncrementSearch.cs" />
+    <Compile Include="Models\WordPositionStruct.cs" />
+    <Compile Include="Models\ColorizeAvalonEdit.cs" />
+    <Compile Include="Models\TextCompletionData.cs" />
+    <Compile Include="ModuleCardEditorModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpellCheckAutomat.cs" />
+    <Compile Include="StaticProperty.cs" />
+    <Compile Include="Views\ViewCardEditorModule.xaml.cs">
+      <DependentUpon>ViewCardEditorModule.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\ViewCardEditorModuleViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Medo.Core\Medo.Core.csproj">
+      <Project>{84e844d8-b068-4b67-b088-3f5a71f3d51d}</Project>
+      <Name>Medo.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Medo.Client.Notifications\Medo.Client.Notifications.csproj">
+      <Project>{C6B88AE2-088C-4521-BDC6-ED3B80B63CF1}</Project>
+      <Name>Medo.Client.Notifications</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Templates\Animations.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Colors.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ViewCardEditorModule.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

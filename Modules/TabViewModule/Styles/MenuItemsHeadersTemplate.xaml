@@ -1,0 +1,85 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:collection="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+             xmlns:prism="http://prismlibrary.com/">
+
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/Icons.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Colors.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+    <Style x:Key="UpdateCenterMenuHeaderStyle" TargetType="{x:Type MenuItem}" BasedOn="{StaticResource {x:Type MenuItem}}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type MenuItem}">
+                    <Grid Background="Transparent">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="40"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Image>
+                            <Image.Style>
+                                <Style TargetType="{x:Type Image}">
+                                    <Setter Property="Grid.Column" Value="0"/>
+                                    <Setter Property="Width" Value="40"/>
+                                    <Setter Property="Source" Value="{StaticResource NewUpdateIcon}"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding IsNewUpdateExists}" Value="true">
+                                            <Setter Property="Source" Value="{StaticResource UpdateCenterIcon}"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                        <TextBlock Grid.Column="1" Text="Центр обновлений" FontSize="20" Background="Transparent">
+                        </TextBlock>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="Red"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="UpdateDocumentsFromBaseHeaderStyle" TargetType="{x:Type MenuItem}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type MenuItem}">
+                    <Grid Background="Transparent">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="40"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Image SnapsToDevicePixels="True">
+                            <Image.Style>
+                                <Style TargetType="{x:Type Image}">
+                                    <Setter Property="Grid.Column" Value="0"/>
+                                    <Setter Property="Width" Value="40"/>
+                                    <Setter Property="Source" Value="{StaticResource MedoClientRefreshIcon}"/>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                        <TextBlock Grid.Column="1" Text="Обновить документы из базы" FontSize="20" Background="Transparent">
+                        </TextBlock>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="Red"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+
+</ResourceDictionary>

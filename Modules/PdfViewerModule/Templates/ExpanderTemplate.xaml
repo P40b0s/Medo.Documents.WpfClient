@@ -1,0 +1,30 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:prism="http://prismlibrary.com/">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/PdfViewerModule;component/Templates/ExpanderItemTemplate.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+    <ControlTemplate x:Key="ExpanderTemplate" >
+        <Expander IsExpanded="{Binding FilesExpanderIsOpen, Mode=TwoWay}"
+                  Background="Transparent"
+                  Foreground="Black"
+                  HorizontalAlignment="Left"
+                  VerticalAlignment="Top"
+                  BorderBrush="{x:Null}">
+            <ListBox  
+                      SelectedItem="{Binding SelectedFile, Mode=TwoWay}"
+                      ItemsSource="{Binding Files}"
+                      FontSize="18"
+                      IsSynchronizedWithCurrentItem="False"
+                      ItemTemplate="{StaticResource FileSelectorTemplate}"
+                      ItemContainerStyle="{StaticResource FileSelectorItemStyle}">
+            </ListBox>
+        </Expander>
+    </ControlTemplate>
+    <!--Header="{Binding SelectedFile}"
+                  HeaderTemplate="{StaticResource HTemplate}"-->
+</ResourceDictionary>

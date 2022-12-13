@@ -1,0 +1,621 @@
+10-05-2017 11:22:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 11:22:36|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 11:22:36|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 11:22:36|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 11:22:39|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 11:22:39|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 11:22:54|INFO|IKSAR|Модули загружены|
+10-05-2017 11:23:00|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:15:10|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:15:10|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:15:11|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:15:11|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:15:13|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:15:13|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:20:02|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:20:02|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:20:02|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:20:02|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:20:03|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:20:03|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:24:04|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:24:04|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:24:04|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:24:04|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:24:05|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:24:05|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:24:06|INFO|IKSAR|Модули загружены|
+10-05-2017 13:24:07|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:25:39|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:25:39|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:25:39|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:25:39|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:25:40|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:25:40|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:25:41|INFO|IKSAR|Модули загружены|
+10-05-2017 13:25:42|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:26:26|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:26:26|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:26:26|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:26:26|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:26:27|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:26:27|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:26:28|INFO|IKSAR|Модули загружены|
+10-05-2017 13:26:29|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:29:16|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:29:16|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:29:16|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:29:16|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:29:18|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:29:18|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:29:18|INFO|IKSAR|Модули загружены|
+10-05-2017 13:29:19|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:43:45|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:43:45|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:43:45|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:43:45|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:43:46|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:43:46|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:43:46|INFO|IKSAR|Модули загружены|
+10-05-2017 13:43:47|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:43:51|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 13:45:20|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:45:21|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:45:21|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:45:21|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:45:22|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:45:22|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:45:22|INFO|IKSAR|Модули загружены|
+10-05-2017 13:45:23|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:48:47|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:48:47|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:48:47|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:48:47|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:48:48|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:48:48|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:48:48|INFO|IKSAR|Модули загружены|
+10-05-2017 13:48:50|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:48:54|FATAL|IKSAR|System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.<>c.<LoadOrgansAndActTypesForFiltering>b__26_0(Document category) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.<>c.<LoadOrgansAndActTypesForFiltering>b__26_0(Document category) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 13:49:53|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:49:53|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:49:53|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:49:53|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:49:54|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:49:54|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:49:54|INFO|IKSAR|Модули загружены|
+10-05-2017 13:49:56|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:51:47|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:51:47|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:51:47|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:51:47|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:51:48|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:51:48|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:51:49|INFO|IKSAR|Модули загружены|
+10-05-2017 13:51:50|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:55:30|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:55:30|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:55:30|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:55:30|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:55:33|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:55:33|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:55:33|INFO|IKSAR|Модули загружены|
+10-05-2017 13:55:34|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:56:20|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:56:20|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:56:20|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:56:20|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:56:21|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:56:21|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:56:22|INFO|IKSAR|Модули загружены|
+10-05-2017 13:56:23|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 13:57:39|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:57:39|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 13:57:39|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 13:57:39|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 13:57:44|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 13:57:44|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 13:57:44|INFO|IKSAR|Модули загружены|
+10-05-2017 13:57:45|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 14:21:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:21:36|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:21:36|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 14:21:36|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 14:21:37|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 14:21:37|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 14:21:38|INFO|IKSAR|Модули загружены|
+10-05-2017 14:21:39|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 14:49:27|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:49:27|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:49:27|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 14:49:27|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 14:49:29|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 14:49:29|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 14:49:30|INFO|IKSAR|Модули загружены|
+10-05-2017 14:49:32|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 14:57:24|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:57:24|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:57:24|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 14:57:24|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 14:57:25|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 14:57:25|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 14:57:26|INFO|IKSAR|Модули загружены|
+10-05-2017 14:57:27|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 14:57:58|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:57:58|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 14:57:58|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 14:57:58|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 14:57:59|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 14:57:59|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 14:58:00|INFO|IKSAR|Модули загружены|
+10-05-2017 14:58:01|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:02:21|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:02:21|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:02:21|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:02:21|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:02:22|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:02:22|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:02:23|INFO|IKSAR|Модули загружены|
+10-05-2017 15:02:24|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:02:29|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 15:04:28|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:04:29|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:04:29|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:04:29|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:04:30|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:04:30|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:04:30|INFO|IKSAR|Модули загружены|
+10-05-2017 15:04:31|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:04:37|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 15:05:35|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:05:35|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:05:35|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:05:35|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:05:36|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:05:36|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:05:37|INFO|IKSAR|Модули загружены|
+10-05-2017 15:05:38|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:05:44|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 111
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 111
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 15:06:22|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:06:22|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:06:22|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:06:22|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:06:24|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:06:24|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:06:25|INFO|IKSAR|Модули загружены|
+10-05-2017 15:06:26|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:08:16|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:08:16|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:08:16|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:08:16|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:08:17|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:08:17|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:08:18|INFO|IKSAR|Модули загружены|
+10-05-2017 15:08:19|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:08:55|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:08:55|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:08:55|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:08:55|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:08:56|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:08:56|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:08:56|INFO|IKSAR|Модули загружены|
+10-05-2017 15:08:58|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:09:02|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 15:09:49|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:09:49|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:09:49|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:09:49|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:09:50|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:09:50|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:09:50|INFO|IKSAR|Модули загружены|
+10-05-2017 15:09:51|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:09:57|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 111
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 111
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 15:11:37|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:11:37|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:11:37|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:11:37|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:11:40|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:11:40|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:11:41|INFO|IKSAR|Модули загружены|
+10-05-2017 15:11:42|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:17:12|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:17:12|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:17:12|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:17:12|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:17:13|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:17:13|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:17:14|INFO|IKSAR|Модули загружены|
+10-05-2017 15:17:15|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:23:59|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:23:59|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:23:59|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:23:59|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:24:00|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:24:00|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:24:01|INFO|IKSAR|Модули загружены|
+10-05-2017 15:24:02|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:25:43|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:25:43|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:25:43|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:25:43|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:25:44|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:25:44|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:25:45|INFO|IKSAR|Модули загружены|
+10-05-2017 15:25:46|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:41:08|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:41:08|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:41:08|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:41:08|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:41:09|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:41:09|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:41:10|INFO|IKSAR|Модули загружены|
+10-05-2017 15:41:11|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:53:21|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:53:21|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:53:21|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:53:21|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:53:23|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:53:23|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:53:23|INFO|IKSAR|Модули загружены|
+10-05-2017 15:53:24|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:54:23|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:54:23|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:54:23|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:54:23|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:54:24|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:54:24|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:54:25|INFO|IKSAR|Модули загружены|
+10-05-2017 15:54:26|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:56:19|INFO|IKSAR|X:91,6945380984491 Y:268,587322993931 W:517,932569116655 H:110,696352439602 X%:14 Y%:29|
+10-05-2017 15:56:51|FATAL|IKSAR|System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в Medo.Client.Collections.StaticCollections.UpdateCollections(ICardEditorInterface doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 332|System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в Medo.Client.Collections.StaticCollections.UpdateCollections(ICardEditorInterface doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 332
+10-05-2017 15:56:51|INFO|IKSAR|Сохранена карточка: GUID: f6c46a3d-5561-428f-a2a3-a9cb537d5113 Министерство Российской Федерации по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий Приказ 72 Об утверждении перечня документов, необходимых для проведения оценки последствий принятия решения о реорганизации или ликвидации федеральной государственной образовательной организации, находящейся в ведении Министерства Российской Федерации по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий.|
+10-05-2017 15:57:26|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:57:27|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:57:27|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:57:27|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:57:28|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:57:28|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:57:28|INFO|IKSAR|Модули загружены|
+10-05-2017 15:57:29|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 15:58:01|FATAL|IKSAR|System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в Medo.Client.Collections.StaticCollections.UpdateCollections(ICardEditorInterface doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 332|System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в Medo.Client.Collections.StaticCollections.UpdateCollections(ICardEditorInterface doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 332
+10-05-2017 15:58:01|INFO|IKSAR|Сохранена карточка: GUID: f6c46a3d-5561-428f-a2a3-a9cb537d5113 Министерство Российской Федерации по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий Приказ 72 Об утверждении перечня документов, необходимых для проведения оценки последствий принятия решения о реорганизации или ликвидации федеральной государственной образовательной организации, находящейся в ведении Министерства Российской Федерации по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий.|
+10-05-2017 15:58:40|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:58:40|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 15:58:40|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 15:58:40|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 15:58:41|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 15:58:41|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 15:58:42|INFO|IKSAR|Модули загружены|
+10-05-2017 15:58:43|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 16:30:25|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:30:25|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:30:25|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:30:25|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:30:26|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 16:30:26|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 16:30:27|INFO|IKSAR|Модули загружены|
+10-05-2017 16:30:28|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 16:31:24|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:31:24|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:31:24|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:31:24|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:31:27|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 16:31:27|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 16:31:28|INFO|IKSAR|Модули загружены|
+10-05-2017 16:31:35|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 16:34:00|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:34:00|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:34:00|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:34:00|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:34:01|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 16:34:01|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 16:34:01|INFO|IKSAR|Модули загружены|
+10-05-2017 16:34:03|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 16:42:58|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:42:58|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:42:58|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:42:58|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:42:59|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 16:42:59|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 16:43:00|INFO|IKSAR|Модули загружены|
+10-05-2017 16:43:01|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 16:48:29|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:48:29|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:48:29|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:48:29|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:48:51|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:48:51|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:48:51|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:48:51|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:48:54|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 16:48:54|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 16:48:55|INFO|IKSAR|Модули загружены|
+10-05-2017 16:48:56|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 16:53:45|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:53:45|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 16:53:45|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 16:53:45|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 16:53:46|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 16:53:46|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 16:53:47|INFO|IKSAR|Модули загружены|
+10-05-2017 16:53:48|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:07:59|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:07:59|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:07:59|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:07:59|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:08:00|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:08:00|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:08:01|INFO|IKSAR|Модули загружены|
+10-05-2017 17:08:02|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:12:55|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:12:55|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:12:55|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:12:55|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:12:56|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:12:56|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:12:57|INFO|IKSAR|Модули загружены|
+10-05-2017 17:12:58|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:14:28|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:14:28|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:14:28|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:14:28|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:14:30|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:14:30|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:14:31|INFO|IKSAR|Модули загружены|
+10-05-2017 17:14:32|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:20:02|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:20:02|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:20:02|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:20:02|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:20:05|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:20:05|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:20:05|INFO|IKSAR|Модули загружены|
+10-05-2017 17:20:06|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:21:06|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:21:06|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:21:06|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:21:06|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:21:08|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:21:08|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:21:08|INFO|IKSAR|Модули загружены|
+10-05-2017 17:21:09|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:23:57|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:23:57|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:23:57|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:23:57|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:23:58|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:23:58|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:23:58|INFO|IKSAR|Модули загружены|
+10-05-2017 17:23:59|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:24:32|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:24:32|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:24:32|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:24:32|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:24:33|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:24:33|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:24:34|INFO|IKSAR|Модули загружены|
+10-05-2017 17:24:35|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:24:39|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   в System.Linq.GroupedEnumerable`3.GetEnumerator()
+   в System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   в System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   в System.Linq.OrderedEnumerable`1.<GetEnumerator>d__1.MoveNext()
+   в System.Collections.ObjectModel.ObservableCollection`1.CopyFrom(IEnumerable`1 collection)
+   в System.Collections.ObjectModel.ObservableCollection`1..ctor(IEnumerable`1 collection)
+   в Medo.Modules.TabViewModule.Filtration.FilteringAndSorting.LoadOrgansAndActTypesForFiltering() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\Filtration\FilteringAndSorting.cs:строка 110
+   в Medo.Modules.TabViewModule.ViewModels.ViewTabViewModuleViewModel.<getDocs>d__150.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\ViewModels\ViewTabViewModuleViewModel.cs:строка 606
+10-05-2017 17:26:03|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:26:03|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:26:03|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:26:03|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:26:04|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:26:04|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:26:05|INFO|IKSAR|Модули загружены|
+10-05-2017 17:26:06|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:26:37|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:26:37|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:26:37|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:26:37|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:26:38|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:26:38|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:26:38|INFO|IKSAR|Модули загружены|
+10-05-2017 17:26:40|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:29:55|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:29:55|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:29:55|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:29:55|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:29:56|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:29:56|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:29:57|INFO|IKSAR|Модули загружены|
+10-05-2017 17:29:58|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-05-2017 17:32:03|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:32:03|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-05-2017 17:32:03|INFO|IKSAR|Подключение директории для Системы: |
+10-05-2017 17:32:03|INFO|IKSAR|Подключение резервного сервера: |
+10-05-2017 17:32:04|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-05-2017 17:32:04|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-05-2017 17:32:04|INFO|IKSAR|Модули загружены|
+10-05-2017 17:32:05|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|

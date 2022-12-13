@@ -1,0 +1,275 @@
+﻿<UserControl
+        x:Class="Medo.Modules.CardCreatorModule.Views.CardCreatorModuleView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:pdf="clr-namespace:Medo.Controls.PdfRecognitionViewer;assembly=PdfRecognitionViewer"
+        xmlns:controls="clr-namespace:Medo.Controls.SelectBox;assembly=SelectBox"
+        xmlns:editors="clr-namespace:Medo.Controls.TextEditor;assembly=TextEditor"
+        
+        prism:ViewModelLocator.AutoWireViewModel="True">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/ErrorsValidation/ErrorsTemplate.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Converters.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/CardCreatorModule;component/Resources/Colors.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid x:Name="mainGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500"/>
+            <ColumnDefinition Width="500*"/>
+        </Grid.ColumnDefinitions>
+        <pdf:PdfViewer  FileSource="{Binding SelectedFile}"
+                           Grid.Row="1"
+                            DocumentIsEdit="{Binding IsEdit, Mode=TwoWay}"/>
+        <!--BitmapForRecognition="{Binding BitmapForRecognition, Mode=TwoWay}"-->
+        <metro:Flyout x:Name="CardEditorFlyOut" 
+                      Header="Дополнительно"
+                      Foreground="Black"
+                      Panel.ZIndex="10"
+                      Position="Right"
+                      Visibility="Hidden"
+                      Width="0"
+                      IsOpen="{Binding SettingsFlyoutIsOpen, Mode=TwoWay}">
+
+            <StackPanel Orientation="Vertical" Margin="30,0" >
+                <StackPanel Visibility="{Binding MJEnabled}">
+                    <TextBlock Text="Номер регистрации в Минюсте" HorizontalAlignment="Center" FontSize="15"/>
+                    <TextBox x:Name="mjNumberTextBox"
+                             FontSize="15"
+                             TextWrapping="Wrap"
+                             Text="{Binding MJNumber, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                             Background="White"
+                             metro:TextBoxHelper.ClearTextButton="True"
+                             Foreground="{Binding ElementName=CardEditorFlyOut, Path=Foreground}"
+                             Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"/>
+                </StackPanel>
+
+                <StackPanel Visibility="{Binding MJEnabled}">
+                    <TextBlock Text="Дата регистрации в Минюсте" HorizontalAlignment="Center" FontSize="15"/>
+                    <DatePicker x:Name="mjDateCal"
+                                IsEnabled="{Binding MJEnabled}"
+                                DisplayDate="{Binding MJDate, Mode=TwoWay}"
+                                SelectedDate="{Binding MJDate, Mode=TwoWay}"
+                                Background="White"
+                                Text="{Binding MJDate, StringFormat={}{0:dd.MM.yyyy}}"
+                                FontSize="15"
+                                Margin="0,5,0,0"
+                                Foreground="{Binding ElementName=CardEditorFlyOut, Path=Foreground}"
+                                Validation.ErrorTemplate="{StaticResource MultiValidationTemplateForDatePicker}"/>
+                </StackPanel>
+
+                <StackPanel Visibility="{Binding MJEnabled}">
+                    <TextBlock Text="Не нуждается в регистрации" HorizontalAlignment="Center" FontSize="15"/>
+                    <DatePicker DisplayDate="{Binding MJDate, Mode=TwoWay}"
+                                SelectedDate="{Binding MJDate, Mode=TwoWay}"
+                                Background="White"
+                                Text="{Binding MJDate, StringFormat={}{0:dd.MM.yyyy}}"
+                                FontSize="15"
+                                Margin="0,5,0,0"
+                                Foreground="{Binding ElementName=CardEditorFlyOut, Path=Foreground}"
+                                Validation.ErrorTemplate="{StaticResource MultiValidationTemplateForDatePicker}"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Комментарий" HorizontalAlignment="Center" FontSize="15"/>
+                    <TextBox x:Name="commentTextBox"
+                             Height="100"
+                             FontSize="15"
+                             TextWrapping="Wrap"
+                             Text="{Binding Comments, Mode=TwoWay}"
+                             metro:TextBoxHelper.ClearTextButton="True"
+                             Background="White"
+                             Foreground="{Binding ElementName=CardEditorFlyOut, Path=Foreground}"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Отложить опубликование до:" HorizontalAlignment="Center" FontSize="15" />
+                    <DatePicker x:Name="DefCal"
+                                DisplayDate="{Binding DefferedOpen, Mode=TwoWay}"
+                                SelectedDate="{Binding DefferedOpen, Mode=TwoWay}"
+                                Text="{Binding DefferedOpen, StringFormat={}{0:dd.MM.yyyy}}"
+                                FontSize="15"
+                                Margin="0,5,0,0"
+                                Background="White"
+                                Foreground="{Binding ElementName=CardEditorFlyOut, Path=Foreground}"/>
+                </StackPanel>
+            </StackPanel>
+        </metro:Flyout>
+        <Button HorizontalAlignment="Right" Command="{Binding OpenPdfViewerCommand}">
+            <Image Source="{StaticResource FileTypePdfIcon}" Width="40"/>
+        </Button>
+        <StackPanel Orientation="Vertical" Grid.Column="0" Margin="35,0" Grid.Row="0">
+            <TextBlock Text="Принявший орган" HorizontalAlignment="Center" FontSize="15"/>
+            <controls:IncrementSelectBox NowSelectedItem="{Binding OrganName}"
+                                         Collection="{Binding OrganList, Mode=OneWay}"
+                                         Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"/>
+
+            <TextBlock Text="Вид документа" HorizontalAlignment="Center" FontSize="15"/>
+            <controls:IncrementSelectBox NowSelectedItem="{Binding ActType}"
+                                         SelectedOrganForTrigger="{Binding OrganName, Mode=OneWay}"                                             
+                                         Collection="{Binding TypeList, Mode=OneWay}"
+                                         Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"/>
+
+            <TextBlock Text="Наименование документа" HorizontalAlignment="Center" FontSize="15"/>
+
+            <StackPanel Orientation="Vertical">
+                <!--<ContentControl prism:RegionManager.RegionName="TextEditorRegion"
+                            Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"/>-->
+                <editors:SpellCheckTextEditor
+                    DocumentText="{Binding DocumentText, Mode=TwoWay}"
+                    Comment="{Binding Comments, Mode=TwoWay}"
+                    Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"/>
+            </StackPanel>
+
+
+            <StackPanel>
+                <TextBlock Text="Номер документа" HorizontalAlignment="Center" FontSize="15"/>
+                <TextBox x:Name="changedNumberTextBox"
+                         Text="{Binding ChangedNumber, Mode=TwoWay, ValidatesOnNotifyDataErrors=True, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged}"
+                         FontSize="16"
+                         Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"
+                         metro:TextBoxHelper.ClearTextButton="True"
+                         Visibility="{Binding MIDNumberEnabled}"/>
+            </StackPanel>
+
+            <StackPanel>
+                <TextBlock Text="Дата подписания документа" HorizontalAlignment="Center" FontSize="15"/>
+                <DatePicker x:Name="signDateCal" 
+                            DisplayDate="{Binding SignDate, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"
+                            SelectedDate="{Binding SignDate, Mode=TwoWay,ValidatesOnNotifyDataErrors=True, NotifyOnValidationError=True}"
+                            Text="{Binding SignDate, StringFormat={}{0:dd.MM.yyyy}}"
+                            FontSize="15"
+                            Validation.ErrorTemplate="{StaticResource MultiValidationTemplateForDatePicker}"/>
+            </StackPanel>
+
+            <StackPanel x:Name="MJNumberAndDateStackPanel">
+                
+                <StackPanel>
+                    <TextBlock Text="Номер регистрации в Минюсте" HorizontalAlignment="Center" FontSize="15"/>
+                    <TextBox FontSize="15"
+                             TextWrapping="Wrap"
+                             Text="{Binding MJNumber, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                             Background="Transparent"
+                             metro:TextBoxHelper.ClearTextButton="True"
+                             Validation.ErrorTemplate="{StaticResource MultiValidationTemplate}"/>
+                </StackPanel>
+
+                <StackPanel  x:Name="mjFieldsStackPanel">
+                    <TextBlock Text="Дата регистрации в Минюсте" HorizontalAlignment="Center" FontSize="15"/>
+                    <DatePicker DisplayDate="{Binding MJDate, Mode=TwoWay}"
+                                SelectedDate="{Binding MJDate, Mode=TwoWay}"
+                                Background="Transparent"
+                                Text="{Binding MJDate, StringFormat={}{0:dd.MM.yyyy}}"
+                                FontSize="15"
+                                Margin="0,5,0,0"
+                                Validation.ErrorTemplate="{StaticResource MultiValidationTemplateForDatePicker}"/>
+                </StackPanel>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+
+                        <Setter Property="Opacity" Value="0.5"/>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsMJDocument}" Value="false">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+            <!--Дата отметки минюста о признании документа не нуждающимся в регистрации (пока не работает)-->
+            <StackPanel x:Name="registerNotAllowedStackPanel">
+                <TextBlock Text="Не нуждается в регистрации" HorizontalAlignment="Center" FontSize="15"/>
+                <DatePicker DisplayDate="{Binding MJDate, Mode=TwoWay}"
+                                SelectedDate="{Binding MJDate, Mode=TwoWay}"
+                                Background="White"
+                                Text="{Binding MJDate, StringFormat={}{0:dd.MM.yyyy}}"
+                                FontSize="15"
+                                Margin="0,5,0,0"
+                                Foreground="{Binding ElementName=CardEditorFlyOut, Path=Foreground}"
+                                Validation.ErrorTemplate="{StaticResource MultiValidationTemplateForDatePicker}"/>
+                <StackPanel.Style>
+                    <Style TargetType="{x:Type StackPanel}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding IsRegisterNotAllowed}" Value="false">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </StackPanel.Style>
+            </StackPanel>
+
+            <StackPanel x:Name="StopPublicationStackPanel">
+                <TextBlock Text="Задержать опубликование" HorizontalAlignment="Center" FontSize="15"/>
+                <DatePicker DisplayDate="{Binding DefferedOpen, Mode=TwoWay}"
+                                SelectedDate="{Binding DefferedOpen, Mode=TwoWay}"
+                                Background="White"
+                                Text="{Binding DefferedOpen, StringFormat={}{0:dd.MM.yyyy}}"
+                                FontSize="15"
+                                Margin="0,5,0,0"                               
+                                Validation.ErrorTemplate="{StaticResource MultiValidationTemplateForDatePicker}"/>
+            </StackPanel>
+
+
+
+
+
+            <Grid Margin="0,0,0,10">
+                <Button Panel.ZIndex="2" 
+                        Content="Сохранить"
+                        Margin="0,20,0,1"
+                        Command="{Binding SaveCardCommand}"
+                        FontSize="15" BorderThickness="0"
+                        Background="{Binding ElementName=cardWindow, Path=BorderBrush}"
+                        Height="40">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                            <Setter Property="Visibility" Value="Hidden"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding CriticalErrorsCount}" Value="0">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+                <Grid>
+                    <metro:MetroProgressBar x:Name="ReqProgress"
+                                            Maximum="{Binding RequsitsCount}"
+                                            Value="{Binding ErrorsProgressBarValue}"
+                                            Foreground="{StaticResource ErrorsProgressBarForegroundColor}"
+                                            Width="{Binding ElementName=SaveButton, Path=ActualWidth}"
+                                            Height="40"
+                                            Background="#59FF0000"
+                                            Margin="0,20,0,1">
+                        <metro:MetroProgressBar.Effect>
+                            <BlurEffect Radius="10"/>
+                        </metro:MetroProgressBar.Effect>
+                    </metro:MetroProgressBar>
+
+                    <TextBlock Text="{Binding CriticalErrorsCount, StringFormat='Осталось заполнить реквизитов: {0}'}"
+                               Panel.ZIndex="1"
+                               HorizontalAlignment="Center"
+                               FontSize="14"/>
+                </Grid>
+            </Grid>
+        </StackPanel>
+
+        <Popup x:Name="commentPopUp" IsOpen="{Binding CommentIsOpen}">
+            <StackPanel>
+                <TextBox TextWrapping="Wrap" Text="{Binding Comment, Mode=TwoWay}"/>
+                <Button Content="OK"/>
+            </StackPanel>
+        </Popup>
+    </Grid>
+</UserControl>

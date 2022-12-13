@@ -1,0 +1,113 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Medo.Client.Updater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\Medo.Client.Updater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\ClientUpdater\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.GenerateResource.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.exe
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\bin\Debug\Updater\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\App.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Updater.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.Properties.Resources.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.GenerateResource.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.exe
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Updater\Medo.Client.Updater\Medo.Client.Updater\obj\Debug\Medo.Client.Updater.pdb

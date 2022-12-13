@@ -1,0 +1,291 @@
+10-10-2017 10:54:08|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 10:54:09|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 10:54:09|INFO|IKSAR|Подключение директории для Системы: |
+10-10-2017 10:54:09|INFO|IKSAR|Подключение резервного сервера: |
+10-10-2017 10:54:15|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-10-2017 10:54:15|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-10-2017 10:54:18|INFO|IKSAR|Модули загружены|
+10-10-2017 10:54:21|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-10-2017 10:54:33|INFO|IKSAR|X:95,8518518518518 Y:258,841750841751 W:497,340404040404 H:95,1840302386015 X%:15 Y%:28|
+10-10-2017 10:55:18|INFO|IKSAR|Сохранена карточка: GUID: a9c3f537-acea-4024-ae3d-bcbcb5cdd141 Министерство связи и массовых коммуникаций Российской Федерации Приказ 203 О внесении изменений в приказ Федерального агентства связи от 5 июля 2013 г. № 183 "О мерах по реализации Указа Президента Российской Федерации от 2 апреля 2013 г. № 309 "О мерах по реализации отдельных положений Федерального закона "О противодействии коррупции"|
+10-10-2017 10:55:36|FATAL|IKSAR|System.ServiceModel.CommunicationException: Ошибка сериализации параметра http://tempuri.org/:value. Сообщение InnerException было "Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.".  Подробнее см. InnerException. ---> System.Runtime.Serialization.SerializationException: Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeAndVerifyType(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, Boolean verifyKnownType, RuntimeTypeHandle declaredTypeHandle, Type declaredType)
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeWithXsiTypeAtTopLevel(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, RuntimeTypeHandle originalDeclaredTypeHandle, Type graphType)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObjectContent(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObject(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObjectHandleExceptions(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObject(XmlDictionaryWriter writer, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   --- Конец трассировки внутреннего стека исключений ---
+
+Server stack trace: 
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameter(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameters(XmlDictionaryWriter writer, PartInfo[] parts, Object[] parameters)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeBody(XmlDictionaryWriter writer, MessageVersion version, String action, MessageDescription messageDescription, Object returnValue, Object[] parameters, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.SerializeBodyContents(XmlDictionaryWriter writer, MessageVersion version, Object[] parameters, Object returnValue, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.OperationFormatterMessage.OperationFormatterBodyWriter.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BodyWriterMessage.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.Message.OnWriteMessage(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BufferedMessageWriter.WriteMessage(Message message, BufferManager bufferManager, Int32 initialOffset, Int32 maxSizeQuota)
+   в System.ServiceModel.Channels.BinaryMessageEncoderFactory.BinaryMessageEncoder.WriteMessage(Message message, Int32 maxMessageSize, BufferManager bufferManager, Int32 messageOffset)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.EncodeMessage(Message message)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.OnSendCore(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.TransportDuplexSessionChannel.OnSend(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.OutputChannel.Send(Message message, TimeSpan timeout)
+   в System.ServiceModel.Dispatcher.DuplexChannelBinder.Request(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.UpdateCurrentDocumentFromBase(IBaseInterface value)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateDocumentFromBase(IBaseInterface intf) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 196|System.ServiceModel.CommunicationException: Ошибка сериализации параметра http://tempuri.org/:value. Сообщение InnerException было "Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.".  Подробнее см. InnerException. ---> System.Runtime.Serialization.SerializationException: Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeAndVerifyType(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, Boolean verifyKnownType, RuntimeTypeHandle declaredTypeHandle, Type declaredType)
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeWithXsiTypeAtTopLevel(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, RuntimeTypeHandle originalDeclaredTypeHandle, Type graphType)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObjectContent(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObject(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObjectHandleExceptions(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObject(XmlDictionaryWriter writer, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   --- Конец трассировки внутреннего стека исключений ---
+
+Server stack trace: 
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameter(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameters(XmlDictionaryWriter writer, PartInfo[] parts, Object[] parameters)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeBody(XmlDictionaryWriter writer, MessageVersion version, String action, MessageDescription messageDescription, Object returnValue, Object[] parameters, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.SerializeBodyContents(XmlDictionaryWriter writer, MessageVersion version, Object[] parameters, Object returnValue, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.OperationFormatterMessage.OperationFormatterBodyWriter.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BodyWriterMessage.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.Message.OnWriteMessage(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BufferedMessageWriter.WriteMessage(Message message, BufferManager bufferManager, Int32 initialOffset, Int32 maxSizeQuota)
+   в System.ServiceModel.Channels.BinaryMessageEncoderFactory.BinaryMessageEncoder.WriteMessage(Message message, Int32 maxMessageSize, BufferManager bufferManager, Int32 messageOffset)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.EncodeMessage(Message message)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.OnSendCore(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.TransportDuplexSessionChannel.OnSend(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.OutputChannel.Send(Message message, TimeSpan timeout)
+   в System.ServiceModel.Dispatcher.DuplexChannelBinder.Request(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.UpdateCurrentDocumentFromBase(IBaseInterface value)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateDocumentFromBase(IBaseInterface intf) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 196
+10-10-2017 10:55:36|FATAL|IKSAR|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.NonBaseStatesUpdater(INonBaseStatesInterface updater)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateNonBaseStates(INonBaseStatesInterface updater) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 112|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.NonBaseStatesUpdater(INonBaseStatesInterface updater)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateNonBaseStates(INonBaseStatesInterface updater) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 112
+10-10-2017 10:55:37|FATAL|IKSAR|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.ModuleIsLoaded()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<CheckConnect>b__35_0() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 470|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.ModuleIsLoaded()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<CheckConnect>b__35_0() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 470
+10-10-2017 10:55:37|INFO|IKSAR|Ошибка синхронизации с сервисом WCF|
+10-10-2017 10:55:39|FATAL|IKSAR|System.ServiceModel.CommunicationException: Ошибка сериализации параметра http://tempuri.org/:value. Сообщение InnerException было "Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.".  Подробнее см. InnerException. ---> System.Runtime.Serialization.SerializationException: Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeAndVerifyType(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, Boolean verifyKnownType, RuntimeTypeHandle declaredTypeHandle, Type declaredType)
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeWithXsiTypeAtTopLevel(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, RuntimeTypeHandle originalDeclaredTypeHandle, Type graphType)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObjectContent(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObject(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObjectHandleExceptions(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObject(XmlDictionaryWriter writer, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   --- Конец трассировки внутреннего стека исключений ---
+
+Server stack trace: 
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameter(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameters(XmlDictionaryWriter writer, PartInfo[] parts, Object[] parameters)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeBody(XmlDictionaryWriter writer, MessageVersion version, String action, MessageDescription messageDescription, Object returnValue, Object[] parameters, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.SerializeBodyContents(XmlDictionaryWriter writer, MessageVersion version, Object[] parameters, Object returnValue, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.OperationFormatterMessage.OperationFormatterBodyWriter.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BodyWriterMessage.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.Message.OnWriteMessage(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BufferedMessageWriter.WriteMessage(Message message, BufferManager bufferManager, Int32 initialOffset, Int32 maxSizeQuota)
+   в System.ServiceModel.Channels.BinaryMessageEncoderFactory.BinaryMessageEncoder.WriteMessage(Message message, Int32 maxMessageSize, BufferManager bufferManager, Int32 messageOffset)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.EncodeMessage(Message message)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.OnSendCore(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.TransportDuplexSessionChannel.OnSend(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.OutputChannel.Send(Message message, TimeSpan timeout)
+   в System.ServiceModel.Dispatcher.DuplexChannelBinder.Request(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.UpdateCurrentDocumentFromBase(IBaseInterface value)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateDocumentFromBase(IBaseInterface intf) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 196|System.ServiceModel.CommunicationException: Ошибка сериализации параметра http://tempuri.org/:value. Сообщение InnerException было "Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.".  Подробнее см. InnerException. ---> System.Runtime.Serialization.SerializationException: Тип "Medo.Core.Models.DocumentsCopy" с именем контракта данных "DocumentsCopy:http://schemas.datacontract.org/2004/07/Medo.Core.Models" не ожидается. Попробуйте использовать DataContractResolver, если вы используете DataContractSerializer, или добавьте любые статически неизвестные типы в список известных типов - например, используя атрибут KnownTypeAttribute или путем их добавления в список известных типов, передаваемый в сериализатор.
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeAndVerifyType(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, Boolean verifyKnownType, RuntimeTypeHandle declaredTypeHandle, Type declaredType)
+   в System.Runtime.Serialization.XmlObjectSerializerWriteContext.SerializeWithXsiTypeAtTopLevel(DataContract dataContract, XmlWriterDelegator xmlWriter, Object obj, RuntimeTypeHandle originalDeclaredTypeHandle, Type graphType)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObjectContent(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.DataContractSerializer.InternalWriteObject(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObjectHandleExceptions(XmlWriterDelegator writer, Object graph, DataContractResolver dataContractResolver)
+   в System.Runtime.Serialization.XmlObjectSerializer.WriteObject(XmlDictionaryWriter writer, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   --- Конец трассировки внутреннего стека исключений ---
+
+Server stack trace: 
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameterPart(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameter(XmlDictionaryWriter writer, PartInfo part, Object graph)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeParameters(XmlDictionaryWriter writer, PartInfo[] parts, Object[] parameters)
+   в System.ServiceModel.Dispatcher.DataContractSerializerOperationFormatter.SerializeBody(XmlDictionaryWriter writer, MessageVersion version, String action, MessageDescription messageDescription, Object returnValue, Object[] parameters, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.SerializeBodyContents(XmlDictionaryWriter writer, MessageVersion version, Object[] parameters, Object returnValue, Boolean isRequest)
+   в System.ServiceModel.Dispatcher.OperationFormatter.OperationFormatterMessage.OperationFormatterBodyWriter.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BodyWriterMessage.OnWriteBodyContents(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.Message.OnWriteMessage(XmlDictionaryWriter writer)
+   в System.ServiceModel.Channels.BufferedMessageWriter.WriteMessage(Message message, BufferManager bufferManager, Int32 initialOffset, Int32 maxSizeQuota)
+   в System.ServiceModel.Channels.BinaryMessageEncoderFactory.BinaryMessageEncoder.WriteMessage(Message message, Int32 maxMessageSize, BufferManager bufferManager, Int32 messageOffset)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.EncodeMessage(Message message)
+   в System.ServiceModel.Channels.FramingDuplexSessionChannel.OnSendCore(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.TransportDuplexSessionChannel.OnSend(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.OutputChannel.Send(Message message, TimeSpan timeout)
+   в System.ServiceModel.Dispatcher.DuplexChannelBinder.Request(Message message, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.UpdateCurrentDocumentFromBase(IBaseInterface value)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateDocumentFromBase(IBaseInterface intf) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 196
+10-10-2017 10:55:39|FATAL|IKSAR|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.NonBaseStatesUpdater(INonBaseStatesInterface updater)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateNonBaseStates(INonBaseStatesInterface updater) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 112|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.NonBaseStatesUpdater(INonBaseStatesInterface updater)
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.UpdateNonBaseStates(INonBaseStatesInterface updater) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 112
+10-10-2017 10:55:47|FATAL|IKSAR|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.ModuleIsLoaded()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<CheckConnect>b__35_0() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 470|System.ServiceModel.CommunicationObjectFaultedException: Коммуникационный объект System.ServiceModel.Channels.ServiceChannel нельзя использовать для связи, так как он находится в состоянии Faulted.
+
+Server stack trace: 
+   в System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   в System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   в System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   в System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в Medo.Core.Contracts.IMedoServerContract.ModuleIsLoaded()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<CheckConnect>b__35_0() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 470
+10-10-2017 10:55:57|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-10-2017 10:56:57|INFO|IKSAR|Получен документ: Приказ - Минюст России - 3164/17-НПА от  директория № 3164_17-НПА от 10_10_2017 Зарегистрированные НПА ФОИВ AF88W9N4|
+10-10-2017 11:04:15|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:04:15|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:04:15|INFO|IKSAR|Подключение директории для Системы: |
+10-10-2017 11:04:15|INFO|IKSAR|Подключение резервного сервера: |
+10-10-2017 11:04:18|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-10-2017 11:04:18|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-10-2017 11:04:19|INFO|IKSAR|Модули загружены|
+10-10-2017 11:04:20|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-10-2017 11:40:01|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:40:01|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:40:01|INFO|IKSAR|Подключение директории для Системы: |
+10-10-2017 11:40:01|INFO|IKSAR|Подключение резервного сервера: |
+10-10-2017 11:40:02|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-10-2017 11:40:02|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-10-2017 11:40:03|INFO|IKSAR|Модули загружены|
+10-10-2017 11:40:04|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-10-2017 11:48:14|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:48:15|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:48:15|INFO|IKSAR|Подключение директории для Системы: |
+10-10-2017 11:48:15|INFO|IKSAR|Подключение резервного сервера: |
+10-10-2017 11:48:17|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-10-2017 11:48:17|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-10-2017 11:48:17|INFO|IKSAR|Модули загружены|
+10-10-2017 11:48:18|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+10-10-2017 11:52:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:52:36|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+10-10-2017 11:52:36|INFO|IKSAR|Подключение директории для Системы: |
+10-10-2017 11:52:36|INFO|IKSAR|Подключение резервного сервера: |
+10-10-2017 11:52:38|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+10-10-2017 11:52:38|INFO|IKSAR|Модуль TrayInfoModule загружен|
+10-10-2017 11:52:39|INFO|IKSAR|Модули загружены|
+10-10-2017 11:52:41|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|

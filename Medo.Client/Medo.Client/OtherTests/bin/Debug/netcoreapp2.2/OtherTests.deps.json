@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2/",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {},
+    ".NETCoreApp,Version=v2.2/": {
+      "othertests/1.0.0": {
+        "dependencies": {
+          "Medo.Client.Collections": "1.0.0"
+        },
+        "runtime": {
+          "OtherTests.dll": {}
+        }
+      },
+      "medo.client.collections/1.0.0": {
+        "dependencies": {
+          "Medo.Core": "1.0.0"
+        },
+        "runtime": {
+          "Medo.Client.Collections.dll": {}
+        }
+      },
+      "medo.core/1.0.0": {
+        "runtime": {
+          "Medo.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "othertests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "medo.client.collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "medo.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

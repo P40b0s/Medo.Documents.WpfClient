@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Medo.Client.Collections/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Medo.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Medo.Client.Collections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Medo.Client.Collections.dll": {}
+        }
+      },
+      "Medo.Core/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Medo.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Medo.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medo.Client.Collections/1.0.0": {
+      "type": "project",
+      "path": "../../../Medo.Client.Collections/Medo.Client.Collections.csproj",
+      "msbuildProject": "../../../Medo.Client.Collections/Medo.Client.Collections.csproj"
+    },
+    "Medo.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../Medo.Core/Medo.Core/Medo.Core.csproj",
+      "msbuildProject": "../../../Medo.Core/Medo.Core/Medo.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "Medo.Client.Collections >= 1.0.0",
+      "Microsoft.NET.Test.Sdk >= 15.9.0",
+      "Microsoft.NETCore.App >= 2.2.0",
+      "NUnit3TestAdapter >= 3.11.0",
+      "nunit >= 3.11.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Iksar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Iksar\\Documents\\Visual Studio 2015\\Projects\\Medo.Wcf.Service_obsolette\\Medo\\Medo.Client\\Medo.Client\\OtherTests\\OtherTests.csproj",
+      "projectName": "OtherTests",
+      "projectPath": "C:\\Users\\Iksar\\Documents\\Visual Studio 2015\\Projects\\Medo.Wcf.Service_obsolette\\Medo\\Medo.Client\\Medo.Client\\OtherTests\\OtherTests.csproj",
+      "packagesPath": "C:\\Users\\Iksar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Iksar\\Documents\\Visual Studio 2015\\Projects\\Medo.Wcf.Service_obsolette\\Medo\\Medo.Client\\Medo.Client\\OtherTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Iksar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Iksar\\.nuget\\packages": {},
+        "C:\\nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Users\\Iksar\\Documents\\Visual Studio 2015\\Projects\\Medo.Wcf.Service_obsolette\\Medo\\Medo.Client.Collections\\Medo.Client.Collections.csproj": {
+              "projectPath": "C:\\Users\\Iksar\\Documents\\Visual Studio 2015\\Projects\\Medo.Wcf.Service_obsolette\\Medo\\Medo.Client.Collections\\Medo.Client.Collections.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[15.9.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.2.0, )",
+            "autoReferenced": true
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[3.11.0, )"
+          },
+          "nunit": {
+            "target": "Package",
+            "version": "[3.11.0, )"
+          }
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Не удалось найти пакет nunit с версией (>= 3.11.0)\r\n  - В localNuget обнаружено несколько версий (1) [ Ближайшая версия: 3.6.0 ]\r\n  - В Local обнаружено несколько версий (0)\r\n  - В Microsoft Visual Studio Offline Packages обнаружено несколько версий (0)",
+      "libraryId": "nunit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Не удалось найти пакет Microsoft.NETCore.App с версией (>= 2.2.0)\r\n  - В localNuget обнаружено несколько версий (1) [ Ближайшая версия: 1.1.2 ]\r\n  - В Local обнаружено несколько версий (0)\r\n  - В Microsoft Visual Studio Offline Packages обнаружено несколько версий (0)",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Не удалось найти пакет Microsoft.NET.Test.Sdk с версией (>= 15.9.0)\r\n  - В localNuget обнаружено несколько версий (1) [ Ближайшая версия: 15.0.0-preview-20161024-02 ]\r\n  - В Local обнаружено несколько версий (0)\r\n  - В Microsoft Visual Studio Offline Packages обнаружено несколько версий (0)",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет NUnit3TestAdapter. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: Local, localNuget, Microsoft Visual Studio Offline Packages",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
+}

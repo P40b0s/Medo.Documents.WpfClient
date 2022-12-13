@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PublicationReport xmlns="http://publication.pravo.gov.ru">
+  <DocumentRequisites
+    MedoGuid="2a72e35a-37ef-44b6-853f-fff4b67c8dfe"
+    MedoSourceGuid="88f0264a-3967-4f26-8cd6-b58b45580d55">
+    <OrganName>Президент Российской Федерации</OrganName>
+    <Type>Федеральный закон</Type>
+    <Number>316-ФЗ</Number>
+    <SignDate>2017-11-15T00:00:00</SignDate>
+  </DocumentRequisites>
+  <MinJustRequisites>
+    <MJRegistrationNumber>33456</MJRegistrationNumber>
+    <MJRegistrationDate>2017-11-01T00:00:00</MJRegistrationDate>
+  </MinJustRequisites>
+  <PublicationRequisites
+    IzdanieId="18c677c6-accc-41db-8d01-e88b49a72199"
+    DialyPublicationLink="http://publication.pravo.gov.ru/Search/Date?date=10%2F15%2F2017%2000%3A00%3A00"
+    DocumentPublicationLink="http://publication.pravo.gov.ru/Document/View/0001201710150001">
+    <PublicationNumber>0001201710150001</PublicationNumber>
+    <PublicationDate>2017-10-15T00:00:00</PublicationDate>
+    <ComplexName>Федеральный закон от 15.11.2017 № 316-ФЗ 
+ О внесении изменений в Федеральный закон О федеральном бюджете на 2017 год и на плановый период 2018 и 2019 годов 
+ (Зарегистрирован 01.11.2017 № 33456)</ComplexName>
+  </PublicationRequisites>
+</PublicationReport>

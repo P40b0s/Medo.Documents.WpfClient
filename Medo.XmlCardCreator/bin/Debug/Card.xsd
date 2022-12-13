@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xs:schema xmlns:xdms="http://www.infpres.com/IEDMS" xmlns:wsdl="http://microsoft.com/wsdl/types/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.infpres.com/IEDMS" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="guid.xsd" namespace="http://microsoft.com/wsdl/types/"/>
+  <xs:element name="communication">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="header">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="source">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="organization" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute ref="xdms:uid" use="required"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="operator" type="xs:string" minOccurs="0"/>
+              <xs:element name="comment" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+            <xs:attribute ref="xdms:type" use="required"/>
+            <xs:attribute ref="xdms:uid" use="required"/>
+            <xs:attribute ref="xdms:created" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="document">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kind">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute ref="xdms:id" use="optional" />
+                      <xs:attribute ref="xdms:retro" use="optional" />
+                      <xs:attribute ref="xdms:modified" use="optional" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="num">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="number" type="xs:string"/>
+                    <xs:element name="date" type="xs:date"/>
+                  </xs:sequence>
+                </xs:complexType>
+
+              </xs:element>
+              <!--Гриф доступа к документу-->
+              <xs:element name="classification" type="xs:string" minOccurs="0"/>
+              <!--срочность доставки-->
+              <xs:element name="urgency" type="xs:string" minOccurs="0"/>
+              <xs:element name="signatories" minOccurs="0"/>
+              <!--Адресаты документа-->
+              <xs:element name="addressees" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="addressee" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="number" type="xs:string"/>
+                    <xs:element name="date" type="xs:date"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="pages" minOccurs="0"/>
+              <xs:element name="enclosuresPages" minOccurs="0"/>
+              <!--Аннотация к документу (обычно его название)-->
+              <xs:element name="annotation" type="xs:string"/>
+              <xs:element name="correspondents" minOccurs="0"/>
+              <!--Исполнитель по документу в организации-->
+              <xs:element name="executor" minOccurs="0"/>
+            </xs:sequence>
+            <xs:attribute ref="xdms:uid" use="required"/>
+            <xs:attribute ref="xdms:id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="files" minOccurs="0"/>
+      </xs:sequence>
+      <xs:attribute ref="xdms:version" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:attribute name="version" type="xs:decimal"/>
+  <xs:attribute name="type" type="wsdl:documenttype"/>
+  <xs:attribute name="uid" type="wsdl:guid"/>
+  <xs:attribute name="created" type="xs:dateTime"/>
+  <xs:attribute name="id" type="xs:string"/>
+  <xs:attribute name="retro" type="xs:boolean" />
+  <xs:attribute name="modified" type="xs:dateTime" />
+  <xs:attribute name="localName" type="xs:string" />
+  <xs:attribute name="localId" type="xs:unsignedByte" />
+
+
+</xs:schema>

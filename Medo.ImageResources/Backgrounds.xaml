@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <ImageSource x:Key="Green_Light">pack://application:,,,/Medo.ImageResources;component/Images/Backgrounds/green_light_high.png</ImageSource>
+    <ImageSource x:Key="Blue_Code">pack://application:,,,/Medo.ImageResources;component/Images/Backgrounds/blue_code.png</ImageSource>
+</ResourceDictionary>

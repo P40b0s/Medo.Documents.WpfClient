@@ -1,0 +1,160 @@
+﻿<UserControl x:Class="Medo.Controls.TextEditor.SpellCheckTextEditor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"         
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"             
+             >
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid DataContext="{Binding RelativeSource={RelativeSource AncestorType={x:Type UserControl}}}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="5"/>
+        </Grid.RowDefinitions>
+        <!--Кнопки обработки текста-->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" 
+                     Margin="2,0,0,0"
+                    Command="{Binding TextToLowerCaseCommand}"
+                    ToolTip="Перевести текст в нижний регистр">
+                <Image Source="{StaticResource MedoClientLowRegistryIcon}"/>
+            </Button>
+
+            <Button Grid.Column="1"
+                    Command="{Binding RefreshTextCommand}"
+                    Margin="2,0,0,0"
+                    ToolTip="Обновить представление текста">
+                <Image Source="{StaticResource MedoClientSpellCheckIcon}"/>
+            </Button>
+
+            <Button Grid.Column="4"
+                    ToolTip="Стереть наименование документа"
+                    Command="{Binding ClearTextCommand}"
+                    HorizontalAlignment="Right"
+                     Margin="2,0,0,0">
+                <Image Source="{StaticResource MedoClientClearIcon}"/>
+            </Button>
+        </Grid>
+        
+        <RichTextBox x:Name="rtb" 
+                     Grid.Row="1"
+                     MaxHeight="290"
+                     FontSize="15"
+                     ScrollViewer.CanContentScroll="True"
+                     ScrollViewer.VerticalScrollBarVisibility="Auto" 
+                     Cursor="Pen">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <prism:InvokeCommandAction Command="{Binding SelectAndGetTextCommand}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+         
+        </RichTextBox>
+        <Popup x:Name="IntelliPopUp"  Grid.Row="1" IsOpen="{Binding IntelliOpen}">
+            <ListBox x:Name="IntelliListBox"  ItemsSource="{Binding IntelliWords}"/>
+        </Popup>
+        <TextBox FontSize="14"
+                 Background="#FFDFFFB1"
+                 Grid.Row="2"
+                 Text="{Binding Comment, Mode=TwoWay}"
+                 metro:TextBoxHelper.Watermark="Коментарий к документу..."/>
+        <ProgressBar Grid.Row="3" Maximum="{Binding CheckMaximum}" Value="{Binding CheckValue}"/>
+
+        <metro:Flyout x:Name="SpellCheckFlyOut"
+                      Header="{Binding SpellCheckerHeaderName}"
+                      Panel.ZIndex="9"
+                      Opacity="0.9"
+                      Position="Right"
+                      IsOpen="{Binding SpellcheckFlyoutIsOpen, Mode=TwoWay}"
+                      IsModal="True"
+                      Grid.Row="0"
+                      Grid.RowSpan="4">
+            <Grid Margin="0,0,0,5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="215"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+                <ListBox x:Name="ContextMenuListBox"
+                         Margin="0,5"
+                         Width="200"
+                         FontFamily="Calibri"
+                         FontSize="16"
+                         ItemsSource="{Binding WordsAutomation}"
+                         Grid.Row="0"
+                         SelectedItem="{Binding SpellCheckerSelectedWord, Mode=TwoWay}"
+                         VerticalAlignment="Top">
+                    <ListBox.Resources>
+                        <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#FFAD54"/>
+                    </ListBox.Resources>
+                </ListBox>
+                <TextBox TabIndex="2" 
+                         x:Name="spell"
+                         TextWrapping="Wrap"
+                         Text="{Binding SpellCheckerText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                         FontWeight="Bold"
+                         FontSize="16"
+                         Foreground="Black"
+                         Grid.Row="1"
+                         VerticalAlignment="Bottom">
+                    <TextBox.Style>
+                        <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource {x:Type TextBox}}">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding AddOrChange}" Value="true">
+                                    <Setter Property="Background" Value="#FFFF9898"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding AddOrChange}" Value="false">
+                                    <Setter Property="Background" Value="#FF97F097"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBox.Style>
+                </TextBox>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0"
+                            Command="{Binding ChangeWordCommand}">
+                        <TextBlock Text="Принять" FontFamily="Calibri" FontSize="16" Foreground="#FF191D16"/>
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding AddOrChange}" Value="true">
+                                        <Setter Property="Background" Value="#FFFF9898"/>
+                                        <Setter Property="ToolTip" Value="Данное слово отсуствует в словаре, при нажатии кнопки Принять оно будет добавлено в словарь."/>
+                                    </DataTrigger>
+                                    <DataTrigger Binding="{Binding AddOrChange}" Value="false">
+                                        <Setter Property="Background" Value="#FF97F097"/>
+                                        <Setter Property="ToolTip" Value="Заменить выбранное слово."/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                    <Button Grid.Column="1"  Background="#FFFBB186" Command="{Binding SpellCheckFlyoutIsOpenCommand}">
+                        <TextBlock Text="Отмена" FontFamily="Calibri" FontSize="16" Margin="10,1,0,0" Foreground="#FF191D16"/>
+                    </Button>
+                </Grid>
+            </Grid>
+        </metro:Flyout>
+    </Grid>
+</UserControl>

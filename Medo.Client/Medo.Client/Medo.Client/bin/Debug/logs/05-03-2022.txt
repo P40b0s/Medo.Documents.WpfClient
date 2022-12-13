@@ -1,0 +1,167 @@
+05-03-2022 22:51:28|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+05-03-2022 22:51:28|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+05-03-2022 22:51:28|INFO|IKSAR|Подключение директории для Системы: |
+05-03-2022 22:52:20|INFO|IKSAR|Подключение резервного сервера: Error: Unknown, 53|
+05-03-2022 22:52:21|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.exe|
+05-03-2022 22:52:21|INFO|IKSAR|Модуль TrayInfoModule загружен|
+05-03-2022 22:52:22|INFO|IKSAR|Модули загружены|
+05-03-2022 22:52:22|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+05-03-2022 22:52:24|FATAL|IKSAR|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0030000. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__34.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 450|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0030000. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__34.MoveNext() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 450
+05-03-2022 23:02:39|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '3205632 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:40|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '8524288 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:40|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '13839360 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:40|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '660128 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:40|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '963232 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:40|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '9720042 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:41|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10999808 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:41|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '455328 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:41|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '970912 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+
+05-03-2022 23:02:41|INFO|IKSAR|System.BadImageFormatException: Не удалось загрузить файл или сборку "10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+|System.BadImageFormatException: Не удалось загрузить файл или сборку "10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" либо одну из их зависимостей. Была сделана попытка загрузить программу, имеющую неверный формат.
+Имя файла: '10535057 bytes loaded from Medo.Client.Updater.XmlConfigurationUpdater, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' ---> System.BadImageFormatException: Неправильный формат IL.
+   в System.Reflection.RuntimeAssembly.nLoadImage(Byte[] rawAssembly, Byte[] rawSymbolStore, Evidence evidence, StackCrawlMark& stackMark, Boolean fIntrospection, Boolean fSkipIntegrityCheck, SecurityContextSource securityContextSource)
+   в System.Reflection.Assembly.Load(Byte[] rawAssembly)
+   в Medo.Client.Updater.XmlConfigurationUpdater.Program.Main(String[] args)
+
+

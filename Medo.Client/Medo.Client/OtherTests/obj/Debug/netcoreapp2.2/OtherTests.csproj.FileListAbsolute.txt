@@ -1,0 +1,4 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client\Medo.Client\OtherTests\bin\Debug\netcoreapp2.2\OtherTests.deps.json
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client\Medo.Client\OtherTests\obj\Debug\netcoreapp2.2\OtherTests.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client\Medo.Client\OtherTests\obj\Debug\netcoreapp2.2\OtherTests.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Medo.Client\Medo.Client\OtherTests\obj\Debug\netcoreapp2.2\OtherTests.AssemblyInfo.cs

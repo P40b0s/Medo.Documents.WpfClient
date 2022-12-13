@@ -1,0 +1,17 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\SedRegistrationTest.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\SedRegistrationTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\SedRegistrationTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\bin\Release\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\MainWindow.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\MainWindow.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.SedRegistration\SedRegistrationTest\obj\Release\SedRegistrationTest.pdb

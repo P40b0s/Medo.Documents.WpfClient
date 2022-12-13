@@ -1,0 +1,84 @@
+28-07-2017 10:52:19|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 10:52:22|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 10:52:23|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 10:52:24|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 10:53:00|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 10:53:00|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 10:53:55|INFO|IKSAR|Модули загружены|
+28-07-2017 10:54:34|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 10:54:34|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 10:54:34|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 10:54:34|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:07:31|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:07:32|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:07:32|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:07:32|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:07:54|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:07:54|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:08:04|INFO|IKSAR|Модули загружены|
+28-07-2017 11:08:13|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:11:31|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:11:33|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:11:33|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:11:33|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:11:45|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:11:45|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:11:52|INFO|IKSAR|Модули загружены|
+28-07-2017 11:11:57|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:12:51|FATAL|IKSAR|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в Medo.Modules.PdfViewerModule.TextBlocksSearch.ContainsCheck() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\TextBlocksSearch.cs:строка 325|System.InvalidOperationException: Коллекция была изменена; невозможно выполнить операцию перечисления.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   в System.Collections.Generic.List`1.Enumerator.MoveNext()
+   в Medo.Modules.PdfViewerModule.TextBlocksSearch.ContainsCheck() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\TextBlocksSearch.cs:строка 325
+28-07-2017 11:14:25|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:14:25|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:14:25|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:14:25|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:14:28|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:14:28|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:14:30|INFO|IKSAR|Модули загружены|
+28-07-2017 11:14:31|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:15:26|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:15:26|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:15:26|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:15:26|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:15:29|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:15:29|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:15:30|INFO|IKSAR|Модули загружены|
+28-07-2017 11:15:32|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:18:09|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:18:09|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:18:09|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:18:09|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:18:12|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:18:12|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:18:12|INFO|IKSAR|Модули загружены|
+28-07-2017 11:18:14|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:20:15|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:20:15|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:20:15|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:20:15|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:20:17|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:20:17|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:20:18|INFO|IKSAR|Модули загружены|
+28-07-2017 11:20:19|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:21:35|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:21:35|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:21:35|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:21:35|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:21:37|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:21:37|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:21:38|INFO|IKSAR|Модули загружены|
+28-07-2017 11:21:39|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+28-07-2017 11:31:50|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:31:51|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+28-07-2017 11:31:51|INFO|IKSAR|Подключение директории для Системы: |
+28-07-2017 11:31:51|INFO|IKSAR|Подключение резервного сервера: |
+28-07-2017 11:32:00|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+28-07-2017 11:32:00|INFO|IKSAR|Модуль TrayInfoModule загружен|
+28-07-2017 11:32:05|INFO|IKSAR|Модули загружены|
+28-07-2017 11:32:09|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|

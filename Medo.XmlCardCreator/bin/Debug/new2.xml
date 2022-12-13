@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xdms:communication xdms:version="2.5" xmlns:xdms="http://www.infpres.com/IEDMS">
+  <xdms:header xdms:type="Документ" xdms:uid="9ca8d86f-bce7-41b5-b988-f4c8d88ea8d2" xdms:created="2016-06-20T13:56:59">
+    <xdms:source xdms:uid="cb19544e-cf80-4ec5-93df-36162e01efbe">
+      <xdms:organization>Принявший орган</xdms:organization>
+    </xdms:source>
+    <xdms:operator>Система атоматического создания XML</xdms:operator>
+  </xdms:header>
+  <xdms:document>
+    <xdms:kind>Вид документа</xdms:kind>
+    <xdms:num>
+      <xdms:number>999999</xdms:number>
+      <xdms:date>2015-06-20</xdms:date>
+    </xdms:num>
+    <xdms:signatories>
+      <xdms:signatory>
+        <xdms:signed>2015-06-20</xdms:signed>
+      </xdms:signatory>
+    </xdms:signatories>
+    <xdms:annotation>IJOISJFOIWJFOIWEJFPWEFJPWEOFJKpokwefpokwepofkwpeofkpOKEFPOWEKF щлцщзулащзцулащзo koekfpowekf woekfpwoekfp kpeofkp okwpoefkp okwpeofkp okwpeofk pokwpoefkpowe</xdms:annotation>
+  </xdms:document>
+</xdms:communication>

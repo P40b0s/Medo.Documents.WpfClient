@@ -1,0 +1,19 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:prism="http://prismlibrary.com/">
+
+    <ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary.MergedDictionaries>
+    <DoubleAnimation x:Key="StartButtonsAnimation" Storyboard.TargetProperty="Opacity" To="1" Duration="0:0:2"/>
+    <DoubleAnimation x:Key="StopButtonsAnimation" Storyboard.TargetProperty="Opacity" To="0" Duration="0:0:2"/>
+    <DoubleAnimation x:Key="StartProgressAnimation" Storyboard.TargetProperty="Opacity" To="1" Duration="0:0:1"/>
+    <DoubleAnimation x:Key="StopProgressAnimation" Storyboard.TargetProperty="Opacity" To="0" Duration="0:0:1"/>
+    
+    <ColorAnimation x:Key="StartRectanleMouseOverAnimation" Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)" To="#4CFF2300" Duration="0:0:0.3"/>
+    <ColorAnimation x:Key="StartRectanleMouseLeaveAnimation" Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)" To="#4CB5F16C" Duration="0:0:0.3"/>
+
+  
+</ResourceDictionary>

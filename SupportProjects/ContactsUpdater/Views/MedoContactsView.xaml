@@ -1,0 +1,39 @@
+﻿<metro:MetroWindow x:Class="ContactsUpdater.Views.MedoContactsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:childWindow="clr-namespace:MahApps.Metro.SimpleChildWindow;assembly=MahApps.Metro.SimpleChildWindow"
+             xmlns:cal="http://www.caliburnproject.org"
+             Title="Контакты МЭДО"
+             xmlns:local="clr-namespace:ContactsUpdater.Views">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="500"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <ListBox ItemsSource="{Binding Contacts}"
+                 SelectedItem="{Binding SelectedItem}">
+            
+        </ListBox>
+
+
+        <Button Content="Добавить новый контакт" Grid.Row="1" cal:Message.Attach="[Event Click] = [Action OpenNewContactDialog]"/>
+        
+
+
+        <childWindow:ChildWindow IsOpen="{Binding CreateNewContactWindowIsOpen}"
+                                  CloseByEscape="True"
+                                  IsModal="True"
+                                  Title="Добавление нового контакта"
+                                  ShowCloseButton="True"
+                                  Grid.RowSpan="2"
+                                  >
+            <StackPanel Orientation="Vertical">
+                <CheckBox/>
+                <Button Content="Добавить"/>
+            </StackPanel>
+           
+        </childWindow:ChildWindow>
+    </Grid>
+   
+</metro:MetroWindow>

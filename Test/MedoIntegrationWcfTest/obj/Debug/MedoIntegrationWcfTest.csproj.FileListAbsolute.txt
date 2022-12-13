@@ -1,0 +1,13 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\MedoIntegrationWcfTest\bin\Debug\MedoIntegrationWcfTest.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\MedoIntegrationWcfTest\bin\Debug\MedoIntegrationWcfTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\MedoIntegrationWcfTest\bin\Debug\MedoIntegrationWcfTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\bin\Debug\MedoIntegrationWcfTest.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\bin\Debug\MedoIntegrationWcfTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\bin\Debug\MedoIntegrationWcfTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\MedoIntegrationWcfTest\obj\Debug\MedoIntegrationWcfTest.pdb

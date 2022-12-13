@@ -1,0 +1,2 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Release\XmlCardCreator.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\obj\Release\Medo.XmlCardCreator.csproj.GenerateResource.Cache

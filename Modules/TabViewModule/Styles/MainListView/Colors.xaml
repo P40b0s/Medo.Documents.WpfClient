@@ -1,0 +1,27 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+             xmlns:prism="http://prismlibrary.com/">
+
+    <SolidColorBrush x:Key="SortButtonPressedColor" Color="#FFB4FF30"/>
+    <SolidColorBrush x:Key="FilterIsActiveColor" Color="#FF8AE4FF"/>
+    <SolidColorBrush x:Key="FilterIsActiveBorderColor" Color="#FF7FFF14"/>
+    <SolidColorBrush x:Key="buttonispressed" Color="Red"/>
+    
+    <SolidColorBrush x:Key="DoublesColor" Color="#FFF0BA2C"/>
+    <SolidColorBrush x:Key="DefferedOpenColor" Color="#FFFF7979"/>
+    <SolidColorBrush x:Key="IzdanieUploadColor" Color="#FFF7FFAB"/>
+    <SolidColorBrush x:Key="IzdanieUploadToPublicationServerColor" Color="#FFC8D47D"/>
+    <SolidColorBrush x:Key="PublicationComplieteColor" Color="#FFA6FB86"/>
+    <SolidColorBrush x:Key="SelectedDocumentColor" Color="#FF00C3CD"/>
+    <SolidColorBrush x:Key="SelectorSelectedDocumentColor" Color="#997DDCFF"/>
+    <SolidColorBrush x:Key="EditDocumentActiveColor" Color="#FFD496FF"/>
+    <SolidColorBrush x:Key="StandartDocumentColor" Color="White"/>
+    <SolidColorBrush x:Key="TestColor" Color="#FFC8FFCD"/>
+
+    <SolidColorBrush x:Key="AddedFilterColor" Color="#FFFF6252"/>
+    <SolidColorBrush x:Key="ActiveFilterColor" Color="#FF56A019"/>
+
+</ResourceDictionary>

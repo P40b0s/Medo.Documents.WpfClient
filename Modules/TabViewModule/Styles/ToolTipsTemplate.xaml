@@ -1,0 +1,268 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:collection="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+             xmlns:dr="drawning"
+             xmlns:prism="http://prismlibrary.com/">
+
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Colors.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+    <Style x:Key="DoublesStyleToolTipTemplate" TargetType="{x:Type ToolTip}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="HasDropShadow" Value="True"/>
+        <Setter Property="FontFamily" Value="Tahoma"/>
+        <Setter Property="Opacity" Value="0.90"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToolTip}">
+                    <Grid Background="Transparent">
+                        <ListBox ItemsSource="{Binding DoubleIdentification}">
+                            <ListBox.ItemContainerStyle>
+                                <Style TargetType="ListBoxItem">
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding}" Value="4">
+                                            <Setter Property="Content" Value="Проверяемый документ"/>
+                                            <Setter Property="Foreground" Value="Green"/>
+                                            <Setter Property="FontWeight" Value="Bold"/>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding}" Value="0">
+                                            <Setter Property="Content" Value="Совпадение реквизитов с проверяемым документом"/>
+                                            <Setter Property="Foreground" Value="Red"/>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding}" Value="1">
+                                            <Setter Property="Content" Value="Совпадение идентификатора (DocGuid) c проверяемым документом"/>
+                                            <Setter Property="Foreground" Value="Red"/>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding}" Value="2">
+                                            <Setter Property="Content" Value="Совпадение хэша PDF файла с проверяемым документом"/>
+                                            <Setter Property="Foreground" Value="Red"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </ListBox.ItemContainerStyle>
+                        </ListBox>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+    <Style x:Key="ContactsToolTipStyle" TargetType="{x:Type ToolTip}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="HasDropShadow" Value="True"/>
+        <Setter Property="FontFamily" Value="Tahoma"/>
+        <Setter Property="Opacity" Value="0.90"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToolTip}">
+                    <Grid Background="Transparent">
+                        <ListBox ItemsSource="{Binding Source={x:Static collection:StaticCollections.MainCollection}, Path=Contacts}">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <Border BorderBrush="#FF4896F3" CornerRadius="2" BorderThickness="2">
+                                        <Grid Margin="5">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="250"/>
+                                                <ColumnDefinition Width="auto"/>
+                                                <ColumnDefinition Width="auto"/>
+                                            </Grid.ColumnDefinitions>
+                                            <StackPanel x:Name="Peoples" Orientation="Vertical" Grid.Column="0">
+                                                <TextBlock Text="ФИО" Foreground="Red" FontSize="18"/>
+                                                <!--<Image Source="{StaticResource BlackCatIco}" Height="60"/>-->
+                                                <TextBlock Text="{Binding FIO}" TextWrapping="Wrap" Margin="0,5,0,0" FontWeight="Bold" FontSize="18"/>
+                                                <TextBlock x:Name="post" Text="{Binding Post}" TextWrapping="Wrap" Margin="0,5,0,0" Background="#FFC5F4FF"/>
+                                                <TextBlock x:Name="dep" Text="{Binding Department}" TextWrapping="Wrap" Margin="0,5,0,0" Background="#FFC5F4FF"/>
+                                                <TextBlock x:Name="com" Text="{Binding Comment}" TextWrapping="Wrap" Margin="0,5,0,0" Background="#FFC5F4FF"/>
+                                            </StackPanel>
+
+                                            <StackPanel x:Name="phones" Orientation="Vertical" Grid.Column="1">
+                                                <TextBlock Text="Контакты" Foreground="Red" FontSize="18"/>
+                                                <TextBlock Text="{Binding WorkingPhones}" TextWrapping="Wrap" Margin="0,5,0,0" FontWeight="Bold" FontSize="18"/>
+                                                <TextBlock Text="{Binding MobilePhones}" TextWrapping="Wrap" Margin="0,5,0,0"/>
+                                                <TextBlock Text="{Binding Email}" Margin="0,5,0,0" FontWeight="DemiBold" Foreground="Blue"/>
+                                            </StackPanel>
+                                        </Grid>
+                                    </Border>
+                                    <DataTemplate.Triggers>
+                                        <DataTrigger Binding="{Binding Post}" Value="{x:Null}">
+                                            <Setter TargetName="post" Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding Department}" Value="{x:Null}">
+                                            <Setter TargetName="dep" Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding Comment}" Value="{x:Null}">
+                                            <Setter TargetName="com" Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                    </DataTemplate.Triggers>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+    <Style x:Key="NotificationStatusToolTipStyle" TargetType="{x:Type ToolTip}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="HasDropShadow" Value="True"/>
+        <Setter Property="FontFamily" Value="Tahoma"/>
+        <Setter Property="Opacity" Value="0.90"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToolTip}">
+                    <Grid  HorizontalAlignment="Center" x:Name="grid" Background="Transparent">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition Height="20*"/>
+                        </Grid.RowDefinitions>
+                        <!--Время обновления документа из базы-->
+                        <Border BorderThickness="2 2 2 2" Background="#E5BDFB89" BorderBrush="#FF4896F3" Margin="0 0 0 5" CornerRadius="2">
+                            <TextBlock Grid.Row="0" Foreground="Black">
+                               <Run Text="Версия контейнера МЭДО: "/>
+                               <Run Text="{Binding XmlVersion}"/>
+                               <Run Text="&#x0a;Время обновления: "/>
+                               <Run Text="{Binding DocumentUpdateTime, StringFormat={}{0:HH:mm:ss}, UpdateSourceTrigger=PropertyChanged}"/>
+                               <Run Text="&#x0a;Адрес: "/>
+                               <Run Text="{Binding SubjectAdresse}"/>
+                            </TextBlock>
+                        </Border>
+                        <!--Статусы системы Издание-->
+                        <Border BorderThickness="2 2 2 2" Background="Black" BorderBrush="#FF4896F3"  Grid.Row="1" CornerRadius="2">
+                            <StackPanel Orientation="Vertical">
+                                <TextBlock>
+                                    <TextBlock.Style>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="TextWrapping" Value="Wrap"/>
+                                            <Setter Property="Grid.Row" Value="2"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="4EC9F31A-D3EA-46E8-8400-35A2B4D4C2E5">
+                                                    <Setter Property="Text" Value="Документ загружен в закрытый сегмент"/>
+                                                    <Setter Property="Foreground" Value="{StaticResource IzdanieUploadColor}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="F134FAFA-D99F-455E-A404-E2E238F12824">
+                                                    <Setter Property="Text" Value="Документ проверен старшим контролером"/>
+                                                    <Setter Property="Foreground" Value="{StaticResource IzdanieUploadColor}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="01D0C481-3C42-467A-85DA-9258E8CEB65B">
+                                                    <Setter Property="Text" Value="Документ выгружен на выпускающий сервер"/>
+                                                    <Setter Property="Foreground" Value="{StaticResource IzdanieUploadToPublicationServerColor}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="9F00E217-DB46-4CAC-9FCB-EE148DB34C5F">
+                                                    <Setter Property="Text" Value="Документ опубликован"/>
+                                                    <Setter Property="Foreground" Value="{StaticResource PublicationComplieteColor}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IzdanieDocumentStatus}" Value="00000000-0000-0000-0000-000000000000">
+                                                    <Setter Property="Text" Value="Документ поступил по системе МЭДО"/>
+                                                    <Setter Property="Foreground" Value="White"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                                <!--Статусы системы отправки уведомлений-->
+                                <TextBlock>
+                                    <TextBlock.Style>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="TextWrapping" Value="Wrap"/>
+                                            <Setter Property="Grid.Row" Value="3"/>
+                                            <Setter Property="Foreground" Value="Green"/>
+                                            <Setter Property="Margin" Value="0,3,0,0"/>
+                                            <Setter Property="Visibility" Value="Visible"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding NotificationStatus}" Value="0">
+                                                    <Setter Property="Foreground" Value="Red"/>
+                                                    <Setter Property="Text" Value="Ошибка отправки уведомления по данному документу"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding NotificationStatus}" Value="1">
+                                                    <Setter Property="Text" Value="Опубликование документа завершено успешно"/>
+                                                    <Setter Property="Foreground" Value="{StaticResource IzdanieUploadToPublicationServerColor}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding NotificationStatus}" Value="2">
+                                                    <Setter Property="Text" Value="Уведомление по документу отправлено в автоматическом режиме"/>
+                                                    <Setter Property="Foreground" Value="{StaticResource PublicationComplieteColor}"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding NotificationStatus}" Value="3">
+                                                    <Setter Property="Text" Value="Уведомление по документу отправлено в ручном режиме"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding NotificationStatus}" Value="4">
+                                                    <Setter Property="Text" Value="Уведомление успешно отправлено, ошибка регистрации документа в системе СЭД"/>
+                                                    <Setter Property="Foreground" Value="Orange"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding NotificationStatus}" Value="100">
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+
+                                <!--Статусы регистрации документов в СЭДе-->
+                                <TextBlock>
+                                    <TextBlock.Style>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="TextWrapping" Value="Wrap"/>
+                                            <Setter Property="Grid.Row" Value="4"/>
+                                            <Setter Property="Foreground" Value="Red"/>
+                                            <Setter Property="Visibility" Value="Visible"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding IsSedRegistration}" Value="false">
+                                                    <Setter Property="Text" Value="Ошибка регистрации в системе СЭД"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IsSedRegistration}" Value="true">
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="DefferedOpenToolTipStyle" TargetType="{x:Type ToolTip}">
+        <Setter Property="OverridesDefaultStyle" Value="True"/>
+        <Setter Property="HasDropShadow" Value="True"/>
+        <Setter Property="FontFamily" Value="Tahoma"/>
+        <Setter Property="Opacity" Value="0.90"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToolTip}">
+                    <Border BorderBrush="#FF4896F3"  CornerRadius="2" BorderThickness="2">
+                        <Grid  HorizontalAlignment="Center" x:Name="grid" Background="White">
+                            <TextBlock>
+                                  <Run Text="Документ отложен до: "/>
+                                  <Run Text="{Binding DefferedOpen, StringFormat=\{0:dd.MM.yyyy\}}"/>
+                            </TextBlock>
+                        </Grid>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+
+
+
+
+</ResourceDictionary>

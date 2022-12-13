@@ -1,0 +1,121 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+             xmlns:col="clr-namespace:Medo.Client.Collections;assembly=Medo.Client.Collections"
+             xmlns:prism="http://prismlibrary.com/">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Converters.xaml"/>
+        
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Styles/MainListView/Colors.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/TabViewModule;component/Converters.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+    <Style x:Key="ListViewItemBackground" TargetType="{x:Type ListViewItem}">
+        <!--<Setter Property="Visibility" Value="Collapsed"/>-->
+        <Setter Property="LayoutTransform">
+            <Setter.Value>
+                <ScaleTransform x:Name="transform"/>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <!--Документ еще не загружен в систему Издание-->
+            <DataTrigger Binding="{Binding Path=IzdanieDocumentStatus}" Value="00000000-0000-0000-0000-000000000000">
+                <Setter Property="Background" Value="{StaticResource StandartDocumentColor}"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding Path=IsDouble}" Value="true">
+                <Setter Property="Background" Value="{StaticResource DoublesColor}"/>
+            </DataTrigger>
+
+            <DataTrigger Binding="{Binding Path=DefferedOpen, Converter={StaticResource  DefferedOpenToBoolConverter}}" Value="true">
+                <Setter Property="Background" Value="{StaticResource DefferedOpenColor}"/>
+            </DataTrigger>
+            <!--В обработке \ загружен в закрытый сегмент-->
+            <DataTrigger Binding="{Binding Path=IzdanieDocumentStatus}" Value="4EC9F31A-D3EA-46E8-8400-35A2B4D4C2E5">
+                <Setter Property="Background" Value="{StaticResource IzdanieUploadColor}"/>
+            </DataTrigger>
+            <!--Проверен старшим конролером-->
+            <DataTrigger Binding="{Binding Path=IzdanieDocumentStatus}" Value="F134FAFA-D99F-455E-A404-E2E238F12824">
+                <Setter Property="Background" Value="{StaticResource IzdanieUploadColor}"/>
+            </DataTrigger>
+            <!--Выгружен на 3 сервер-->
+            <DataTrigger Binding="{Binding Path=IzdanieDocumentStatus}" Value="01D0C481-3C42-467A-85DA-9258E8CEB65B">
+                <Setter Property="Background" Value="{StaticResource IzdanieUploadToPublicationServerColor}"/>
+            </DataTrigger>
+            <!--Опубликован-->
+            <DataTrigger Binding="{Binding Path=IzdanieDocumentStatus}" Value="9F00E217-DB46-4CAC-9FCB-EE148DB34C5F">
+                <Setter Property="Background" Value="{StaticResource PublicationComplieteColor}"/>
+            </DataTrigger>
+
+           
+
+            <!--<DataTrigger Binding="{Binding Filter, UpdateSourceTrigger=PropertyChanged}" Value="true">
+                <Setter Property="Visibility" Value="Visible"/>
+            </DataTrigger>-->
+
+            <DataTrigger Binding="{Binding RelativeSource={RelativeSource Self}, Path=IsSelected, Mode=OneWay}" Value="true">
+                <Setter Property="Background" Value="{StaticResource SelectorSelectedDocumentColor}"/>
+            </DataTrigger>
+            
+            <DataTrigger Binding="{Binding Path=IsSelected}" Value="true">
+                <Setter Property="Background" Value="{StaticResource SelectedDocumentColor}"/>
+            </DataTrigger>
+
+            <DataTrigger Binding="{Binding Path=IsEdit}" Value="true">
+                <Setter Property="Background" Value="{StaticResource EditDocumentActiveColor}"/>
+            </DataTrigger>
+
+
+            <!--<DataTrigger Binding="{Binding Source={x:Static col:StaticCollections.MainCollection}, Path=DocumentsInUpdateProcess[HeaderGuid], UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" Value="true">
+                <DataTrigger.EnterActions>
+                    <BeginStoryboard>
+                    <Storyboard>
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color"
+                                         Duration="00:00:.4"
+                                         From="#FFC8FFCD"
+                                         RepeatBehavior="Forever"
+                                         AutoReverse="True"/>
+                            <ColorAnimation Storyboard.TargetProperty="Foreground.Color"
+                                         Duration="00:00:.4"
+                                         From="Red"
+                                         RepeatBehavior="Forever"
+                                         AutoReverse="True"/>
+
+                        </Storyboard>
+                </BeginStoryboard>
+                </DataTrigger.EnterActions>
+                <DataTrigger.ExitActions>
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation Storyboard.TargetProperty="Background.Color"/>
+                            <ColorAnimation Storyboard.TargetProperty="Foreground.Color"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </DataTrigger.ExitActions>
+            </DataTrigger>-->
+
+
+
+            <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                         Duration="00:00:02"
+                                         From="0"
+                                         To="1"/>
+                        <DoubleAnimation Storyboard.TargetProperty="LayoutTransform.ScaleY"
+                                         Duration="00:00:.3"
+                                         From="0"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Style.Triggers>
+        
+            
+      
+
+    </Style>
+
+</ResourceDictionary>

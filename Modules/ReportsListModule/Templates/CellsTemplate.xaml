@@ -1,0 +1,69 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:converters="clr-namespace:Medo.Modules.ReportListModule.Converters"
+                    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+                    xmlns:prism="http://prismlibrary.com/">
+
+
+
+    <converters:BytesToBitmapImageConverter x:Key="bytesToImageConverter"/>
+    <!--Стиль кнопки выбора документа-->
+    <DataTemplate x:Key="ButtonCellTemplate">
+        <StackPanel Orientation="Vertical">
+            <Button Command="{Binding RelativeSource={RelativeSource AncestorType={x:Type ListView}}, Path=DataContext.SelectReportCommand}" CommandParameter="{Binding NotificationGuid}">
+                <Image Source="{Binding SourceGuid, Converter={StaticResource bytesToImageConverter}}" MaxWidth="80"/>
+            </Button>
+        </StackPanel>
+    </DataTemplate>
+    <!--Стиль Принявшего органа-->
+    <DataTemplate x:Key="OrganNameCellTemplate">
+        <TextBlock Text="{Binding Path=OrganName}" TextWrapping="Wrap"  TextAlignment="Center" VerticalAlignment="Center"/>
+    </DataTemplate>
+    <!--Стиль вида документа-->
+    <DataTemplate x:Key="ActTypeCellTemplate">
+        <TextBlock Text="{Binding Path=ActType}" TextWrapping="Wrap" HorizontalAlignment="Center"  TextAlignment="Center" VerticalAlignment="Center"/>
+    </DataTemplate>
+    <!--Стиль номера документа-->
+    <DataTemplate x:Key="NumberCellTemplate">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Path=Number}"  TextAlignment="Center" VerticalAlignment="Center" />
+        </StackPanel>
+    </DataTemplate>
+    <!--Стиль даты подписания документа-->
+    <DataTemplate x:Key="SignDateCellTemplate">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Path=SignDate, StringFormat={}{0:dd.MM.yyyy}}"  TextAlignment="Center" VerticalAlignment="Center" />
+        </StackPanel>
+    </DataTemplate>
+    <!--Стиль наименования документа-->
+    <DataTemplate x:Key="ComplexNameCellTemplate">
+        <StackPanel>
+            <TextBlock Text="{Binding Path=ComplexName}" TextWrapping="Wrap"/>
+        </StackPanel>
+    </DataTemplate>
+    <!--Стиль номера электронного опубликования документа-->
+    <DataTemplate x:Key="EoNumberCellTemplate">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Path=EoNumber}" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="5,0,0,0"/>
+            <Separator/>
+            <TextBlock Text="{Binding Path=Status}" TextAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center"  Margin="5,0,0,0"/>
+        </StackPanel>
+    </DataTemplate>
+    <!--Стиль даты опубликования документа-->
+    <DataTemplate x:Key="PublicationDateCellTemplate">
+        <TextBlock Text="{Binding Path=PublicationDate, StringFormat='{}{0:dd.MM.yyyy - HH:mm}'}" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </DataTemplate>
+    <!--Стиль времени атоматической отправки уведомления о документе-->
+    <DataTemplate x:Key="AutoSendNotifyDateCellTemplate">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="{Binding Path=NotificationSendDate, StringFormat={} {0:dd.MM.yyyy - HH:mm}}" HorizontalAlignment="Center" TextAlignment="Center"/>
+        </StackPanel>
+    </DataTemplate>
+    <!--Стиль времени атоматической отправки уведомления о документе-->
+    <DataTemplate x:Key="ManualSendNotifyDateCellTemplate">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Width="140">
+            <ListBox Background="Transparent" ItemsSource="{Binding Path=ManualSendTime}" ItemStringFormat="{}{0:dd.MM.yyyy - HH:mm}"/>
+        </StackPanel>
+    </DataTemplate>
+
+</ResourceDictionary>

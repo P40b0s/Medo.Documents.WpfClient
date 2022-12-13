@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xdms:communication xdms:version="2.5" xmlns:xdms="http://www.infpres.com/IEDMS">
+  <xdms:header xdms:type="Уведомление" xdms:uid="d20e87d5-ce3e-42dd-ba7b-61221ea4eeee" xdms:created="2016-06-20T13:56:59">
+    <xdms:source xdms:uid="d14123a0-033e-43a4-93a9-7bd6eba51f66">
+      <xdms:organization>УОПИ</xdms:organization>
+    </xdms:source>
+    <xdms:operator>УОПИ</xdms:operator>
+  </xdms:header>
+  <xdms:notification xdms:type="Опубликование" xdms:uid="abc12eab-16c3-43cb-b3bf-1ed1f63adb62">
+    <xdms:documentPublished>
+      <xdms:time>2016-05-01T13:56:59</xdms:time>
+      <xdms:foundation>
+        <xdms:organization>Правительство Российской Федерации</xdms:organization>
+        <xdms:person>Медведев Д.А.</xdms:person>
+        <xdms:num>
+          <xdms:number>6367463</xdms:number>
+          <xdms:date>2015-06-20</xdms:date>
+        </xdms:num>
+      </xdms:foundation>
+      <xdms:correspondent>
+        <xdms:region>Москва</xdms:region>
+        <xdms:organization>УОПИ</xdms:organization>
+      </xdms:correspondent>
+      <xdms:num>
+        <xdms:number>90829839283402</xdms:number>
+        <xdms:date>2015-06-20T13:56:59</xdms:date>
+      </xdms:num>
+      <xdms:publicationPoint>Портал Право гов ру</xdms:publicationPoint>
+    </xdms:documentPublished>
+    <xdms:comment>Бла бла бла бла бла бла бла бл аб лаллалвлалвла</xdms:comment>
+  </xdms:notification>
+</xdms:communication>

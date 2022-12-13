@@ -1,0 +1,189 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\TabViewModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\TabViewModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\TabViewModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Views\ViewTabViewModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Views\ViewTabViewModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\ListViewItem.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Cells.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Headers.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\MainListView.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\ContextMenu.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Colors.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Resources.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\MainListView.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.Resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\TabViewModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Converters.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\TabViewModule.dll.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.GlobalCommands.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.GlobalCommands.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\TabItemsHeaders.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\MenuItemsHeadersTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Debug\Styles\ToolTipsTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\TabViewModule.dll.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\TabViewModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\TabViewModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.Resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.GlobalCommands.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.GlobalCommands.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\ToolTipsTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MenuItemsHeadersTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\TabItemsHeaders.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\ListViewItem.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Headers.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\MainListView.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\ContextMenu.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Colors.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Resources.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\MainListView.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Views\ViewTabViewModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Converters.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Styles\MainListView\Cells.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\Views\ViewTabViewModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\TabViewModule\obj\Debug\TabViewModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\TabViewModule.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\TabViewModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\TabViewModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.GlobalCommands.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.SedRegistration.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.GlobalCommands.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Client.SedRegistration.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\ToolTipsTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MenuItemsHeadersTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\TabItemsHeaders.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\ListViewItem.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\Headers.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\MainListView.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\ContextMenu.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\Colors.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\Resources.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\MainListView.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Views\ViewTabViewModule.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Converters.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Styles\MainListView\Cells.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\Views\ViewTabViewModule.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\obj\Debug\TabViewModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\TabViewModule\bin\Debug\Newtonsoft.Json.xml

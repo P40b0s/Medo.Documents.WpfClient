@@ -1,0 +1,103 @@
+20-07-2017 08:45:45|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:45:46|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:45:47|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 08:45:47|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 08:54:00|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:54:00|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:54:00|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 08:54:00|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 08:56:46|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:56:46|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:56:46|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 08:56:46|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 08:57:57|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:57:57|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 08:57:57|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 08:57:57|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:00:25|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:00:25|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:00:25|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 09:00:25|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:01:24|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:01:24|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:01:24|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 09:01:24|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:02:24|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:02:24|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:02:24|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 09:02:24|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:05:47|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:05:47|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:05:47|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 09:05:47|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:09:47|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:09:47|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:09:47|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 09:09:47|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:10:25|FATAL|IKSAR|Microsoft.Practices.Unity.ResolutionFailedException: Resolution of the dependency failed, type = "Medo.Client.Views.Shell", name = "(none)".
+Exception occurred while: Calling constructor Medo.Client.Views.Shell(Prism.Events.IEventAggregator eventAggregator).
+Exception is: TypeInitializationException - Инициализатор типа "Medo.Client.Collections.StaticCollections" выдал исключение.
+-----------------------------------------------
+At the time of the exception, the container was:
+
+  Resolving Medo.Client.Views.Shell,(none)
+  Calling constructor Medo.Client.Views.Shell(Prism.Events.IEventAggregator eventAggregator)
+ ---> System.TypeInitializationException: Инициализатор типа "Medo.Client.Collections.StaticCollections" выдал исключение. ---> System.InvalidOperationException: Заголовок волнового файла поврежден.
+   в System.Media.SoundPlayer.ValidateSoundData(Byte[] data)
+   в System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   в System.Media.SoundPlayer.Play()
+   в Medo.Client.Collections.StaticCollections..ctor() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 34
+   в Medo.Client.Collections.StaticCollections..cctor() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 36
+   --- Конец трассировки внутреннего стека исключений ---
+   в Medo.Client.Collections.StaticCollections.InitializeStaticCollections(IEventAggregator _eventAggregator)
+   в Medo.Client.Views.Shell..ctor(IEventAggregator eventAggregator) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\Views\Shell.xaml.cs:строка 42
+   в lambda_method(Closure , IBuilderContext )
+   в Microsoft.Practices.ObjectBuilder2.DynamicBuildPlanGenerationContext.<>c__DisplayClass1.<GetBuildMethod>b__0(IBuilderContext context)
+   в Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   в Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   в Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   в Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name, IEnumerable`1 resolverOverrides)
+   --- Конец трассировки внутреннего стека исключений ---
+   в Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name, IEnumerable`1 resolverOverrides)
+   в Microsoft.Practices.Unity.UnityContainer.Resolve(Type t, String name, ResolverOverride[] resolverOverrides)
+   в Microsoft.Practices.Unity.UnityContainerExtensions.Resolve[T](IUnityContainer container, ResolverOverride[] overrides)
+   в Medo.Client.Bootstrapper.CreateShell() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\UnityBootstrapper.cs:строка 20
+   в Prism.Unity.UnityBootstrapper.Run(Boolean runWithDefaultConfiguration)
+   в Prism.Bootstrapper.Run()
+   в Medo.Client.App.OnStartup(StartupEventArgs e) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\App.xaml.cs:строка 39|Microsoft.Practices.Unity.ResolutionFailedException: Resolution of the dependency failed, type = "Medo.Client.Views.Shell", name = "(none)".
+Exception occurred while: Calling constructor Medo.Client.Views.Shell(Prism.Events.IEventAggregator eventAggregator).
+Exception is: TypeInitializationException - Инициализатор типа "Medo.Client.Collections.StaticCollections" выдал исключение.
+-----------------------------------------------
+At the time of the exception, the container was:
+
+  Resolving Medo.Client.Views.Shell,(none)
+  Calling constructor Medo.Client.Views.Shell(Prism.Events.IEventAggregator eventAggregator)
+ ---> System.TypeInitializationException: Инициализатор типа "Medo.Client.Collections.StaticCollections" выдал исключение. ---> System.InvalidOperationException: Заголовок волнового файла поврежден.
+   в System.Media.SoundPlayer.ValidateSoundData(Byte[] data)
+   в System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   в System.Media.SoundPlayer.Play()
+   в Medo.Client.Collections.StaticCollections..ctor() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 34
+   в Medo.Client.Collections.StaticCollections..cctor() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Collections\StaticCollections.cs:строка 36
+   --- Конец трассировки внутреннего стека исключений ---
+   в Medo.Client.Collections.StaticCollections.InitializeStaticCollections(IEventAggregator _eventAggregator)
+   в Medo.Client.Views.Shell..ctor(IEventAggregator eventAggregator) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\Views\Shell.xaml.cs:строка 42
+   в lambda_method(Closure , IBuilderContext )
+   в Microsoft.Practices.ObjectBuilder2.DynamicBuildPlanGenerationContext.<>c__DisplayClass1.<GetBuildMethod>b__0(IBuilderContext context)
+   в Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   в Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   в Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   в Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name, IEnumerable`1 resolverOverrides)
+   --- Конец трассировки внутреннего стека исключений ---
+   в Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name, IEnumerable`1 resolverOverrides)
+   в Microsoft.Practices.Unity.UnityContainer.Resolve(Type t, String name, ResolverOverride[] resolverOverrides)
+   в Microsoft.Practices.Unity.UnityContainerExtensions.Resolve[T](IUnityContainer container, ResolverOverride[] overrides)
+   в Medo.Client.Bootstrapper.CreateShell() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\UnityBootstrapper.cs:строка 20
+   в Prism.Unity.UnityBootstrapper.Run(Boolean runWithDefaultConfiguration)
+   в Prism.Bootstrapper.Run()
+   в Medo.Client.App.OnStartup(StartupEventArgs e) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\App.xaml.cs:строка 39
+20-07-2017 09:34:12|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:34:12|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+20-07-2017 09:34:12|INFO|IKSAR|Подключение директории для Системы: |
+20-07-2017 09:34:12|INFO|IKSAR|Подключение резервного сервера: |
+20-07-2017 09:34:34|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+20-07-2017 09:34:34|INFO|IKSAR|Модуль TrayInfoModule загружен|

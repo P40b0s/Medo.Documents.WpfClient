@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6B88AE2-088C-4521-BDC6-ED3B80B63CF1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Medo.Client.Notifications</RootNamespace>
+    <AssemblyName>Medo.Client.Notifications</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BitMiracle.LibTiff.NET40">
+      <HintPath>L:\NuGet\bitmiracle.libtiff.net.2.4.584.1\lib\net40\BitMiracle.LibTiff.NET40.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\Projects_2012\PDFCreatorчерезwrapper\WpFTest\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.Client.Collections">
+      <HintPath>..\Medo.Client.Collections\bin\Debug\Medo.Client.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.Helpers">
+      <HintPath>..\Medo.Helpers\bin\Debug\Medo.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Medo.ImageResources">
+      <HintPath>..\..\Medo.ImageResources\bin\Debug\Medo.ImageResources.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\..\..\..\..\..\..\..\Dlls\prism\unity.4.0.1\lib\net45\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="MuPDF">
+      <HintPath>..\..\..\Projects_2012\PDFCreatorчерезwrapper\WpFTest\bin\Debug\MuPDF.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\..\..\..\..\..\..\..\Dlls\nlog.4.3.3\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Prism">
+      <HintPath>..\..\..\..\..\..\..\..\Dlls\prism\prism.core.6.2.0.0\lib\net45\Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism.Wpf">
+      <HintPath>..\..\..\..\..\..\..\..\Dlls\prism\prism.wpf.6.2.0\lib\net45\Prism.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Medo.Client\Medo.Client\packages\System.Runtime.InteropServices.RuntimeInformation.4.0.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interfaces\DocumentOperationInterface.cs" />
+    <Compile Include="Interfaces\IClientUpdaterRequestInterface.cs" />
+    <Compile Include="Interfaces\IPdfConverterInterface.cs" />
+    <Compile Include="Models\CardEditorRequestModel.cs" />
+    <Compile Include="Models\ClientUpdaterRequestModel.cs" />
+    <Compile Include="Models\DeleteDocumentNotificationModel.cs" />
+    <Compile Include="Models\ChangeDocumentNotificationModel.cs" />
+    <Compile Include="Models\MessageContainer.cs" />
+    <Compile Include="Models\PdfConverterModel.cs" />
+    <Compile Include="Models\UpdateDocumentsForIntervalRequestModel.cs" />
+    <Compile Include="Models\SelectAdressesModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\PdfConvertRequestViewModel.cs" />
+    <Compile Include="ViewModels\CardEditorRequestViewModel.cs" />
+    <Compile Include="ViewModels\ClientUpdaterRequestViewModel.cs" />
+    <Compile Include="ViewModels\DeleteDocumentRequestViewModel.cs" />
+    <Compile Include="ViewModels\ChangeDocumentRequestViewModel.cs" />
+    <Compile Include="ViewModels\SelectAdressesListViewModel.cs" />
+    <Compile Include="ViewModels\UpdateDocumentsForIntervalRequestViewModel.cs" />
+    <Compile Include="Views\CardEditorRequestView.xaml.cs">
+      <DependentUpon>CardEditorRequestView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PdfConvertRequestView.xaml.cs">
+      <DependentUpon>PdfConvertRequestView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ClientUpdaterRequestView.xaml.cs">
+      <DependentUpon>ClientUpdaterRequestView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ChangeDocumentRequestView.xaml.cs">
+      <DependentUpon>ChangeDocumentRequestView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DeleteDocumentRequestView.xaml.cs">
+      <DependentUpon>DeleteDocumentRequestView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SelectAdressesListView.xaml.cs">
+      <DependentUpon>SelectAdressesListView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UpdateDocumentsForIntervalRequestView.xaml.cs">
+      <DependentUpon>UpdateDocumentsForIntervalRequestView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Templates\Buttons.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Templates\ReportsSenderListStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\CardEditorRequestView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\PdfConvertRequestView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ClientUpdaterRequestView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ChangeDocumentRequestView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\DeleteDocumentRequestView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\SelectAdressesListView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\UpdateDocumentsForIntervalRequestView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Medo.Core\Medo.Core.csproj">
+      <Project>{84e844d8-b068-4b67-b088-3f5a71f3d51d}</Project>
+      <Name>Medo.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

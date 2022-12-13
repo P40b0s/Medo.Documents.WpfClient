@@ -1,0 +1,25 @@
+﻿<metro:MetroWindow x:Class="Medo.Client.Updater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:updater="clr-namespace:Medo.Client.Updater"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        Title="{Binding InfoText}" Height="85" Width="625" DataContext="{DynamicResource updaterResource}" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" >
+    <metro:MetroWindow.Resources>
+        <updater:Update x:Key="updaterResource"/>
+    </metro:MetroWindow.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <ProgressBar Grid.Row="0" Height="60" Maximum="{Binding MaximumFiles}" Value="{Binding CurrentUpdateFile}"/>
+        <TextBlock Grid.Row="0"  HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Run Text="Обновление файла"/>
+            <Run Text="{Binding UpdateFile}"/>
+        </TextBlock>
+        <TextBlock Grid.Row="0"  HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Run Text="{Binding CurrentUpdateFile}"  FontFamily="Arial" FontSize="14"/>
+            <Run Text="/"  FontFamily="Arial" FontSize="14"/>
+            <Run Text="{Binding MaximumFiles}"  FontFamily="Arial" FontSize="14"/>
+        </TextBlock>
+    </Grid>
+</metro:MetroWindow>

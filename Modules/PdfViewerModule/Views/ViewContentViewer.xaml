@@ -1,0 +1,147 @@
+﻿<UserControl x:Class="Medo.Modules.PdfViewerModule.Views.ViewContentViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:moon="clr-namespace:MoonPdfLib;assembly=MoonPdfLib"
+             xmlns:behaviors="clr-namespace:Medo.Modules.PdfViewerModule.Behaviors"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:static="clr-namespace:Medo.Modules.PdfViewerModule"
+             xmlns:enums="clr-namespace:Medo.Core.Enums;assembly=Medo.Core"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             Background="Transparent">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/PdfViewerModule;component/Templates/MoonPdfTemplate.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/PdfViewerModule;component/Templates/Animations.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid x:Name="MainGrid" >
+
+        <Grid x:Name="PdfViewerGrid">
+            <Grid.Style>
+                <Style TargetType="{x:Type Grid}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ViewFileType}" Value="{x:Static enums:FileTypeEnum.Pdf}">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                        <!--<DataTrigger Binding="{Binding PdfViewerIsVisible}" Value="false">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>-->
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <TextBlock x:Name="PdfPageNumber"
+                   Style="{StaticResource pagesTextBlockStyle}"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Center"
+                   Panel.ZIndex="1"
+                   Foreground="Black"
+                   FontFamily="Calibri"
+                   Background="#66FFFFFF"
+                   FontSize="25">                
+                <Run Text="Страница "/>
+                <Run Text="{Binding CurrentPageNumber}"/>
+                <Run Text=" из "/>
+                <Run Text="{Binding TotalPages}"/>
+            </TextBlock>
+
+            <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Margin="0,0,0,10"
+                    Style="{StaticResource stackPanelStyle}"
+                    Panel.ZIndex="1">
+
+                <Button Command="{Binding PageToDoubleLeftCommand}">
+                    <Image Source="{StaticResource MedoClientDLeftIcon}" Width="40"/>
+                </Button>
+                <Button Command="{Binding PageToLeftCommand}">
+                    <Image Source="{StaticResource MedoClientOLeftIcon}" Width="40"/>
+                </Button>
+
+                <TextBox
+                 TextAlignment="Center"
+                 FontSize="25"
+                 MinWidth="50"
+                 Text="{Binding CurrentPageNumber}">
+                    <i:Interaction.Behaviors>
+                        <behaviors:TextSelectorBehavior/>
+                    </i:Interaction.Behaviors>
+                </TextBox>
+
+                <Button Command="{Binding PageToRightCommand}">
+                    <Image Source="{StaticResource MedoClientORightIcon}" Width="40"/>
+                </Button>
+                <Button Command="{Binding PageToDoubleRightCommand}">
+                    <Image Source="{StaticResource MedoClientDRightIcon}" Width="40"/>
+                </Button>
+            </StackPanel>
+
+            <moon:MoonPdfPanel 
+                    x:Name="MoonPdf" 
+                    UseLayoutRounding="True" 
+                    RenderOptions.BitmapScalingMode="NearestNeighbor"
+                    RenderOptions.EdgeMode="Aliased"                                
+                    ViewType="SinglePage"  
+                    Background="Transparent"
+                    Panel.ZIndex="0"
+                    MaxHeight="930"
+                    SelectiveScrollingGrid.SelectiveScrollingOrientation="None"
+                ScrollViewer.IsDeferredScrollingEnabled="False"
+                ScrollViewer.CanContentScroll="False"
+                    PageMargin="0,0,0,0">
+                <i:Interaction.Behaviors>
+                    <behaviors:MoonPdfPanelBehavior/>
+                </i:Interaction.Behaviors>
+            </moon:MoonPdfPanel>
+        </Grid>
+
+        <Grid x:Name="ImageViewer">
+            <Grid.Style>
+                <Style TargetType="{x:Type Grid}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ViewFileType}" Value="{x:Static enums:FileTypeEnum.Image}">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                        <!--<DataTrigger Binding="{Binding TextViewerIsVisible}" Value="false">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>-->
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <Image Source="{Binding ImageViewer.FullName}" MaxHeight="933">
+                <i:Interaction.Behaviors>
+                    <behaviors:ImageBehavior/>
+                </i:Interaction.Behaviors>
+            </Image>
+        </Grid>
+
+        <Grid x:Name="DocumentViewer">
+            
+        </Grid>
+
+        <Grid x:Name="TextViewer">
+            <Grid.Style>
+                <Style TargetType="{x:Type Grid}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ViewFileType}" Value="{x:Static enums:FileTypeEnum.Text}">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                        <!--<DataTrigger Binding="{Binding TextViewerIsVisible}" Value="false">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>-->
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+            <RichTextBox static:RichTextBoxAssistant.DocumentXaml="{Binding TextViewerText}" Background="White" Foreground="Black" MaxHeight="933"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

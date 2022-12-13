@@ -1,0 +1,86 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\SelectBox.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\SelectBox.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\SelectBox.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\SelectBox_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\SelectBox.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\SelectBox.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\SelectBox.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\SelectBox_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\ViewIncrementSelectBox.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Controls\SelectBox\obj\Debug\ViewIncrementSelectBox.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\SelectBox.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\SelectBox.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\ViewIncrementSelectBox.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\ViewIncrementSelectBox.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Controls\SelectBox\obj\Debug\SelectBox.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\SelectBox.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\SelectBox.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\ViewIncrementSelectBox.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\ViewIncrementSelectBox.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\obj\Debug\SelectBox.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Settings.json
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Controls\SelectBox\bin\Debug\Newtonsoft.Json.xml

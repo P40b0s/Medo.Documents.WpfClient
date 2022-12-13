@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xdms:communication xdms:version="2.0" xmlns:xdms="http://www.infpres.com/IEDMS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xdms:header xdms:type="Документ" xdms:uid="95C8DD21-4ECC-458B-824B-BBF3DE0AF25B" xdms:created="2016-06-17T21:15:02.830">
+    <xdms:source xdms:uid="6D8C1EF5-A5EA-4DD9-A97D-5EE80F0663B1">
+      <xdms:organization>Аппарат Правительства Российской Федерации</xdms:organization>
+    </xdms:source>
+    <xdms:comment>GTMEDOC\iedms</xdms:comment>
+  </xdms:header> 
+  <xdms:document xdms:uid="88702475-C4ю1-4D83-AC3D-95BF254397BB" xdms:id="1464586836954">
+    <xdms:kind xdms:id="1262720385127" xdms:retro="false" xdms:modified="2003-09-04T15:41:14.170">Постановление Правительства</xdms:kind>
+    <xdms:num>
+      <xdms:number>542</xdms:number>
+      <xdms:date>2016-06-16</xdms:date>
+    </xdms:num>
+    <xdms:signatories>
+      <xdms:signatory>
+        <xdms:person xdms:id="1425929145487" xdms:retro="false" xdms:modified="2010-01-26T10:50:19.297">Медведев Дмитрий Анатольевич</xdms:person>
+        <xdms:department xdms:id="1206885813519" xdms:retro="false" xdms:modified="2012-05-29T16:05:17.890">Секретариат Медведева Д.А. (П19)</xdms:department>
+        <xdms:post xdms:id="1447403978835" xdms:retro="false" xdms:modified="2005-06-07T15:58:41.093">Председатель Правительства Российской Федерации</xdms:post>
+        <xdms:signed>2016-06-15</xdms:signed>
+      </xdms:signatory>
+    </xdms:signatories>
+    <xdms:addressees>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929146368" xdms:retro="false" xdms:modified="2007-12-21T11:21:08.247">Скляренко Вячеслав Иванович</xdms:person>
+        <xdms:department xdms:id="1206885813261" xdms:retro="false" xdms:modified="2010-02-08T13:56:02.080">Департамент оборонной промышленности (П7)</xdms:department>
+        <xdms:post xdms:id="1447403978850" xdms:retro="false">заместитель начальника отдела</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811126" xdms:retro="false" xdms:modified="2006-03-23T16:18:56.527">Президент Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810662" xdms:retro="false" xdms:modified="2005-07-27T12:11:43.467">Совет Безопасности Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811430" xdms:retro="false" xdms:modified="2006-01-30T14:29:27.870">Совет Федерации Федерального Собрания Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811429" xdms:retro="false" xdms:modified="2006-01-30T14:29:50.840">Государственная Дума Федерального Собрания Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815415" xdms:retro="false">г.Санкт-Петербург</xdms:region>
+        <xdms:organization xdms:id="1206885810768" xdms:retro="false" xdms:modified="2008-07-14T09:53:24.583">Конституционный Суд Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811150" xdms:retro="false" xdms:modified="2002-10-23T17:41:36.543">Верховный Суд Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811146" xdms:retro="false" xdms:modified="2005-08-02T11:43:10.140">Генеральная прокуратура Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885811188" xdms:retro="false" xdms:modified="2011-11-25T11:38:53.617">Руководитель Администрации Президента Российской Федерации</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811189" xdms:retro="false" xdms:modified="2007-03-22T15:44:19.767">Государственно-правовое управление Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813967" xdms:retro="false" xdms:modified="2015-12-16T11:40:13.813">Прием документов - Государственно-правовое управление Президента Российской Федерации (ул. Ильинка)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885811193" xdms:retro="false" xdms:modified="2011-11-25T11:38:53.740">Управление Президента Российской Федерации по работе с обращениями граждан и организаций</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810737" xdms:retro="false" xdms:modified="2005-07-25T14:46:54.373">Институт законодательства и сравнительного правоведения при Правительстве Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization xdms:id="1206885812727" xdms:retro="false" xdms:modified="2012-04-13T15:46:27.050">Аналитический центр при Правительстве Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization>Парламентская библиотека</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization>Научный центр правовой информации Минюста России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization>Судебный департамент при Верховном Суде Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization>Аппарат Уполномоченного по правам человека в Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization xdms:id="1206885813309" xdms:retro="false" xdms:modified="2010-10-27T11:28:06.617">Следственный комитет Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885813524" xdms:retro="false" xdms:modified="2012-07-16T11:37:31.013">Минвостокразвития России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization xdms:id="1206885813711" xdms:retro="false" xdms:modified="2014-06-17T17:26:42.313">Минкавказ России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813600" xdms:retro="false" xdms:modified="2016-06-10T15:51:59.937">Первый заместитель Руководителя Администрации Президента Российской Федерации  (Громов А.А.)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813811" xdms:retro="false" xdms:modified="2015-01-14T14:59:19.973">Первый заместитель Руководителя Администрации Президента Российской Федерации (Володин В.В.)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145673" xdms:retro="false" xdms:modified="2008-05-14T13:59:06.697">Беглов Александр Дмитриевич</xdms:person>
+        <xdms:department xdms:id="1206885811412" xdms:retro="false" xdms:modified="2012-02-28T15:25:14.393">Полномочный представитель Президента Российской Федерации в Центральном федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929146028" xdms:retro="false" xdms:modified="2013-03-11T19:37:36.680">Булавин Владимир Иванович</xdms:person>
+        <xdms:department xdms:id="1206885811413" xdms:retro="false" xdms:modified="2012-02-28T15:21:01.773">Полномочный представитель Президента Российской Федерации в Северо-Западном федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813724" xdms:retro="false" xdms:modified="2014-07-10T17:41:59.640">Аппарат полномочного представителя Президента Российской Федерации в Северо-Западном федеральном округе</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929148351" xdms:retro="false" xdms:modified="2014-05-12T19:36:19.247">Меликов Сергей Алимович</xdms:person>
+        <xdms:department xdms:id="1206885813253" xdms:retro="false" xdms:modified="2012-02-28T15:23:03.963">Полномочный представитель Президента Российской Федерации в Северо-Кавказском федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145127" xdms:retro="false" xdms:modified="2008-05-16T09:41:55.907">Устинов Владимир Васильевич</xdms:person>
+        <xdms:department xdms:id="1206885811411" xdms:retro="false" xdms:modified="2012-02-28T15:25:56.070">Полномочный представитель Президента Российской Федерации в Южном федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813726" xdms:retro="false" xdms:modified="2014-07-10T17:41:59.687">Аппарат полномочного представителя Президента Российской Федерации в Южном федеральном округе</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929147617" xdms:retro="false" xdms:modified="2011-12-15T16:14:39.113">Бабич Михаил Викторович</xdms:person>
+        <xdms:department xdms:id="1206885811414" xdms:retro="false" xdms:modified="2012-02-28T15:20:08.237">Полномочный представитель Президента Российской Федерации в Приволжском федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813727" xdms:retro="false" xdms:modified="2014-07-10T17:41:59.713">Аппарат полномочного представителя Президента Российской Федерации в Приволжском федеральном округе</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929147706" xdms:retro="false" xdms:modified="2012-05-21T09:42:12.863">Холманских Игорь Рюрикович</xdms:person>
+        <xdms:department xdms:id="1206885811415" xdms:retro="false" xdms:modified="2012-02-28T15:24:28.383">Полномочный представитель Президента Российской Федерации в Уральском федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929146903" xdms:retro="false" xdms:modified="2010-07-05T14:59:08.137">Рогожкин Николай Евгеньевич</xdms:person>
+        <xdms:department xdms:id="1206885811416" xdms:retro="false" xdms:modified="2012-02-28T15:23:42.450">Полномочный представитель Президента Российской Федерации в Сибирском федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813729" xdms:retro="false" xdms:modified="2014-07-10T17:41:59.757">Аппарат полномочного представителя Президента Российской Федерации в Сибирском федеральном округе</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145597" xdms:retro="false" xdms:modified="2008-05-12T19:37:51.213">Трутнев Юрий Петрович</xdms:person>
+        <xdms:department xdms:id="1206885811417" xdms:retro="false" xdms:modified="2012-02-28T15:20:07.717">Полномочный представитель Президента Российской Федерации в Дальневосточном федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929148330" xdms:retro="false" xdms:modified="2014-03-24T10:14:25.397">Белавенцев Олег Евгеньевич</xdms:person>
+        <xdms:department xdms:id="1206885813693" xdms:retro="false" xdms:modified="2014-03-24T09:33:44.803">Полномочный представитель Президента Российской Федерации в Крымском федеральном округе</xdms:department>
+        <xdms:post xdms:id="1447403978877" xdms:retro="false" xdms:modified="2002-04-24T12:56:49.467">Полномочный представитель Президента Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145487" xdms:retro="false" xdms:modified="2010-01-26T10:50:19.297">Медведев Дмитрий Анатольевич</xdms:person>
+        <xdms:department xdms:id="1206885813519" xdms:retro="false" xdms:modified="2012-05-29T16:05:17.890">Секретариат Медведева Д.А. (П19)</xdms:department>
+        <xdms:post xdms:id="1447403978835" xdms:retro="false" xdms:modified="2005-06-07T15:58:41.093">Председатель Правительства Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885812820" xdms:retro="false" xdms:modified="2009-05-13T13:20:11.773">Секретариат Шувалова И.И. (П23)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145493" xdms:retro="false" xdms:modified="2012-05-22T15:05:14.130">Приходько Сергей Эдуардович</xdms:person>
+        <xdms:department xdms:id="1206885813646" xdms:retro="false" xdms:modified="2013-05-23T16:30:57.683">Секретариат Приходько С.Э. (П18)</xdms:department>
+        <xdms:post xdms:id="1447403978937" xdms:retro="false" xdms:modified="2007-09-26T09:44:09.850">Заместитель Председателя Правительства Российской Федерации - Руководитель Аппарата Правительства Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813521" xdms:retro="false" xdms:modified="2012-05-25T14:08:39.203">Секретариат Голодец О.Ю. (П27)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929143654" xdms:retro="false" xdms:modified="2012-05-22T16:31:38.137">Дворкович Аркадий Владимирович</xdms:person>
+        <xdms:department xdms:id="1206885813520" xdms:retro="false" xdms:modified="2012-05-25T14:13:09.687">Секретариат Дворковича А.В. (П30)</xdms:department>
+        <xdms:post xdms:id="1447403978836" xdms:retro="false" xdms:modified="2005-06-07T15:59:16.420">Заместитель Председателя Правительства Российской Федерации</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885812915" xdms:retro="false" xdms:modified="2009-05-13T13:18:07.557">Секретариат Козака Д.Н. (П25)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813374" xdms:retro="false" xdms:modified="2011-12-26T11:01:33.513">Секретариат Рогозина Д.О. (П29)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145597" xdms:retro="false" xdms:modified="2008-05-12T19:37:51.213">Трутнев Юрий Петрович</xdms:person>
+        <xdms:department xdms:id="1206885813664" xdms:retro="false" xdms:modified="2013-09-02T10:00:30.763">Секретариат Трутнева Ю.П. (П31)</xdms:department>
+        <xdms:post xdms:id="1447403978984" xdms:retro="false" xdms:modified="2013-09-02T10:02:53.897">Заместитель Председателя Правительства Российской Федерации - полномочный представитель Президента Российской Федерации в Дальневосточном федеральном округе</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885813254" xdms:retro="false" xdms:modified="2010-05-20T15:10:04.280">Секретариат Хлопонина А.Г. (П28)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929144842" xdms:retro="false" xdms:modified="2007-11-07T09:58:00.197">Ряховский Андрей Дмитриевич</xdms:person>
+        <xdms:department xdms:id="1206885811016" xdms:retro="false" xdms:modified="2009-04-23T17:38:49.820">Департамент делопроизводства и архива (П41)</xdms:department>
+        <xdms:post xdms:id="1447403978794" xdms:retro="false" xdms:modified="2007-12-06T14:31:58.110">директор</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885812845" xdms:retro="false" xdms:modified="2009-04-23T17:46:47.497">Департамент пресс-службы и информации (П39)</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885811211" xdms:retro="false" xdms:modified="2005-07-25T11:43:52.420">Отдел по обеспечению деятельности Правительственного архива</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929146123" xdms:retro="false" xdms:modified="2009-02-10T09:37:37.683">Васильев Сергей Васильевич</xdms:person>
+        <xdms:department xdms:id="1206885812751" xdms:retro="false" xdms:modified="2010-04-13T16:33:51.157">Департамент контроля и проверки выполнения решений (П43)</xdms:department>
+        <xdms:post xdms:id="1447403978794" xdms:retro="false" xdms:modified="2007-12-06T14:31:58.110">директор</xdms:post>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810669" xdms:retro="false" xdms:modified="2005-06-25T11:54:41.390">МВД России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810671" xdms:retro="false" xdms:modified="2005-07-26T10:50:35.250">МЧС России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885813527" xdms:retro="false" xdms:modified="2012-06-25T12:01:21.707">Минздрав России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810675" xdms:retro="false" xdms:modified="2007-10-05T11:33:13.220">МИД России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812837" xdms:retro="false" xdms:modified="2008-10-28T14:55:47.950">Минкультуры России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810679" xdms:retro="false" xdms:modified="2007-11-07T15:59:55.437">Минобороны России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811569" xdms:retro="false" xdms:modified="2005-07-25T16:21:43.780">Минобрнауки России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812838" xdms:retro="false" xdms:modified="2008-07-23T10:47:33.947">Минприроды России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812826" xdms:retro="false" xdms:modified="2008-07-23T10:47:33.213">Минпромторг России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812827" xdms:retro="false" xdms:modified="2008-07-18T15:58:31.010">Минкомсвязь России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810684" xdms:retro="false" xdms:modified="2005-07-25T16:21:44.233">Минсельхоз России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885813526" xdms:retro="false" xdms:modified="2012-06-25T11:25:20.927">Минспорт России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811571" xdms:retro="false" xdms:modified="2005-07-25T16:21:44.263">Минтранс России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization>Минстрой России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885813523" xdms:retro="false" xdms:modified="2012-06-25T11:37:28.367">Минтруд России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810688" xdms:retro="false" xdms:modified="2007-10-05T11:33:13.233">Минфин России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812840" xdms:retro="false" xdms:modified="2008-07-18T15:51:47.897">Минэкономразвития России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812836" xdms:retro="false" xdms:modified="2008-07-23T10:47:33.933">Минэнерго России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810690" xdms:retro="false" xdms:modified="2005-07-25T16:21:44.403">Минюст России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810724" xdms:retro="false" xdms:modified="2005-07-27T12:11:43.890">Управление делами Президента Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810703" xdms:retro="false" xdms:modified="2005-07-27T12:11:43.403">СВР России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810702" xdms:retro="false" xdms:modified="2005-07-27T12:43:16.873">ФСБ России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810708" xdms:retro="false" xdms:modified="2005-07-27T12:43:17.140">ФСО России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810725" xdms:retro="false" xdms:modified="2007-10-09T17:40:58.150">ГУСП</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811598" xdms:retro="false" xdms:modified="2005-07-27T12:11:45.140">ФАС России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811596" xdms:retro="false" xdms:modified="2005-07-27T13:22:45.327">ФТС России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811593" xdms:retro="false" xdms:modified="2005-07-27T15:58:35.280">Росфинмониторинг</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885813884" xdms:retro="false" xdms:modified="2015-08-13T14:16:12.717">Госкорпорация  "Роскосмос"</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811595" xdms:retro="false" xdms:modified="2005-07-27T15:58:34.280">Росстат</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810699" xdms:retro="false" xdms:modified="2005-07-25T13:53:09.797">ГФС России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812796" xdms:retro="false" xdms:modified="2008-10-28T14:55:47.887">Госкорпорация "Росатом"</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812839" xdms:retro="false" xdms:modified="2008-07-18T15:51:47.927">Росрыболовство</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885812944" xdms:retro="false" xdms:modified="2009-03-10T09:40:29.973">Росалкогольрегулирование</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:organization xdms:id="1206885813335" xdms:retro="false" xdms:modified="2011-05-24T09:45:19.827">Спецсвязь ФСО России</xdms:organization>
+        <xdms:department xdms:id="1206885813577" xdms:retro="false" xdms:modified="2012-11-20T11:46:46.737">УОПИ</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811590" xdms:retro="false" xdms:modified="2005-07-27T12:43:16.653">ФНС России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810789" xdms:retro="false" xdms:modified="2005-07-27T13:22:46.107">ЦИК России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810773" xdms:retro="false" xdms:modified="2005-08-02T11:43:09.890">Банк России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810788" xdms:retro="false" xdms:modified="2005-07-27T12:11:43.797">Счетная палата Российской Федерации</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811431" xdms:retro="false" xdms:modified="2006-01-30T14:29:11.213">Администрация Президента Российской Федерации</xdms:organization>
+        <xdms:department xdms:id="1206885811685" xdms:retro="false" xdms:modified="2011-11-25T11:38:54.210">Управление информационного и документационного обеспечения Президента Российской Федерации</xdms:department>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811671" xdms:retro="false" xdms:modified="2005-07-27T15:58:34.873">Ростехнадзор</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811745" xdms:retro="false" xdms:modified="2007-09-26T17:28:29.480">ФМБА России</xdms:organization>
+      </xdms:addressee>
+      <xdms:addressee>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885811579" xdms:retro="false" xdms:modified="2005-07-27T15:13:29.200">Роспотребнадзор</xdms:organization>
+      </xdms:addressee>
+    </xdms:addressees>
+    <xdms:pages>17</xdms:pages>
+    <xdms:enclosuresPages>0</xdms:enclosuresPages>
+    <xdms:annotation>О порядке  организации системы государственного учета и контроля радиоактивных веществ и радиоактивных отходов</xdms:annotation>
+    <xdms:correspondents>
+      <xdms:correspondent>
+        <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+        <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+        <xdms:person xdms:id="1425929145487" xdms:retro="false" xdms:modified="2010-01-26T10:50:19.297">Медведев Дмитрий Анатольевич</xdms:person>
+        <xdms:department xdms:id="1206885813519" xdms:retro="false" xdms:modified="2012-05-29T16:05:17.890">Секретариат Медведева Д.А. (П19)</xdms:department>
+        <xdms:post xdms:id="1447403978835" xdms:retro="false" xdms:modified="2005-06-07T15:58:41.093">Председатель Правительства Российской Федерации</xdms:post>
+        <xdms:num>
+          <xdms:number>542</xdms:number>
+          <xdms:date>2016-06-15</xdms:date>
+        </xdms:num>
+    </xdms:correspondent>
+    </xdms:correspondents>
+      <xdms:executor>
+      <xdms:region xdms:id="1468878815419" xdms:retro="false" xdms:modified="1900-01-01T00:00:00">г.Москва</xdms:region>
+      <xdms:organization xdms:id="1206885810986" xdms:retro="false" xdms:modified="2006-08-15T13:21:49.850">Аппарат Правительства Российской Федерации</xdms:organization>
+      <xdms:person xdms:id="1425929146368" xdms:retro="false" xdms:modified="2007-12-21T11:21:08.247">Скляренко Вячеслав Иванович</xdms:person>
+      <xdms:post xdms:id="1447403978850" xdms:retro="false">заместитель начальника отдела</xdms:post>
+      <xdms:contactInfo>5-53-79  985-53-79</xdms:contactInfo>
+      </xdms:executor>
+  </xdms:document>
+  <xdms:files>
+    <xdms:file xdms:localName="text0000000000.pdf" xdms:localId="0">
+      <xdms:group>Текст документа</xdms:group>
+      <xdms:description>текст документа</xdms:description>
+      <xdms:pages>17</xdms:pages>
+    </xdms:file>
+  </xdms:files>
+</xdms:communication>
+

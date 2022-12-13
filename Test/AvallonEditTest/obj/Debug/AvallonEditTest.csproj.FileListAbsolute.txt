@@ -1,0 +1,99 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\AvallonEditTest.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\AvallonEditTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\AvallonEditTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\MainWindow.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\MainWindow.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Test\AvallonEditTest\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\AvallonEditTest.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\AvallonEditTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\AvallonEditTest.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\MainWindow.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\MainWindow.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.GenerateResource.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Test\AvallonEditTest\obj\Debug\AvallonEditTest.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\AvallonEditTest.exe.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\AvallonEditTest.exe
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\AvallonEditTest.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\MainWindow.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\App.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\MainWindow.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.Properties.Resources.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.GenerateResource.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.exe
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Test\AvallonEditTest\obj\Debug\AvallonEditTest.pdb

@@ -1,0 +1,20 @@
+﻿TabViewModule
+
+
+library
+C#
+.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\TabViewModule\obj\Release\
+Medo.Modules.TabViewModule
+none
+false
+TRACE
+
+15-860578522
+
+18-1107785343
+791408129559
+Converters.xaml;Pages\ClientUpdateWindow.xaml;Pages\DocumentsCopyWindow.xaml;Pages\CardEditorWindow.xaml;Styles\MainListView\DublesListView.xaml;Styles\MainListView\ChangedListView.xaml;Styles\MainListView\ListViewItem.xaml;Styles\MainListView\Cells.xaml;Styles\MainListView\Headers.xaml;Styles\MainListView\InvisibleListView.xaml;Styles\MainListView\MainListView.xaml;Styles\MainListView\ContextMenu.xaml;Styles\MainListView\Colors.xaml;Styles\MainListView\Resources.xaml;Views\ViewTabViewModule.xaml;
+
+True
+

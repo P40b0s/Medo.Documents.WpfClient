@@ -1,0 +1,21 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+             xmlns:prism="http://prismlibrary.com/">
+
+
+        <ResourceDictionary.MergedDictionaries>
+            <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+        </ResourceDictionary.MergedDictionaries>
+
+    <!--Контекстное меню-->
+    <ContextMenu x:Key="ListViewContextMenuTemplate" x:Name="menu">
+        <MenuItem Header="Удалить наименование" Command="{Binding ChangeActNameCommand}" CommandParameter="{Binding ElementName=menu, Path=DataContext}" Margin="0,0,0,0" />
+        <MenuItem Header="Восстановить наименование"   Margin="0,10,0,0"/>
+        <MenuItem Header="Скопировать взамен разосланного"  Margin="0,10,0,0"/>
+        <MenuItem Header="Добавить в список невидимых"  Command="{Binding SetDocumentInvisibleCommand}" CommandParameter="{Binding SelectedItem}" Margin="0,10,0,0" />
+    </ContextMenu>
+    
+</ResourceDictionary>

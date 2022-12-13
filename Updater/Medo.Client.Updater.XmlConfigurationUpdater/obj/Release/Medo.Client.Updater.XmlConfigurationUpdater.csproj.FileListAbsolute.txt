@@ -1,0 +1,10 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\Medo.Client.Updater.XmlConfigurationUpdater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\Medo.Client.Updater.XmlConfigurationUpdater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\Medo.Client.Updater.XmlConfigurationUpdater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\bin\Release\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\obj\Release\Medo.Client.Updater.XmlConfigurationUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\obj\Release\Medo.Client.Updater.XmlConfigurationUpdater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Updater.XmlConfigurationUpdater\obj\Release\Medo.Client.Updater.XmlConfigurationUpdater.pdb

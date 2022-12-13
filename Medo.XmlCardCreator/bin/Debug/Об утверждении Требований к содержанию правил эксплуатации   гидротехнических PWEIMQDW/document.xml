@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<xdms:communication xdms:version="2.5" xmlns:xdms="http://www.infpres.com/IEDMS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <xdms:header xdms:type="Документ" xdms:uid="C1DE421E-1252-499B-AF7C-E395E3B000C3" xdms:created="2016-06-15T14:39:31.932">
+        <xdms:source xdms:uid="c20565d9-db37-42f7-8982-fc01d5f2381f">
+            <xdms:organization>Федеральная служба по экологическому, технологическому и атомному надзору</xdms:organization>
+        </xdms:source>
+    </xdms:header>
+    <xdms:document xdms:uid="85D220E8-356A-446B-A6CF-3892A177F797" xdms:id="380264">
+        <xdms:kind>Приказ по основной деятельности</xdms:kind>
+        <xdms:num>
+            <xdms:number>Пр-51</xdms:number>
+            <xdms:date>2015-02-18</xdms:date>
+        </xdms:num>
+        <xdms:classification>Не публиковать</xdms:classification>
+        <xdms:signatories>
+            <xdms:signatory>
+                <xdms:organization>Федеральная служба по экологическому, технологическому и атомному надзору</xdms:organization>
+                <xdms:person>АЛЁШИН А. В.</xdms:person>
+                <xdms:post>Руководитель</xdms:post>
+                <xdms:signed>2015-02-18</xdms:signed>
+            </xdms:signatory>
+        </xdms:signatories>
+        <xdms:addressees>
+            <xdms:addressee>
+                <xdms:organization>Управление обеспечения правовой информатизации Службы специальной связи и информации ФСО России</xdms:organization>
+            </xdms:addressee>
+        </xdms:addressees>
+        <xdms:pages>1</xdms:pages>
+        <xdms:enclosuresPages>0</xdms:enclosuresPages>
+        <xdms:annotation>Об утверждении Требований к содержанию правил эксплуатации 
+гидротехнических сооружений (за исключением судоходных 
+и портовых гидротехнических сооружений)</xdms:annotation>
+        <xdms:correspondents>
+            <xdms:correspondent>
+                <xdms:organization>Федеральная служба по экологическому, технологическому и атомному надзору</xdms:organization>
+                <xdms:person>АЛЁШИН А. В.</xdms:person>
+                <xdms:post>Руководитель</xdms:post>
+                <xdms:num>
+                    <xdms:number>Пр-51</xdms:number>
+                    <xdms:date>2015-02-18</xdms:date>
+                </xdms:num>
+            </xdms:correspondent>
+        </xdms:correspondents>
+        <xdms:executor>
+            <xdms:person>Хныкин А. В.</xdms:person>
+            <xdms:post>Заместитель начальника отдела</xdms:post>
+        </xdms:executor>
+    </xdms:document>
+    <xdms:files>
+        <xdms:file xdms:localName="Пр-51-15 от 18.02.2015.PDF" xdms:localId="0" xdms:type="pdf">
+            <xdms:group>Текст документа</xdms:group>
+            <xdms:description></xdms:description>
+            <xdms:pages>1</xdms:pages>
+        </xdms:file>
+    </xdms:files>
+</xdms:communication>

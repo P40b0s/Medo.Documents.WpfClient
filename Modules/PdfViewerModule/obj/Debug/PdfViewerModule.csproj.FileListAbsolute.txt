@@ -1,0 +1,156 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewPdfViewerModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewPdfViewerModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\PdfViewerModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\PdfViewerModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.CV.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.Util.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\MoonPdfLib.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.CV.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.Util.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\PdfRecognitionViewer.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\PdfRecognitionViewer.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\RectangleCanvas.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\RectangleCanvas.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ExpanderTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\Animations.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\MoonPdfTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ItemsControlStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\SearchTextBlocksStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ItemsControlRectangleStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\CanvasContextMenuTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewContentViewer.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewContentViewer.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ExpanderItemTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\PdfViewerModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\PdfViewerModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.CV.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.Util.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\MoonPdfLib.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\PdfRecognitionViewer.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\RectangleCanvas.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.CV.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Emgu.Util.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\PdfRecognitionViewer.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\bin\Debug\RectangleCanvas.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ExpanderItemTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\CanvasContextMenuTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\SearchTextBlocksStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\Animations.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ExpanderTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewContentViewer.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewPdfViewerModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ItemsControlRectangleStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\ItemsControlStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewContentViewer.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Templates\MoonPdfTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\Views\ViewPdfViewerModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\PdfViewerModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\PdfViewerModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\MoonPdfLib.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\PdfRecognitionViewer.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\RectangleCanvas.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Emgu.CV.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Emgu.Util.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\PdfRecognitionViewer.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\RectangleCanvas.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\ExpanderItemTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\CanvasContextMenuTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\SearchTextBlocksStyle.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\Animations.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\ExpanderTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Views\ViewContentViewer.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Views\ViewPdfViewerModule.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\ItemsControlRectangleStyle.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\ItemsControlStyle.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Views\ViewContentViewer.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Templates\MoonPdfTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\Views\ViewPdfViewerModule.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\obj\Debug\PdfViewerModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Settings.json
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\PdfViewerModule\bin\Debug\Newtonsoft.Json.xml

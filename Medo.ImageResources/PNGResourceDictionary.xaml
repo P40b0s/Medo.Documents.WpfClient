@@ -1,0 +1,76 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <ImageSource x:Key="InfoIco">pack://application:,,,/Medo.ImageResources;component/Images/info.png</ImageSource>
+    <ImageSource x:Key="ObiWanIco">pack://application:,,,/Medo.ImageResources;component/Images/ObiWan.png</ImageSource>
+    <ImageSource x:Key="BlackCatIco">pack://application:,,,/Medo.ImageResources;component/Images/BlackCat.png</ImageSource>
+    <ImageSource x:Key="OkIco">pack://application:,,,/Medo.ImageResources;component/Images/ok-icon.png</ImageSource>
+    <ImageSource x:Key="ClearIcon">pack://application:,,,/Medo.ImageResources;component/Images/DocumentMenuIcons/Clear.png</ImageSource>
+
+    <ImageSource x:Key="FileTypePdfIcon">pack://application:,,,/Medo.ImageResources;component/Images/FileTypes/pdf.png</ImageSource>
+
+    <ImageSource x:Key="Document_UpdateIcon">pack://application:,,,/Medo.ImageResources;component/Images/Documents/file_update.png</ImageSource>
+    <ImageSource x:Key="Document_DeleteIcon">pack://application:,,,/Medo.ImageResources;component/Images/Documents/file_delete.png</ImageSource>
+    <ImageSource x:Key="Document_DownloadIcon">pack://application:,,,/Medo.ImageResources;component/Images/Documents/file_download.png</ImageSource>
+
+    <ImageSource x:Key="Document_Refresh">pack://application:,,,/Medo.ImageResources;component/Images/DocumentMenuIcons/file-refresh.png</ImageSource>
+
+    <ImageSource x:Key="NewUpdateIcon">pack://application:,,,/Medo.ImageResources;component/Images/DocumentMenuIcons/download_ok.png</ImageSource>
+    <ImageSource x:Key="UpdateCenterIcon">pack://application:,,,/Medo.ImageResources;component/Images/DocumentMenuIcons/download.png</ImageSource>
+
+    <ImageSource x:Key="LimeIcon">pack://application:,,,/Medo.ImageResources;component/Images/Lime-icon.png</ImageSource>
+    <ImageSource x:Key="FireIcon">pack://application:,,,/Medo.ImageResources;component/Images/Fire-icon.png</ImageSource>
+    <ImageSource x:Key="SaveIcon">pack://application:,,,/Medo.ImageResources;component/Images/Save-icon.png</ImageSource>
+    <ImageSource x:Key="CancelIcon">pack://application:,,,/Medo.ImageResources;component/Images/cancel.png</ImageSource>
+
+    <ImageSource x:Key="OnlineIcon">pack://application:,,,/Medo.ImageResources;component/Images/Online-icon.png</ImageSource>
+    <ImageSource x:Key="OfflineIcon">pack://application:,,,/Medo.ImageResources;component/Images/Offline-icon.png</ImageSource>
+
+    <ImageSource x:Key="PdfOkIcon">pack://application:,,,/Medo.ImageResources;component/Images/FilesUploader/pdf_ok.png</ImageSource>
+    <ImageSource x:Key="PdfErrorIcon">pack://application:,,,/Medo.ImageResources;component/Images/FilesUploader/pdf_error.png</ImageSource>
+    <ImageSource x:Key="XmlOkIcon">pack://application:,,,/Medo.ImageResources;component/Images/FilesUploader/xml_ok.png</ImageSource>
+    <ImageSource x:Key="XmlErrorIcon">pack://application:,,,/Medo.ImageResources;component/Images/FilesUploader/xml_error.png</ImageSource>
+    <ImageSource x:Key="IzdanieOkIcon">pack://application:,,,/Medo.ImageResources;component/Images/FilesUploader/izdanie_ok.png</ImageSource>
+    <ImageSource x:Key="IzdanieErrorIcon">pack://application:,,,/Medo.ImageResources;component/Images/FilesUploader/izdanie_error.png</ImageSource>
+
+    <ImageSource x:Key="MedoClientUpIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/up-arrow_cyan.png</ImageSource>
+    <ImageSource x:Key="MedoClientDownIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/down-arrow_cyan.png</ImageSource>
+    <ImageSource x:Key="MedoClientLeftIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/left-arrow.png</ImageSource>
+    <ImageSource x:Key="MedoClientRightIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/right-arrow.png</ImageSource>
+    <ImageSource x:Key="MedoClientCancelIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/cancel.png</ImageSource>
+    <ImageSource x:Key="MedoClientSearchIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/Search.png</ImageSource>
+    <ImageSource x:Key="MedoClientVisibleIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/visible.png</ImageSource>
+    <ImageSource x:Key="MedoClientUploadIcon">pack://application:,,,/Medo.ImageResources;component/Images/Documents/file_download.png</ImageSource>
+    <ImageSource x:Key="MedoClientRefreshIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/refresh.png</ImageSource>
+    <ImageSource x:Key="MedoClientRefreshGreenIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/refresh_green.png</ImageSource>
+    <ImageSource x:Key="MedoClientFileDeleteIcon">pack://application:,,,/Medo.ImageResources;component/Images/Documents/Notes.png</ImageSource>
+    <ImageSource x:Key="MedoClientDublicationIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/expand-square.png</ImageSource>
+    <ImageSource x:Key="MedoClientChangeIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/change.png</ImageSource>
+    <ImageSource x:Key="MedoClientLowRegistryIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/textlowregistry.png</ImageSource>
+    <ImageSource x:Key="MedoClientSpellCheckIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/spellcheck.png</ImageSource>
+    <ImageSource x:Key="MedoClientClearIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/edit-clear.png</ImageSource>
+    <ImageSource x:Key="MedoClientDLeftIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/Dleft.png</ImageSource>
+    <ImageSource x:Key="MedoClientDRightIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/DRight.png</ImageSource>
+    <ImageSource x:Key="MedoClientOLeftIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/OLeft.png</ImageSource>
+    <ImageSource x:Key="MedoClientORightIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/ORight.png</ImageSource>
+    <ImageSource x:Key="MedoClientZoomInIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/zoom-in.png</ImageSource>
+    <ImageSource x:Key="MedoClientZoomOutIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/zoom-out.png</ImageSource>
+    <ImageSource x:Key="MedoClientVisibilityVIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/visibility.png</ImageSource>
+    <ImageSource x:Key="MedoClientVisibilityIIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/invisibility.png</ImageSource>
+    <ImageSource x:Key="MedoClientCancelRedIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/cancel_red.png</ImageSource>
+    <ImageSource x:Key="MedoClientBroomIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/broom.png</ImageSource>
+    <ImageSource x:Key="MedoClientErrorIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/error.png</ImageSource>
+    <ImageSource x:Key="MedoClientInfoIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/info.png</ImageSource>
+    <ImageSource x:Key="MedoClientWarningIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/warning.png</ImageSource>
+    <ImageSource x:Key="MedoClientAddIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/add-icon.png</ImageSource>
+    <ImageSource x:Key="UploadDocumentsWindowIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/go_up.png</ImageSource>
+    <ImageSource x:Key="LoadingProcess">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/loading.png</ImageSource>
+    <ImageSource x:Key="ConvertPdfIcon">pack://application:,,,/Medo.ImageResources;component/Images/MedoClient/convertpdf.png</ImageSource>
+
+
+    <!--Region Векторные изображения для заднего фона-->
+    <!--<ImageSource x:Key="GreenWaveVector">pack://application:,,,/Medo.ImageResources;component/Images/BackgroundVectors/green_wave.jpg</ImageSource>-->
+    <!--EndRegion-->
+
+</ResourceDictionary>

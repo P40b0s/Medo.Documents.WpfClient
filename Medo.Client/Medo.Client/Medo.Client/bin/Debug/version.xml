@@ -1,0 +1,343 @@
+﻿<?xml version="1.0"?>
+<UpdaterModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdatePath>\\182.5.202.220\Софт для работы\МЭДО 2.0\</UpdatePath>
+  <Version> 2.1.0.0</Version>
+  <UpdateTime>2017-02-17T15:48:04.5627133+03:00</UpdateTime>
+  <Modules>
+    <ModuleVersion>
+      <Name>CardEditorModule.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\CardEditorModule.dll</Path>
+      <Description>Модуль редактирования карточки документов</Description>
+      <EditTime>2017-02-17T11:34:06.0585024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>ClientUpdateModule.dll</Name>
+      <Version> 1.1.0.2</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\ClientUpdateModule.dll</Path>
+      <Description>Модуль обновления приложения Medo.Client</Description>
+      <EditTime>2017-02-17T14:31:59.8672762+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>DocumentsUploaderModule.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\DocumentsUploaderModule.dll</Path>
+      <Description>Модуль выгрузки документов</Description>
+      <EditTime>2017-02-17T11:32:51.6245024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Emgu.CV.dll</Name>
+      <Version> 3.0.0.2157</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Emgu.CV.dll</Path>
+      <Description>A wrapper for the OpenCV library</Description>
+      <EditTime>2015-06-30T00:22:55+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Emgu.Util.dll</Name>
+      <Version> 3.0.0.2157</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Emgu.Util.dll</Path>
+      <Description>A collection of utilities</Description>
+      <EditTime>2015-06-30T00:22:50+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Hardcodet.Wpf.TaskbarNotification.dll</Name>
+      <Version> 1.0.5.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Hardcodet.Wpf.TaskbarNotification.dll</Path>
+      <Description>NotifyIcon implementation for the WPF platform.</Description>
+      <EditTime>2016-04-02T09:02:26+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>LevenshteinAutomaton.dll</Name>
+      <Version> 1.0.5884.17544</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\LevenshteinAutomaton.dll</Path>
+      <Description />
+      <EditTime>2016-02-10T09:44:50.1207305+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>libmupdf.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\libmupdf.dll</Path>
+      <EditTime>2017-02-17T13:19:07.897281+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>MahApps.Metro.dll</Name>
+      <Version> 1.3.0.150</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\MahApps.Metro.dll</Path>
+      <Description>Toolkit for creating Metro styled WPF apps</Description>
+      <EditTime>2016-05-11T00:09:38+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>MahApps.Metro.SimpleChildWindow.dll</Name>
+      <Version> 1.3.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\MahApps.Metro.SimpleChildWindow.dll</Path>
+      <Description>Версия без закрытия на кнопку close</Description>
+      <EditTime>2016-11-17T11:07:38.1781111+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.Client.Collections.dll</Name>
+      <Version> 1.1.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.Client.Collections.dll</Path>
+      <Description>Все коллекции имеющиеся в приложении</Description>
+      <EditTime>2017-02-17T11:31:29.1883633+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.Client.Updater.Model.dll</Name>
+      <Version> 1.1.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.Client.Updater.Model.dll</Path>
+      <Description>Модель подпрограммы обновления Medo.Client</Description>
+      <EditTime>2017-02-17T09:31:22.0001247+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.Core.dll</Name>
+      <Version> 1.2.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.Core.dll</Path>
+      <Description>Ядро программы</Description>
+      <EditTime>2017-02-17T11:31:22.432039+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.Helpers.dll</Name>
+      <Version> 1.2.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.Helpers.dll</Path>
+      <Description>Модуль с вспомогательными переменными (пути и т.д.)</Description>
+      <EditTime>2017-02-15T10:44:34.5095864+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.ImageResources.dll</Name>
+      <Version> 1.1.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.ImageResources.dll</Path>
+      <Description>Ресурсы значков и иконок</Description>
+      <EditTime>2017-02-15T13:20:50.3900374+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Microsoft.Practices.ServiceLocation.dll</Name>
+      <Version> 1.3.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Microsoft.Practices.ServiceLocation.dll</Path>
+      <Description>A simple facade that provides insulation from specific IoC containers.</Description>
+      <EditTime>2014-05-05T11:25:44+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Microsoft.Practices.Unity.dll</Name>
+      <Version> 4.0.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Microsoft.Practices.Unity.dll</Path>
+      <Description />
+      <EditTime>2015-10-05T09:37:20+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>MoonPdfLib.dll</Name>
+      <Version> 0.2.3.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\MoonPdfLib.dll</Path>
+      <Description>Provides a WPF user control to display PDF files</Description>
+      <EditTime>2014-11-14T16:41:58+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>MouseKeyboardActivityMonitor.dll</Name>
+      <Version> 3.0.1.29653</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\MouseKeyboardActivityMonitor.dll</Path>
+      <Description>This class library contains components to monitor mouse and keyboard activities and provides appropriate events.</Description>
+      <EditTime>2014-11-14T16:41:58+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>NLog.dll</Name>
+      <Version> 4.0.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\NLog.dll</Path>
+      <Description>NLog</Description>
+      <EditTime>2016-04-28T22:38:38+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>PdfRecognitionViewer.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\PdfRecognitionViewer.dll</Path>
+      <Description>Элемент управления для PdfViewerModule (Распознавание текста документа)</Description>
+      <EditTime>2017-02-17T11:31:28.911391+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>PdfViewerModule.dll</Name>
+      <Version> 1.4.0.1</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\PdfViewerModule.dll</Path>
+      <Description>Модуль элемента для просмотра PDF файла</Description>
+      <EditTime>2017-02-17T11:32:50.4235024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Prism.dll</Name>
+      <Version> 6.2.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Prism.dll</Path>
+      <Description />
+      <EditTime>2016-08-09T17:34:52+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Prism.Unity.Wpf.dll</Name>
+      <Version> 6.2.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Prism.Unity.Wpf.dll</Path>
+      <Description />
+      <EditTime>2016-08-09T17:34:54+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Prism.Wpf.dll</Name>
+      <Version> 6.2.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Prism.Wpf.dll</Path>
+      <Description />
+      <EditTime>2016-08-09T17:34:52+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>RectangleCanvas.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\RectangleCanvas.dll</Path>
+      <Description>Элемент управления для PdfViewerModule (прямоугольники для распознавания текста)</Description>
+      <EditTime>2017-02-17T11:31:28.6004221+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>SelectBox.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\SelectBox.dll</Path>
+      <Description>Элемент управления использующийся в CardEditorModule (выбор органа и типа документа)</Description>
+      <EditTime>2017-02-17T11:32:51.9285024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Swordfish.NET.General.dll</Name>
+      <Version> 1.0.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Swordfish.NET.General.dll</Path>
+      <Description />
+      <EditTime>2016-07-14T12:22:05.4594838+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>System.Windows.Interactivity.dll</Name>
+      <Version> 4.5.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\System.Windows.Interactivity.dll</Path>
+      <Description>System.Windows.Interactivity</Description>
+      <EditTime>2016-08-09T17:34:52+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>TabViewModule.dll</Name>
+      <Version> 1.5.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\TabViewModule.dll</Path>
+      <Description>Модуль главного окна приложения (все табы и кнопки)</Description>
+      <EditTime>2017-02-17T11:32:51.1285024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>TextEditor.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\TextEditor.dll</Path>
+      <Description>Элемент управления использующийся в CardEditorModule (редактирование наименования документа)</Description>
+      <EditTime>2017-02-17T11:32:52.1225024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>TrayInfoModule.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\TrayInfoModule.dll</Path>
+      <Description>Модуль информационных сообщений в трее</Description>
+      <EditTime>2017-02-17T11:32:52.1185024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>WcfModule.dll</Name>
+      <Version> 1.4.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\WcfModule.dll</Path>
+      <Description>Модуль для взаимодействия с сервисом WCF на 182.5.202.219</Description>
+      <EditTime>2017-02-17T11:32:50.2525024+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>XmlCardCreator.dll</Name>
+      <Version> 1.2.0.0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\XmlCardCreator.dll</Path>
+      <Description>Создание и валидация XML (схемы МЭДО 2.5 и 2.7)</Description>
+      <EditTime>2017-02-15T10:44:36.1811864+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>cvextern.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x64\cvextern.dll</Path>
+      <Subdir>x64</Subdir>
+      <EditTime>2015-06-29T18:40:09+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>msvcp120.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x64\msvcp120.dll</Path>
+      <Subdir>x64</Subdir>
+      <EditTime>2013-10-05T07:58:24+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>msvcr120.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x64\msvcr120.dll</Path>
+      <Subdir>x64</Subdir>
+      <EditTime>2013-10-05T07:58:24+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>opencv_ffmpeg300_64.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x64\opencv_ffmpeg300_64.dll</Path>
+      <Subdir>x64</Subdir>
+      <EditTime>2014-07-24T16:56:10+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>cvextern.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x86\cvextern.dll</Path>
+      <Subdir>x86</Subdir>
+      <EditTime>2015-06-23T21:51:10+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>msvcp120.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x86\msvcp120.dll</Path>
+      <Subdir>x86</Subdir>
+      <EditTime>2015-06-23T21:51:11+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>msvcr120.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x86\msvcr120.dll</Path>
+      <Subdir>x86</Subdir>
+      <EditTime>2015-06-23T21:51:12+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>opencv_ffmpeg300.dll</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\x86\opencv_ffmpeg300.dll</Path>
+      <Subdir>x86</Subdir>
+      <EditTime>2015-06-19T23:38:18+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.Client.exe</Name>
+      <Version> 2.1.0.1</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.Client.exe</Path>
+      <Description>Приложение предназначено для предварительной обработки документов поступивших по почте МЭДО</Description>
+      <EditTime>2017-02-17T15:47:30.4273001+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>Medo.Client.exe.config</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\Medo.Client.exe.config</Path>
+      <EditTime>2016-11-07T09:47:38.043179+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>NLog.config</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\NLog.config</Path>
+      <Description>Конфиг файл логирования NLog.dll</Description>
+      <EditTime>2017-02-17T13:19:08.0252938+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>version.xml</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\version.xml</Path>
+      <Description>Конфиг файл обновления системы</Description>
+      <EditTime>2017-02-17T15:51:14.4259287+03:00</EditTime>
+    </ModuleVersion>
+    <ModuleVersion>
+      <Name>run.bat</Name>
+      <Version>0</Version>
+      <Path>\\182.5.202.220\Софт для работы\МЭДО 2.0\run.bat</Path>
+      <Description>Бач файл обновления бинарного файла</Description>
+      <EditTime>2017-02-17T15:46:07.2873614+03:00</EditTime>
+    </ModuleVersion>
+  </Modules>
+  <IsCriticalUpdate>false</IsCriticalUpdate>
+  <VersionHistory>Версия 2.0.0.0
+Релиз новой версии программы
+
+Версия 2.1.0.0
+- Добавлен модуль центра обновлений.
+- Добавлена возможность просматривать PDF в директории транспортного пакета МЭДО версии 2.7
+</VersionHistory>
+</UpdaterModel>

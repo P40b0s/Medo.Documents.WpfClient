@@ -1,0 +1,97 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\App.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.GenerateResource.Cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\Views\MedoContactsView.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\obj\Debug\Views\MedoContactsView.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Dapper.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\SupportProjects\ContactsUpdater\bin\Debug\Dapper.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.exe.config
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Dapper.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\Dapper.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\Views\MedoContactsView.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\App.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\App.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\Views\MedoContactsView.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.Properties.Resources.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.GenerateResource.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.exe
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.exe.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.exe
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\ContactsUpdater.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Dapper.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\Dapper.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\Views\MedoContactsView.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\App.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\App.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\Views\MedoContactsView.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.Properties.Resources.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.GenerateResource.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.exe
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\SupportProjects\ContactsUpdater\obj\Debug\ContactsUpdater.pdb

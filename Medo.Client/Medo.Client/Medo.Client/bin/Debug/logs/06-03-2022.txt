@@ -1,0 +1,150 @@
+06-03-2022 13:10:13|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 13:10:14|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 13:10:14|INFO|IKSAR|Подключение директории для Системы: |
+06-03-2022 13:11:06|INFO|IKSAR|Подключение резервного сервера: Error: Unknown, 53|
+06-03-2022 13:11:17|INFO|IKSAR|C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.exe|
+06-03-2022 13:11:17|INFO|IKSAR|Модуль TrayInfoModule загружен|
+06-03-2022 13:11:33|INFO|IKSAR|Модули загружены|
+06-03-2022 13:11:42|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+06-03-2022 13:11:42|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+06-03-2022 13:11:43|FATAL|IKSAR|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.2000000. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__34.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 450|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.2000000. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__34.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 450
+06-03-2022 13:11:51|INFO|IKSAR|Получен документ: Распоряжение Правительства - Аппарат Правительства Российской Федерации - 428-р от 05.03.2022 директория 20381778|
+06-03-2022 20:05:12|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 20:05:12|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 20:05:12|INFO|IKSAR|Подключение директории для Системы: |
+06-03-2022 20:06:04|INFO|IKSAR|Подключение резервного сервера: Error: Unknown, 53|
+06-03-2022 20:06:06|INFO|IKSAR|C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.exe|
+06-03-2022 20:06:06|INFO|IKSAR|Модуль TrayInfoModule загружен|
+06-03-2022 20:06:08|INFO|IKSAR|Модули загружены|
+06-03-2022 20:06:09|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+06-03-2022 20:06:10|FATAL|IKSAR|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0281028. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__35.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 458|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0281028. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__35.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 458
+06-03-2022 20:08:10|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 20:08:11|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 20:08:11|INFO|IKSAR|Подключение директории для Системы: |
+06-03-2022 20:09:03|INFO|IKSAR|Подключение резервного сервера: Error: Unknown, 53|
+06-03-2022 20:09:03|INFO|IKSAR|C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.exe|
+06-03-2022 20:09:03|INFO|IKSAR|Модуль TrayInfoModule загружен|
+06-03-2022 20:09:03|INFO|IKSAR|Модули загружены|
+06-03-2022 20:09:03|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+06-03-2022 20:09:05|FATAL|IKSAR|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0201020. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__35.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 458|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0201020. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__35.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 458
+06-03-2022 20:12:26|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 20:12:26|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+06-03-2022 20:12:26|INFO|IKSAR|Подключение директории для Системы: |
+06-03-2022 20:13:18|INFO|IKSAR|Подключение резервного сервера: Error: Unknown, 53|
+06-03-2022 20:13:18|INFO|IKSAR|C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.exe|
+06-03-2022 20:13:18|INFO|IKSAR|Модуль TrayInfoModule загружен|
+06-03-2022 20:13:18|INFO|IKSAR|Модули загружены|
+06-03-2022 20:13:18|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+06-03-2022 20:13:20|FATAL|IKSAR|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0068993. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__35.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 458|System.ServiceModel.EndpointNotFoundException: Не удалось подключиться к net.tcp://182.5.202.221:999/ReportSenderService. Попытки подключения выполнялись в течение интервала времени 00:00:01.0068993. Код ошибки TCP 10061: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999.  ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 182.5.202.221:999
+   в System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   в System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   в System.ServiceModel.Channels.SocketConnectionInitiator.ConnectAsyncResult.OnConnect(IAsyncResult result)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   в System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   в System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в Medo.Modules.WcfModule.ViewModels.ViewWcfViewModel.<getReportsList>d__35.MoveNext() в C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\WcfModule\ViewModels\ViewWcfViewModel.cs:строка 458

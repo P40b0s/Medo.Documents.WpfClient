@@ -1,0 +1,587 @@
+19-04-2017 10:59:35|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 10:59:35|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 10:59:36|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 10:59:36|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 10:59:37|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 10:59:37|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 10:59:44|INFO|IKSAR|Модули загружены|
+19-04-2017 10:59:51|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 11:01:48|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:01:49|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:01:49|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 11:01:49|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 11:01:52|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 11:01:52|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 11:01:53|INFO|IKSAR|Модули загружены|
+19-04-2017 11:01:55|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 11:03:38|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:03:39|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:03:39|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 11:03:39|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 11:03:41|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 11:03:41|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 11:03:42|INFO|IKSAR|Модули загружены|
+19-04-2017 11:03:43|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 11:20:11|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:20:11|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:20:11|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 11:20:11|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 11:20:12|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 11:20:12|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 11:20:13|INFO|IKSAR|Модули загружены|
+19-04-2017 11:20:15|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 11:21:56|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:21:56|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:21:56|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 11:21:56|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 11:21:57|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 11:21:57|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 11:21:58|INFO|IKSAR|Модули загружены|
+19-04-2017 11:21:59|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 11:24:20|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:24:20|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:24:20|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 11:24:20|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 11:24:21|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 11:24:21|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 11:24:22|INFO|IKSAR|Модули загружены|
+19-04-2017 11:24:23|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 11:31:03|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:31:03|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 11:31:03|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 11:31:03|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 11:31:05|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 11:31:05|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 11:31:06|INFO|IKSAR|Модули загружены|
+19-04-2017 11:31:07|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 12:15:02|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 12:15:02|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 12:15:03|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 12:15:03|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 12:15:04|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 12:15:04|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 12:15:05|INFO|IKSAR|Модули загружены|
+19-04-2017 12:15:06|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 12:17:35|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 12:17:35|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 12:17:35|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 12:17:35|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 12:17:37|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 12:17:37|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 12:17:38|INFO|IKSAR|Модули загружены|
+19-04-2017 12:17:39|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:37:59|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:38:00|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:38:00|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:38:00|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:38:03|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:38:03|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:38:04|INFO|IKSAR|Модули загружены|
+19-04-2017 13:38:05|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:40:57|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:40:57|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:40:57|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:40:57|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:41:00|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:41:00|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:41:01|INFO|IKSAR|Модули загружены|
+19-04-2017 13:41:02|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:44:07|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:44:07|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:44:07|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:44:07|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:44:10|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:44:10|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:44:11|INFO|IKSAR|Модули загружены|
+19-04-2017 13:44:12|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:49:49|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:49:49|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:49:49|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:49:49|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:49:50|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:49:50|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:49:51|INFO|IKSAR|Модули загружены|
+19-04-2017 13:49:52|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:52:19|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:52:19|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:52:19|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:52:19|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:52:22|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:52:22|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:52:23|INFO|IKSAR|Модули загружены|
+19-04-2017 13:52:24|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:55:08|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:55:08|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:55:08|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:55:08|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:55:09|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:55:09|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:55:10|INFO|IKSAR|Модули загружены|
+19-04-2017 13:55:11|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:56:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:56:36|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:56:36|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:56:36|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:56:38|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:56:38|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:56:39|INFO|IKSAR|Модули загружены|
+19-04-2017 13:56:40|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 13:57:45|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:57:45|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 13:57:45|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 13:57:45|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 13:57:46|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 13:57:46|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 13:57:47|INFO|IKSAR|Модули загружены|
+19-04-2017 13:57:48|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:00:01|FATAL|IKSAR|System.ArgumentOutOfRangeException: 0 <= offset <= 79
+Имя параметра: offset
+Фактическое значение было 262.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526|System.ArgumentOutOfRangeException: 0 <= offset <= 79
+Имя параметра: offset
+Фактическое значение было 262.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526
+19-04-2017 14:02:29|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:02:29|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:02:29|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:02:29|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:02:31|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:02:31|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:02:31|INFO|IKSAR|Модули загружены|
+19-04-2017 14:02:32|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:34:23|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:34:23|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:34:23|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:34:23|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:34:24|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:34:24|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:34:25|INFO|IKSAR|Модули загружены|
+19-04-2017 14:34:26|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:35:38|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:35:38|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:35:38|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:35:38|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:35:39|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:35:39|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:35:40|INFO|IKSAR|Модули загружены|
+19-04-2017 14:35:42|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:38:49|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:38:49|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:38:49|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:38:49|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:38:51|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:38:51|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:38:51|INFO|IKSAR|Модули загружены|
+19-04-2017 14:38:53|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:46:50|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:46:50|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:46:50|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:46:50|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:46:51|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:46:51|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:46:52|INFO|IKSAR|Модули загружены|
+19-04-2017 14:46:53|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:53:10|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:53:10|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:53:10|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:53:10|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:53:12|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:53:12|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:53:13|INFO|IKSAR|Модули загружены|
+19-04-2017 14:53:16|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:55:04|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:55:04|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:55:04|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:55:04|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:55:07|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:55:07|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:55:08|INFO|IKSAR|Модули загружены|
+19-04-2017 14:55:10|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:56:15|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:56:15|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:56:15|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:56:15|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:56:17|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:56:17|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:56:19|INFO|IKSAR|Модули загружены|
+19-04-2017 14:56:21|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 14:57:56|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:57:56|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 14:57:57|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 14:57:57|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 14:57:59|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 14:57:59|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 14:58:00|INFO|IKSAR|Модули загружены|
+19-04-2017 14:58:02|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:00:46|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:00:46|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:00:46|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:00:46|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:00:50|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:00:50|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:00:52|INFO|IKSAR|Модули загружены|
+19-04-2017 15:00:54|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:02:03|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:02:03|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:02:03|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:02:03|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:02:06|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:02:06|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:02:07|INFO|IKSAR|Модули загружены|
+19-04-2017 15:02:11|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:04:47|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:04:47|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:04:47|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:04:47|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:04:50|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:04:50|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:04:50|INFO|IKSAR|Модули загружены|
+19-04-2017 15:04:51|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:06:20|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:06:20|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:06:20|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:06:20|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:06:22|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:06:22|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:06:23|INFO|IKSAR|Модули загружены|
+19-04-2017 15:06:24|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:08:10|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:08:10|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:08:10|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:08:10|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:08:13|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:08:13|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:08:14|INFO|IKSAR|Модули загружены|
+19-04-2017 15:08:15|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:09:44|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:09:44|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:09:44|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:09:44|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:09:47|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:09:47|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:09:48|INFO|IKSAR|Модули загружены|
+19-04-2017 15:09:49|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:10:37|FATAL|IKSAR|System.ArgumentOutOfRangeException: 0 <= offset <= 19
+Имя параметра: offset
+Фактическое значение было 71.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526|System.ArgumentOutOfRangeException: 0 <= offset <= 19
+Имя параметра: offset
+Фактическое значение было 71.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526
+19-04-2017 15:10:41|INFO|IKSAR|X:121,322906155399 Y:196,790110998991 W:415,901109989909 H:77,4533396494552 X%:18 Y%:21|
+19-04-2017 15:11:10|FATAL|IKSAR|System.ArgumentOutOfRangeException: 0 <= offset <= 19
+Имя параметра: offset
+Фактическое значение было 113.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526|System.ArgumentOutOfRangeException: 0 <= offset <= 19
+Имя параметра: offset
+Фактическое значение было 113.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526
+19-04-2017 15:11:13|INFO|IKSAR|X:72,9402337228715 Y:246,495492487479 W:508,164941569282 H:77,8232799245994 X%:11 Y%:26|
+19-04-2017 15:11:26|INFO|IKSAR|X:75,18004045853 Y:210,815913688469 W:370,624409979771 H:131,802700142113 X%:12 Y%:23|
+19-04-2017 15:11:41|FATAL|IKSAR|System.ArgumentOutOfRangeException: 0 <= offset <= 19
+Имя параметра: offset
+Фактическое значение было 182.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526|System.ArgumentOutOfRangeException: 0 <= offset <= 19
+Имя параметра: offset
+Фактическое значение было 182.
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLineByOffset(Int32 offset)
+   в ICSharpCode.AvalonEdit.Document.TextDocument.GetLocation(Int32 offset)
+   в ICSharpCode.AvalonEdit.Editing.Caret.set_Offset(Int32 value)
+   в ICSharpCode.AvalonEdit.TextEditor.set_CaretOffset(Int32 value)
+   в Medo.Modules.CardEditorModule.Behaviors.AvalonBehavior.PropertyChangedCallback(DependencyObject dependencyObject, DependencyPropertyChangedEventArgs dependencyPropertyChangedEventArgs) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\CardEditorModule\Behaviors\AvalonBehavior.cs:строка 42
+   в System.Windows.DependencyObject.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.Freezable.OnPropertyChanged(DependencyPropertyChangedEventArgs e)
+   в System.Windows.DependencyObject.NotifyPropertyChange(DependencyPropertyChangedEventArgs args)
+   в System.Windows.DependencyObject.UpdateEffectiveValue(EntryIndex entryIndex, DependencyProperty dp, PropertyMetadata metadata, EffectiveValueEntry oldEntry, EffectiveValueEntry& newEntry, Boolean coerceWithDeferredReference, Boolean coerceWithCurrentValue, OperationType operationType)
+   в System.Windows.DependencyObject.InvalidateProperty(DependencyProperty dp, Boolean preserveCurrentValue)
+   в System.Windows.Data.BindingExpressionBase.Invalidate(Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.TransferValue(Object newValue, Boolean isASubPropertyChange)
+   в System.Windows.Data.BindingExpression.ScheduleTransfer(Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.NewValueAvailable(Boolean dependencySourcesChanged, Boolean initialValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.PropertyPathWorker.UpdateSourceValueState(Int32 k, ICollectionView collectionView, Object newValue, Boolean isASubPropertyChange)
+   в MS.Internal.Data.ClrBindingWorker.OnSourcePropertyChanged(Object o, String propName)
+   в MS.Internal.Data.PropertyPathWorker.OnPropertyChanged(Object sender, PropertyChangedEventArgs e)
+   в System.Windows.WeakEventManager.ListenerList`1.DeliverEvent(Object sender, EventArgs e, Type managerType)
+   в System.ComponentModel.PropertyChangedEventManager.OnPropertyChanged(Object sender, PropertyChangedEventArgs args)
+   в System.ComponentModel.PropertyChangedEventHandler.Invoke(Object sender, PropertyChangedEventArgs e)
+   в Medo.Core.Models.BaseModel.OnPropertyChanged(String propertyName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\BaseModel.cs:строка 29
+   в Medo.Core.Models.MedoBaseModel.set_DocumentText(String value) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 396
+   в Medo.Core.Models.MedoBaseModel.Update(ICardEditorInterface cardData, Boolean clearOrganName) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Core\Medo.Core\Models\MainModel\MedoBaseModel.cs:строка 526
+19-04-2017 15:11:44|INFO|IKSAR|X:89,9717457114026 Y:304,690211907165 W:503,753784056509 H:134,883230696352 X%:14 Y%:33|
+19-04-2017 15:13:32|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:13:32|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:13:32|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:13:32|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:13:33|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:13:33|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:13:34|INFO|IKSAR|Модули загружены|
+19-04-2017 15:13:35|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:13:48|INFO|IKSAR|X:89,9717457114026 Y:304,690211907165 W:503,753784056509 H:134,883230696352 X%:14 Y%:33|
+19-04-2017 15:15:49|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:15:49|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:15:49|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:15:49|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:15:51|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:15:51|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:15:51|INFO|IKSAR|Модули загружены|
+19-04-2017 15:15:53|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:20:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:20:37|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:20:37|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:20:37|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:20:40|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:20:40|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:20:40|INFO|IKSAR|Модули загружены|
+19-04-2017 15:20:41|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:22:45|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:22:45|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:22:45|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:22:45|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:22:47|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:22:47|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:22:48|INFO|IKSAR|Модули загружены|
+19-04-2017 15:22:51|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:25:32|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:25:32|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:25:32|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:25:32|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:25:34|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:25:34|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:25:35|INFO|IKSAR|Модули загружены|
+19-04-2017 15:25:36|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:29:09|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:29:09|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:29:09|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:29:09|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:29:11|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:29:11|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:29:11|INFO|IKSAR|Модули загружены|
+19-04-2017 15:29:13|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:29:41|INFO|IKSAR|X:90,3844601412714 Y:306,17961654894 W:506,06458123108 H:134,883230696352 X%:14 Y%:33|
+19-04-2017 15:30:43|INFO|IKSAR|Сохранена карточка: GUID: 6f4233ef-fa30-4e65-830d-328b95921424 Главное управление специальных программ Президента Российской Федерации Приказ 23 Об утверждении Порядка принятия решения об осуществлении контроля за расходами федеральных государственных гражданских служащих Главного управления специальных программ Президента  Российской Федерации, работников организаций, созданных для выполнения задач, поставленных перед Главным управлением специальных программ Президента Российской Федерации, а также за расходами их супруг (супругов) и несовершеннолетних детей|
+19-04-2017 15:32:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:32:36|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:32:36|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:32:36|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:32:37|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:32:37|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:32:38|INFO|IKSAR|Модули загружены|
+19-04-2017 15:32:40|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:38:39|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:38:39|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:38:39|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:38:39|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:38:41|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:38:41|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:38:41|INFO|IKSAR|Модули загружены|
+19-04-2017 15:38:43|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:39:34|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:39:34|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:39:35|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:39:35|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:39:36|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:39:36|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:39:37|INFO|IKSAR|Модули загружены|
+19-04-2017 15:39:38|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 15:52:12|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:52:12|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 15:52:12|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 15:52:12|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 15:52:13|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 15:52:13|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 15:52:14|INFO|IKSAR|Модули загружены|
+19-04-2017 15:52:15|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 16:02:25|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:02:25|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:02:25|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 16:02:25|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 16:02:29|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 16:02:29|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 16:02:29|INFO|IKSAR|Модули загружены|
+19-04-2017 16:02:31|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 16:04:51|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:04:51|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:04:51|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 16:04:51|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 16:04:53|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 16:04:53|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 16:04:54|INFO|IKSAR|Модули загружены|
+19-04-2017 16:04:56|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 16:06:16|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:06:16|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:06:16|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 16:06:16|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 16:06:17|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 16:06:17|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 16:06:18|INFO|IKSAR|Модули загружены|
+19-04-2017 16:06:20|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 16:07:16|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:07:16|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:07:16|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 16:07:16|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 16:07:18|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 16:07:18|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 16:07:19|INFO|IKSAR|Модули загружены|
+19-04-2017 16:07:20|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+19-04-2017 16:10:12|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:10:12|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+19-04-2017 16:10:12|INFO|IKSAR|Подключение директории для Системы: |
+19-04-2017 16:10:12|INFO|IKSAR|Подключение резервного сервера: |
+19-04-2017 16:10:15|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+19-04-2017 16:10:15|INFO|IKSAR|Модуль TrayInfoModule загружен|
+19-04-2017 16:10:16|INFO|IKSAR|Модули загружены|
+19-04-2017 16:10:18|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|

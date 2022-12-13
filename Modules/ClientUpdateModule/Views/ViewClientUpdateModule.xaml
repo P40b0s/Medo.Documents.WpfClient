@@ -1,0 +1,100 @@
+﻿<UserControl x:Class="Medo.Modules.ClientUpdateModule.Views.ViewClientUpdateModule"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"   
+             xmlns:globalCommands="clr-namespace:Medo.Client.GlobalCommands;assembly=Medo.Client.GlobalCommands"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             Height="{Binding ElementName=mainGrid, Path=ActualHeight}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Core;component/Resources/Button.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+
+            <Style x:Key="UpdateButtonStyle" TargetType="{x:Type Button}" BasedOn="{StaticResource {x:Type Button}}">
+                <Setter Property="Content" Value="Обновить"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="Command" Value="{Binding UpdateCommand}"/>
+                <Setter Property="Grid.ColumnSpan" Value="2"/>
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding IsNeedUpdate}" Value="false">
+                        <Setter Property="Visibility" Value="Collapsed"/>
+                    </DataTrigger>
+                </Style.Triggers>
+            </Style>
+            
+            <Style x:Key="IsCriticalAnnotationStyle" TargetType="{x:Type TextBlock}">
+                <Setter Property="Visibility" Value="Hidden"/>
+                <Setter Property="Foreground" Value="#FFF5754F"/>
+                <Setter Property="Grid.ColumnSpan" Value="2"/>
+                <Setter Property="Grid.Row" Value="2"/>
+                <Setter Property="TextWrapping" Value="Wrap"/>
+                <Setter Property="Width" Value="495"/>
+                <Setter Property="FontFamily" Value="Calibri"/>
+                <Setter Property="FontSize" Value="18"/>
+                <Setter Property="Margin" Value="0,5,0,5"/>
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding IsNeedUpdate}" Value="True">
+                        <Setter Property="Visibility" Value="Visible"/>
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding IsCriticalUpdate}" Value="True">
+                        <Setter Property="Text" Value="Получено критическое обновление программного обеспечения. &#x0a;После нажатия кнопки обновить, произойдет обновление и перезагрузка программы."/>
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding IsCriticalUpdate}" Value="False">
+                        <Setter Property="Text" Value="Получены новые обновления программного обеспечения. &#x0a;После нажатия кнопки обновить, произойдет обновление и перезагрузка программы."/>
+                        <Setter Property="Foreground" Value="#FF66AE2A"/>
+                    </DataTrigger>
+                </Style.Triggers>
+            </Style>
+
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid x:Name="mainGrid" MaxWidth="500" Background="#A5FFFFFF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="txt" Style="{StaticResource IsCriticalAnnotationStyle}"/>
+
+        <TextBlock Grid.Row="1" VerticalAlignment="Center" FontSize="16" HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="0,3">
+            <Run Text="Текущая версия: "/>
+            <Run Text="{Binding currentVersion}" Foreground="{Binding currentVersionForeground}" FontSize="20" FontFamily="Calibri" FontWeight="Bold"/>
+            <Run Text=" от: "/>
+            <Run Text="{Binding currentVersionDateTime}" Foreground="{Binding currentVersionForeground}" FontSize="20" FontFamily="Calibri" FontWeight="Bold"/>
+        </TextBlock>
+
+        <TextBlock Grid.Row="0" VerticalAlignment="Center" FontSize="16" HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="0,3">
+            <Run Text="Релиз версия:    "/>
+            <Run Text="{Binding relaseVersion}" Foreground="#FF66AE2A" FontSize="20" FontFamily="Calibri" FontWeight="Bold"/>
+            <Run Text=" от: "/>
+            <Run Text="{Binding relaseVersionDateTime}" Foreground="#FF66AE2A" FontSize="20" FontFamily="Calibri" FontWeight="Bold"/>
+        </TextBlock>
+
+        <TextBox Grid.Row="3"
+                   TextWrapping="Wrap"
+                   FontFamily="Calibri"
+                   FontSize="18"
+                   Margin="0 5 0 0"
+                   IsReadOnly="True"
+                   Grid.ColumnSpan="2"
+                   MaxWidth="490"
+                   ScrollViewer.VerticalScrollBarVisibility="Visible"   
+                   Text="{Binding currentVersionHistory}"/>
+
+        <Button Grid.Column="0" Grid.Row="4" Style="{StaticResource UpdateButtonStyle}"/>
+    </Grid>
+</UserControl>

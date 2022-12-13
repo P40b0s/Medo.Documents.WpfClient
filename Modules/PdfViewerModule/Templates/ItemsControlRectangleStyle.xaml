@@ -1,0 +1,21 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:static="clr-namespace:Medo.Modules.PdfViewerModule"
+             xmlns:prism="http://prismlibrary.com/">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/PdfViewerModule;component/Templates/Animations.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+   
+    <Style x:Key="ItemsControlRectangleStyle" 
+           TargetType="{x:Type Rectangle}">
+        <Setter Property="Width" Value="{Binding ControlRectangleWidth}"/>
+        <Setter Property="Height" Value="{Binding ControlRectangleHeight}"/>
+        <Setter Property="Fill" Value="{Binding FillColor, Mode=TwoWay}"/>
+    </Style>
+
+
+</ResourceDictionary>

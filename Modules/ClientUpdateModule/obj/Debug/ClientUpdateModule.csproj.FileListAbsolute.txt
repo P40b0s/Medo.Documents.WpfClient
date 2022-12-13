@@ -1,0 +1,122 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\Views\ViewClientUpdateModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\ClientUpdateModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\ClientUpdateModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\Views\ViewClientUpdateModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.GlobalCommands.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.GlobalCommands.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ClientUpdateModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\ClientUpdateModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\ClientUpdateModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.GlobalCommands.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.ImageResources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.GlobalCommands.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\Views\ViewClientUpdateModule.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\Views\ViewClientUpdateModule.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\ClientUpdateModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\ClientUpdateModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Client.GlobalCommands.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\NLog.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\NAudio.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Client.GlobalCommands.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.ImageResources.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\NAudio.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\Views\ViewClientUpdateModule.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\Views\ViewClientUpdateModule.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\obj\Debug\ClientUpdateModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ClientUpdateModule\bin\Debug\Newtonsoft.Json.xml

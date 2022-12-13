@@ -1,0 +1,247 @@
+25-01-2018 13:55:02|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 13:55:03|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 13:55:03|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 13:55:03|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 13:55:14|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 13:55:14|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 13:55:24|INFO|IKSAR|Модули загружены|
+25-01-2018 13:55:28|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 13:58:09|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 13:58:09|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 13:58:09|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 13:58:09|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 13:58:12|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 13:58:12|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 13:58:12|INFO|IKSAR|Модули загружены|
+25-01-2018 13:58:13|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 13:59:02|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 13:59:02|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 13:59:02|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 13:59:02|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 13:59:05|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 13:59:05|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 13:59:05|INFO|IKSAR|Модули загружены|
+25-01-2018 13:59:06|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 14:15:02|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 14:15:02|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 14:15:02|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 14:15:02|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 14:15:04|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 14:15:04|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 14:15:05|INFO|IKSAR|Модули загружены|
+25-01-2018 14:15:06|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 14:26:03|INFO|IKSAR|Подключение PAK: |
+25-01-2018 14:26:04|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 14:26:04|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 14:26:04|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 14:26:06|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 14:26:06|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 14:26:06|INFO|IKSAR|Модули загружены|
+25-01-2018 14:26:08|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 14:26:15|FATAL|IKSAR|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 189_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3H6KYZW0".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 189_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3H6KYZW0".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89
+25-01-2018 14:26:17|FATAL|IKSAR|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 188_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3DIPASU4".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 188_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3DIPASU4".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89
+25-01-2018 14:26:18|FATAL|IKSAR|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 189_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3H6KYZW0".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 189_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3H6KYZW0".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89
+25-01-2018 14:26:19|FATAL|IKSAR|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 190_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3J21U6Z4".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 190_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3J21U6Z4".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89
+25-01-2018 14:26:19|FATAL|IKSAR|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 191_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3NECIH6O".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 191_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3NECIH6O".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89
+25-01-2018 14:26:21|FATAL|IKSAR|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 188_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3DIPASU4".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89|System.IO.DirectoryNotFoundException: Не удалось найти часть пути "\\182.5.202.16\CompleteInDocuments\№ 188_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 3DIPASU4".
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   в System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   в System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   в System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   в Medo.Modules.PdfViewerModule.ViewModels.ViewPdfViewerModuleViewModel.DocumentSelectionChanged(Document doc) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\PdfViewerModule\ViewModels\ViewPdfViewerModuleViewModel.cs:строка 89
+25-01-2018 15:14:12|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:14:12|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:14:12|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:14:12|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:14:16|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:14:16|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:14:28|INFO|IKSAR|Модули загружены|
+25-01-2018 15:14:31|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:20:59|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:20:59|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:20:59|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:20:59|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:21:01|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:21:01|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:21:01|INFO|IKSAR|Модули загружены|
+25-01-2018 15:21:02|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:21:03|INFO|IKSAR|Получен документ: Приказ - Минюст России - 196/18-НПА от  директория № 196_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 459D3F5W|
+25-01-2018 15:31:15|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:31:15|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:31:15|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:31:15|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:31:18|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:31:18|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:31:18|INFO|IKSAR|Модули загружены|
+25-01-2018 15:31:19|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:35:27|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:35:27|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:35:27|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:35:27|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:35:28|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:35:28|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:35:29|INFO|IKSAR|Модули загружены|
+25-01-2018 15:35:30|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:35:39|INFO|IKSAR|Получен документ: Приказ - Минюст России - 199/18-НПА от  директория № 199_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 4AKZQOHW|
+25-01-2018 15:44:18|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:44:18|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:44:18|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:44:18|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:44:19|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:44:19|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:44:20|INFO|IKSAR|Модули загружены|
+25-01-2018 15:44:21|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:46:41|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:46:41|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:46:41|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:46:41|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:46:43|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:46:43|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:46:44|INFO|IKSAR|Модули загружены|
+25-01-2018 15:46:45|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:51:29|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:51:29|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:51:29|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:51:29|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:51:30|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:51:30|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:51:31|INFO|IKSAR|Модули загружены|
+25-01-2018 15:51:32|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 15:51:33|INFO|IKSAR|Получен документ: Приказ - Минюст России - 201/18-НПА от  директория № 201_18-НПА от 25_01_2018 Зарегистрированные НПА ФОИВ 4F8HZ0V4|
+25-01-2018 15:52:06|FATAL|IKSAR|System.ArgumentException: The compression 34712 is not supported.
+   в iTextSharp.text.pdf.codec.TiffImage.GetTiffImageColor(TIFFDirectory dir, RandomAccessFileOrArray s)
+   в iTextSharp.text.pdf.codec.TiffImage.GetTiffImage(RandomAccessFileOrArray s, Int32 page, Boolean direct)
+   в iTextSharp.text.Image.GetInstance(Byte[] imgb)
+   в Medo.Client.Notifications.Models.PdfConverterModel.CreatePdfFromImages(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Notifications\Models\PdfConverterModel.cs:строка 114|System.ArgumentException: The compression 34712 is not supported.
+   в iTextSharp.text.pdf.codec.TiffImage.GetTiffImageColor(TIFFDirectory dir, RandomAccessFileOrArray s)
+   в iTextSharp.text.pdf.codec.TiffImage.GetTiffImage(RandomAccessFileOrArray s, Int32 page, Boolean direct)
+   в iTextSharp.text.Image.GetInstance(Byte[] imgb)
+   в Medo.Client.Notifications.Models.PdfConverterModel.CreatePdfFromImages(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Notifications\Models\PdfConverterModel.cs:строка 114
+25-01-2018 15:52:06|FATAL|IKSAR|System.IO.IOException: The document has no pages.
+   в iTextSharp.text.pdf.PdfPages.WritePageTree()
+   в iTextSharp.text.pdf.PdfWriter.Close()
+   в iTextSharp.text.pdf.PdfDocument.Close()
+   в iTextSharp.text.Document.Close()
+   в Medo.Client.Notifications.Models.PdfConverterModel.CreatePdfFromImages(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Notifications\Models\PdfConverterModel.cs:строка 150
+   в Medo.Client.Notifications.Models.PdfConverterModel.<ConvertPdf>b__14_0() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Notifications\Models\PdfConverterModel.cs:строка 81|System.IO.IOException: The document has no pages.
+   в iTextSharp.text.pdf.PdfPages.WritePageTree()
+   в iTextSharp.text.pdf.PdfWriter.Close()
+   в iTextSharp.text.pdf.PdfDocument.Close()
+   в iTextSharp.text.Document.Close()
+   в Medo.Client.Notifications.Models.PdfConverterModel.CreatePdfFromImages(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Notifications\Models\PdfConverterModel.cs:строка 150
+   в Medo.Client.Notifications.Models.PdfConverterModel.<ConvertPdf>b__14_0() в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.Notifications\Models\PdfConverterModel.cs:строка 81
+25-01-2018 15:59:15|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:59:16|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 15:59:16|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 15:59:16|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 15:59:18|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 15:59:18|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 15:59:18|INFO|IKSAR|Модули загружены|
+25-01-2018 15:59:19|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 16:01:36|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:01:36|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:01:36|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 16:01:36|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 16:01:38|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 16:01:38|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 16:01:39|INFO|IKSAR|Модули загружены|
+25-01-2018 16:01:39|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 16:02:55|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:02:55|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:02:55|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 16:02:55|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 16:02:57|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 16:02:57|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 16:02:58|INFO|IKSAR|Модули загружены|
+25-01-2018 16:02:59|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 16:18:50|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:18:50|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:18:50|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 16:18:50|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 16:18:53|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 16:18:53|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 16:18:53|INFO|IKSAR|Модули загружены|
+25-01-2018 16:18:54|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 16:21:52|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:21:52|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:21:52|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 16:21:52|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 16:21:53|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 16:21:53|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 16:21:54|INFO|IKSAR|Модули загружены|
+25-01-2018 16:21:55|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|
+25-01-2018 16:23:23|INFO|IKSAR|Подключение PAK: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:23:23|INFO|IKSAR|Подключение Издание импорт: Ошибка: Несколько подключений от одного рользователя к ресурсам (уже подключено)|
+25-01-2018 16:23:23|INFO|IKSAR|Подключение директории для Системы: |
+25-01-2018 16:23:23|INFO|IKSAR|Подключение резервного сервера: |
+25-01-2018 16:23:25|INFO|IKSAR|C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client\Medo.Client\Medo.Client\bin\Debug\Medo.Client.vshost.exe|
+25-01-2018 16:23:25|INFO|IKSAR|Модуль TrayInfoModule загружен|
+25-01-2018 16:23:26|INFO|IKSAR|Модули загружены|
+25-01-2018 16:23:27|INFO|IKSAR|Приложение успешно синхронизированно с сервисом WCF|

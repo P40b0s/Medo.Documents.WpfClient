@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="Medo.Modules.WcfModule.Views.ViewWcf"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"            
+             prism:ViewModelLocator.AutoWireViewModel="True">
+  
+</UserControl>

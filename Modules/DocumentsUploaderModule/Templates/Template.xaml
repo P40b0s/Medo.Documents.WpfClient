@@ -1,0 +1,156 @@
+﻿<ResourceDictionary 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:converters="clr-namespace:Medo.Modules.DocumentsUploaderModule.Converters"
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:prism="http://prismlibrary.com/">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/Medo.ImageResources;component/PNGResourceDictionary.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/DocumentsUploaderModule;component/Templates/Colors.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+    <converters:ByteToImageConverter x:Key="BytesToImageConverter"/>
+
+    <Style x:Key="ListBoxItemBackground" TargetType="{x:Type ListBoxItem}">
+        <Setter Property="Background" Value="#FFE8F7B3"/>
+        <Style.Triggers>
+
+            <DataTrigger Binding="{Binding IsCopyComplete}" Value="false">
+                <Setter Property="Background" Value="{StaticResource ProgressBarsBackgroundColor}"/>
+            </DataTrigger>
+
+            <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                         Duration="00:00:03"
+                                         From="0"
+                                         To="1"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+
+            <EventTrigger RoutedEvent="FrameworkElement.Unloaded">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                         Duration="00:00:02"
+                                         From="1"
+                                         To="0"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <DataTemplate x:Key="ListItem" DataType="{x:Type ListBoxItem}">
+        <Border BorderBrush="#CCFFFFFF" BorderThickness="0,0,0,3">
+            <Grid x:Name="grid">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="15"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <!--<StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="0" >
+                    <Image x:Name="xmlImage"  Height="15" Visibility="Collapsed"/>
+                    <Image x:Name="pdfImage"  Height="15" Visibility="Collapsed"/>
+                    <Image x:Name="izdanieImage"  Height="15" Visibility="Collapsed"/>
+                </StackPanel>-->
+
+                <Image Source="{Binding SourceGuid, Converter={StaticResource BytesToImageConverter}}" 
+                       VerticalAlignment="Center"
+                       MaxWidth="89"
+                       MaxHeight="89"
+                       HorizontalAlignment="Center"
+                       Grid.Column="0"
+                       Grid.Row="1" 
+                       Stretch="UniformToFill" 
+                       StretchDirection="Both">
+                </Image>
+
+
+                <Border>
+
+                </Border>
+                <StackPanel Orientation="Vertical" Grid.Column="1" Grid.Row="1">
+                    <TextBlock   TextWrapping="Wrap" Foreground="Black" FontFamily="Calibri" FontSize="16">
+                         <Run Text="Принявший орган: " FontWeight="Bold"/>
+                         <Run Text="{Binding OrganName}"/>
+                    </TextBlock>
+                    <TextBlock  TextWrapping="Wrap" Foreground="Black" FontFamily="Calibri" FontSize="16">
+                         <Run Text="Вид документа: " FontWeight="Bold"/>
+                         <Run Text="{Binding ActType}" />
+                    </TextBlock>
+                    <TextBlock x:Name="pakNumber"    TextWrapping="Wrap" Foreground="Black" FontFamily="Calibri" FontSize="16">
+                         <Run Text="Номер МЭДО: " FontWeight="Bold"/>
+                         <Run Text="{Binding DocumentNumber}" />
+                    </TextBlock>
+                    <TextBlock x:Name="izdNumber" TextWrapping="Wrap" Foreground="Black" FontFamily="Calibri" FontSize="16">
+                         <Run Text="Номер документа: " FontWeight="Bold"/>
+                         <Run Text="{Binding ChangedNumber}" />
+                    </TextBlock>
+                    <ListBox ItemsSource="{Binding CopyMessage}" Foreground="Black" FontFamily="Calibri" FontSize="16" Background="Transparent"/>
+                </StackPanel>
+
+            </Grid>
+        </Border>
+        <DataTemplate.Triggers>
+            <DataTrigger Binding="{Binding DocumentNumber}" Value="{x:Null}">
+                <Setter Property="Visibility" TargetName="pakNumber"  Value="Collapsed"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ChangedNumber}" Value="{x:Null}">
+                <Setter Property="Visibility" TargetName="izdNumber"  Value="Collapsed"/>
+            </DataTrigger>
+            <!--<DataTrigger Binding="{Binding CanAnimate}" Value="false">
+                <Setter Property="Visibility" TargetName="pbar"  Value="Collapsed"/>
+            </DataTrigger>-->
+
+            <!--<DataTrigger Binding="{Binding PdfIsCopy}" Value="true">
+                <Setter Property="Source" TargetName="pdfImage"  Value="{StaticResource PdfOkIcon}"/>
+                <Setter Property="ToolTip" TargetName="pdfImage" Value="PDF файл успешно скопирован"/>
+            </DataTrigger>-->
+            <!--<DataTrigger Binding="{Binding PdfIsCopy}" Value="false">
+                <Setter Property="Source" TargetName="pdfImage"  Value="{StaticResource PdfErrorIcon}"/>
+                <Setter Property="ToolTip" TargetName="pdfImage" Value="PDF файл не выгружен"/>
+                <Setter Property="Visibility" TargetName="pdfImage" Value="Visible"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding PdfIsCopy}" Value="true">
+                <Setter Property="Source" TargetName="pdfImage"  Value="{StaticResource PdfOkIcon}"/>
+                <Setter Property="ToolTip" TargetName="pdfImage" Value="PDF файл выгружен"/>
+                <Setter Property="Visibility" TargetName="pdfImage" Value="Visible"/>
+            </DataTrigger>-->
+
+            <!--<DataTrigger Binding="{Binding XmlIsCopy}" Value="true">
+                <Setter Property="Source" TargetName="xmlImage"  Value="{StaticResource XmlOkIcon}"/>
+                <Setter Property="ToolTip" TargetName="xmlImage" Value="XML карточка успешно создана"/>
+            </DataTrigger>-->
+            <!--<DataTrigger Binding="{Binding XmlIsCopy}" Value="false">
+                <Setter Property="Source" TargetName="xmlImage"  Value="{StaticResource XmlErrorIcon}"/>
+                <Setter Property="ToolTip" TargetName="xmlImage" Value="XML карточка не создана"/>
+                <Setter Property="Visibility" TargetName="xmlImage" Value="Visible"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding XmlIsCopy}" Value="true">
+                <Setter Property="Source" TargetName="xmlImage"  Value="{StaticResource XmlOkIcon}"/>
+                <Setter Property="ToolTip" TargetName="xmlImage" Value="XML карточка создана"/>
+                <Setter Property="Visibility" TargetName="xmlImage" Value="Visible"/>
+            </DataTrigger>
+
+            <DataTrigger Binding="{Binding UploadToIzdanieIsCompliete}" Value="false">
+                <Setter Property="Source" TargetName="izdanieImage"  Value="{StaticResource IzdanieErrorIcon}"/>
+                <Setter Property="ToolTip" TargetName="izdanieImage" Value="Документ не загружен в систему Издание"/>
+                <Setter Property="Visibility" TargetName="izdanieImage" Value="Visible"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding UploadToIzdanieIsCompliete}" Value="true">
+                <Setter Property="Source" TargetName="izdanieImage"  Value="{StaticResource IzdanieOkIcon}"/>
+                <Setter Property="ToolTip" TargetName="izdanieImage" Value="Документ загружен в систему Издание"/>
+                <Setter Property="Visibility" TargetName="izdanieImage" Value="Visible"/>
+            </DataTrigger>-->
+        </DataTemplate.Triggers>
+    </DataTemplate>
+</ResourceDictionary>

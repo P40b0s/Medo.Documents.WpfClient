@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="Medo.Client.Notifications.Views.SelectAdressesListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Medo.Client.Notifications;component/Templates/ReportsSenderListStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+
+    <Grid Height="auto" Width="auto" Background="White" Panel.ZIndex="1" MinWidth="800">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0"
+                       Text="{Binding Notification.Title}"
+                       VerticalAlignment="Top"
+                       FontSize="16"
+                       Background="#FFD9FFA2"
+                       FontWeight="Bold"
+                       FontFamily="Arial Black" />
+
+        <ListView
+                      Height="865"
+                      ItemsSource="{Binding Notification.AdressList, NotifyOnSourceUpdated=True, Mode=TwoWay, IsAsync=true}" 
+                      ItemContainerStyle="{StaticResource itemsStyle}"
+                      Grid.Row="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Адрес" CellTemplate="{StaticResource CheckTemplate}"  Width="300"/>
+                    <GridViewColumn Header="Орган" CellTemplate="{StaticResource OrganTemplate}"  Width="700"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button 
+            Background="#FFD9FFA2"
+            TextBlock.FontSize="18"
+            Grid.Row="2"
+            Command="{Binding OkCommand}"
+            >Принять</Button>
+        <!--<Button 
+            Margin="0 0 10 5"   
+            Width="100"
+            TextBlock.FontSize="18"
+            Grid.Row="2"
+            HorizontalAlignment="Right"
+            Command ="{Binding CancelCommand}"
+            Background="#FFD9FFA2"
+            >Отмена</Button>-->
+    </Grid>
+</UserControl>

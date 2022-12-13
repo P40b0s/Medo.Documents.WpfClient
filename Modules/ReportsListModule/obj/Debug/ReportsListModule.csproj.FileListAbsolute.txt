@@ -1,0 +1,218 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\ReportsListModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\Views\ReportsListView.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\Views\ReportsListView.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\ReportsListModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\obj\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Medo.ReportViewer\Modules\ReportsListModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\ReportsListModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\Templates\ListViewItemsStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Medo.ReportSender.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Medo.ReportService.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\NLog.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Medo.ReportSender.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Medo.ReportService.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\Templates\HeadersStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\Templates\CellsTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\ReportsListModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\ReportSender_MedoXmlParser_ReportViewer\Client\Modules\ReportsListModule\obj\Debug\Templates\Button.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\ReportsListModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Templates\ListViewItemsStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Templates\HeadersStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Templates\Button.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Templates\CellsTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\ReportsListModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Client.Collections.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\obj\Debug\Templates\AdressListTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Ionic.Zip.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Helpers.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\ReportsSender\Modules\ReportsListModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Ionic.Zip.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Templates\AdressListTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Templates\ListViewItemsStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Templates\HeadersStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Templates\Button.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\Templates\CellsTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Modules\ReportsListModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\ReportsListModule.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Ionic.Zip.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Prism.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\NLog.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Prism.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.csprojAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Templates\AdressListTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Templates\ListViewItemsStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Templates\HeadersStyle.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.lref
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Templates\Button.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\Templates\CellsTemplate.baml
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.g.resources
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.csproj.CopyComplete
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Modules\ReportsListModule\obj\Debug\ReportsListModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\ReportsListModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\ReportsListModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Ionic.Zip.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Core.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Prism.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\itextsharp.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\MuPDF.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Core.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Client.Collections.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Client.Notifications.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Helpers.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\NLog.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Prism.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Swordfish.NET.General.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\BitMiracle.LibTiff.NET40.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule.csprojAssemblyReference.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Templates\AdressListTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Templates\ListViewItemsStyle.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Templates\HeadersStyle.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Views\ViewReportsList.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule_MarkupCompile.lref
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Templates\Button.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\Templates\CellsTemplate.baml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule.g.resources
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule.csproj.CopyComplete
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\obj\Debug\ReportsListModule.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Settings.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Autofac.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Settings.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Medo.Settings.dll.config
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Autofac.pdb
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Autofac.xml
+C:\Users\Iksar\source\repos\Medo.Documents.WpfClient\Modules\ReportsListModule\bin\Debug\Newtonsoft.Json.xml

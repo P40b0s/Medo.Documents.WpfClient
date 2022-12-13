@@ -1,0 +1,82 @@
+﻿<UserControl x:Class="Medo.Modules.TrayInfoModule.Views.NotificationControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:convertres="clr-namespace:Medo.Modules.TrayInfoModule.Converters"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <UserControl.Resources>
+        <convertres:ByteToImageConverter x:Key="btoimgconverter"/>
+        <Style x:Key="NotificationStyle" TargetType="{x:Type ListBoxItem}">
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="HorizontalContentAlignment" Value="{Binding HorizontalContentAlignment, RelativeSource={RelativeSource AncestorType={x:Type ItemsControl}}}"/>
+            <Setter Property="VerticalContentAlignment" Value="{Binding VerticalContentAlignment, RelativeSource={RelativeSource AncestorType={x:Type ItemsControl}}}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                        <Border x:Name="mainBorder"  BorderBrush="Transparent" BorderThickness="2">
+                            <StackPanel Orientation="Horizontal" Width="450" Background="White" Opacity="0.85">
+
+                                <Border BorderBrush="{Binding ElementName=mainBorder, Path=BorderBrush}" BorderThickness="0,0,1,0">
+                                    <Image Source="{Binding SourceGuid, Converter={StaticResource btoimgconverter}}" MaxWidth="60" />
+                                </Border>
+                                
+                                <Border BorderBrush="{Binding ElementName=mainBorder, Path=BorderBrush}" BorderThickness="0,0,1,0">
+                                    <TextBlock TextWrapping="Wrap" Width="150" Text="{Binding OrganName}" TextAlignment="Center" VerticalAlignment="Center" FontFamily="Calibri" FontWeight="Bold" FontSize="14"/>
+                                </Border>
+                                <Border BorderBrush="{Binding ElementName=mainBorder, Path=BorderBrush}" BorderThickness="0,0,1,0">
+                                    <TextBlock TextWrapping="Wrap" Width="100" Text="{Binding ActType}" TextAlignment="Center" VerticalAlignment="Center" FontFamily="Calibri" FontWeight="Bold"  FontSize="14"/>
+                                </Border>
+                                <Border BorderBrush="{Binding ElementName=mainBorder, Path=BorderBrush}" BorderThickness="0,0,1,0">
+                                    <TextBlock TextWrapping="Wrap" Width="70" Text="{Binding ActNumber}" TextAlignment="Center" VerticalAlignment="Center" FontFamily="Calibri" FontWeight="Bold"  FontSize="14"/>
+                                </Border>
+                                <TextBlock TextWrapping="Wrap" Width="70" Text="{Binding DeliveryTime, StringFormat='{}{0:dd.MM.yyyy HH:mm:ss}'}" TextAlignment="Center" VerticalAlignment="Center" FontFamily="Calibri" FontWeight="Bold"  FontSize="14"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="true">
+                                <Setter Property="Background" TargetName="mainBorder" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value ="true">
+                                <Setter TargetName="mainBorder" Property="Background" Value="Green"/>
+                            </Trigger>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="IsSelected" Value="true"/>
+                                    <Condition Property="Selector.IsSelectionActive" Value="false"/>
+                                </MultiTrigger.Conditions>
+                                <Setter Property="Background" TargetName="mainBorder" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                            </MultiTrigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                            </Trigger>
+                            
+                            <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                         Duration="00:00:02"
+                                         From="0"
+                                         To="1"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+
+                            <EventTrigger RoutedEvent="FrameworkElement.Unloaded">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                         Duration="00:00:02"
+                                         From="1"
+                                         To="0"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+      
+    </UserControl.Resources>
+    <ListBox x:Name="itemsListBox" SelectionMode="Single"  Background="Transparent" BorderBrush="Transparent" ItemContainerStyle="{StaticResource NotificationStyle}"  ItemsSource="{Binding NotificationsCollection}"/>
+</UserControl>

@@ -1,0 +1,507 @@
+17-11-2017 12:34:11|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header" типа "XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface". Дополнительные сведения см. во внутреннем исключении. ---> System.NotSupportedException: Невозможно сериализовать член XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header типа XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface, т.к. он является интерфейсом.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header" типа "XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface". Дополнительные сведения см. во внутреннем исключении. ---> System.NotSupportedException: Невозможно сериализовать член XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header типа XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface, т.к. он является интерфейсом.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112
+17-11-2017 12:40:38|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header" типа "XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface". Дополнительные сведения см. во внутреннем исключении. ---> System.NotSupportedException: Невозможно сериализовать член XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header типа XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface, т.к. он является интерфейсом.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header" типа "XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface". Дополнительные сведения см. во внутреннем исключении. ---> System.NotSupportedException: Невозможно сериализовать член XmlCardCreator.Models.NotificationModels.PublicationNotificationModel.Header типа XmlCardCreator.Interfaces.NotificationsInterfaces.IHeaderInterface, т.к. он является интерфейсом.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112
+17-11-2017 12:42:44|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Header". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.HeaderModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationsModels.StructureModels.HeaderModel.Source" типа "XmlCardCreator.Interfaces.NotificationsInterfaces.ISourceInterface". Дополнительные сведения см. во внутреннем исключении. ---> System.NotSupportedException: Невозможно сериализовать член XmlCardCreator.Models.NotificationsModels.StructureModels.HeaderModel.Source типа XmlCardCreator.Interfaces.NotificationsInterfaces.ISourceInterface, т.к. он является интерфейсом.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Header". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.HeaderModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationsModels.StructureModels.HeaderModel.Source" типа "XmlCardCreator.Interfaces.NotificationsInterfaces.ISourceInterface". Дополнительные сведения см. во внутреннем исключении. ---> System.NotSupportedException: Невозможно сериализовать член XmlCardCreator.Models.NotificationsModels.StructureModels.HeaderModel.Source типа XmlCardCreator.Interfaces.NotificationsInterfaces.ISourceInterface, т.к. он является интерфейсом.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112
+17-11-2017 13:27:16|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateAndNumber". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Date". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "System.DateTime". ---> System.InvalidOperationException: Невозможно использовать значение "dd.MM.yyyy" для свойства XmlElementAttribute.DataType. Отсутствует тип данных "http://www.w3.org/2001/XMLSchema:dd.MM.yyyy".
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateAndNumber". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Date". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "System.DateTime". ---> System.InvalidOperationException: Невозможно использовать значение "dd.MM.yyyy" для свойства XmlElementAttribute.DataType. Отсутствует тип данных "http://www.w3.org/2001/XMLSchema:dd.MM.yyyy".
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112
+17-11-2017 13:39:36|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateAndNumber". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateT". ---> System.InvalidOperationException: Элемент XML "date" из пространства имен "http://www.infpres.com/IEDMS" уже имеется в текущей области действия. Используйте атрибуты XML, чтобы задать другое имя или пространство имен XML для элемента.
+   в System.Xml.Serialization.XmlReflectionImporter.AddUniqueAccessor(INameScope scope, Accessor accessor)
+   в System.Xml.Serialization.XmlReflectionImporter.AddUniqueAccessor(MemberMapping member, INameScope elements, INameScope attributes, Boolean isSequence)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateAndNumber". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateT". ---> System.InvalidOperationException: Элемент XML "date" из пространства имен "http://www.infpres.com/IEDMS" уже имеется в текущей области действия. Используйте атрибуты XML, чтобы задать другое имя или пространство имен XML для элемента.
+   в System.Xml.Serialization.XmlReflectionImporter.AddUniqueAccessor(INameScope scope, Accessor accessor)
+   в System.Xml.Serialization.XmlReflectionImporter.AddUniqueAccessor(MemberMapping member, INameScope elements, INameScope attributes, Boolean isSequence)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112
+17-11-2017 13:47:56|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel.DateAndNumber" типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". Дополнительные сведения см. во внутреннем исключении. ---> System.InvalidOperationException: Невозможно сериализовать XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel, т. к. он не имеет беспараметрического конструктора.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Не удается сериализовать член "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel.DateAndNumber" типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". Дополнительные сведения см. во внутреннем исключении. ---> System.InvalidOperationException: Невозможно сериализовать XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel, т. к. он не имеет беспараметрического конструктора.
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.StructModel.CheckSupportedMember(TypeDesc typeDesc, MemberInfo member, Type type)
+   в System.Xml.Serialization.StructModel.GetPropertyModel(PropertyInfo propertyInfo)
+   в System.Xml.Serialization.StructModel.GetFieldModel(MemberInfo memberInfo)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112
+17-11-2017 14:46:20|FATAL|IKSAR|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateAndNumber". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "MJDate". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "System.String". ---> System.InvalidOperationException: "date" является недопустимым значением свойства XmlElementAttribute.DataType. date невозможно преобразовать в System.String.
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112|System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationModels.PublicationNotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Notification". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.NotificationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Published". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DocumentPublishedModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "Foundation". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.FoundationModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "DateAndNumber". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "XmlCardCreator.Models.NotificationsModels.StructureModels.DateAndNumberModel". ---> System.InvalidOperationException: Возникла ошибка при отражении свойства "MJDate". ---> System.InvalidOperationException: Возникла ошибка при отражении типа "System.String". ---> System.InvalidOperationException: "date" является недопустимым значением свойства XmlElementAttribute.DataType. date невозможно преобразовать в System.String.
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportAccessorMapping(MemberMapping accessor, FieldModel model, XmlAttributes a, String ns, Type choiceIdentifierType, Boolean rpc, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportFieldMapping(StructModel parent, FieldModel model, XmlAttributes a, String ns, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.InitializeStructMembers(StructMapping mapping, StructModel model, Boolean openModel, String typeName, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportStructLikeMapping(StructModel model, String ns, Boolean openModel, XmlAttributes a, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   в System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   в System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   в XmlCardCreator.CreateNotificationReport.SaveNotificationReport(String path) в C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\XmlCardCreator\CreateNotificationReport.cs:строка 112

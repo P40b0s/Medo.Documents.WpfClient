@@ -1,0 +1,15 @@
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.UpdaterModel\bin\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.UpdaterModel\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.UpdaterModel\bin\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.UpdaterModel\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.csprojResolveAssemblyReference.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service\Medo\Updater\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.UpdaterModel\bin\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.UpdaterModel\bin\Debug\Medo.Client.Updater.Model.pdb
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.csproj.CoreCompileInputs.cache
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.dll
+C:\Users\Iksar\Documents\Visual Studio 2015\Projects\Medo.Wcf.Service_obsolette\Medo\Updater\Medo.Client.UpdaterModel\obj\Debug\Medo.Client.Updater.Model.pdb
